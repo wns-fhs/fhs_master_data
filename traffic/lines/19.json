@@ -1,0 +1,18 @@
+{
+    "11311": {
+        "company_cd": 2,
+        "line_name": "JR中央本線(東京～塩尻)"
+    },
+    "11401": {
+        "company_cd": 2,
+        "line_name": "小海線"
+    },
+    "11402": {
+        "company_cd": 3,
+        "line_name": "JR身延線"
+    },
+    "99401": {
+        "company_cd": 154,
+        "line_name": "富士急行線"
+    }
+}

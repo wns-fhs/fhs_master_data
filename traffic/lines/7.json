@@ -1,0 +1,54 @@
+{
+    "11216": {
+        "company_cd": 2,
+        "line_name": "山形線"
+    },
+    "11225": {
+        "company_cd": 2,
+        "line_name": "JR磐越西線(郡山～会津若松)"
+    },
+    "11226": {
+        "company_cd": 2,
+        "line_name": "森と水とロマンの鉄道"
+    },
+    "11227": {
+        "company_cd": 2,
+        "line_name": "JR只見線"
+    },
+    "11228": {
+        "company_cd": 2,
+        "line_name": "ゆうゆうあぶくまライン"
+    },
+    "11229": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(取手～いわき)"
+    },
+    "11230": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(いわき～仙台)"
+    },
+    "11231": {
+        "company_cd": 2,
+        "line_name": "JR東北本線(黒磯～利府・盛岡)"
+    },
+    "11338": {
+        "company_cd": 2,
+        "line_name": "JR水郡線"
+    },
+    "99213": {
+        "company_cd": 114,
+        "line_name": "阿武隈急行線"
+    },
+    "99215": {
+        "company_cd": 116,
+        "line_name": "福島交通飯坂線"
+    },
+    "99216": {
+        "company_cd": 117,
+        "line_name": "会津鉄道会津線"
+    },
+    "99341": {
+        "company_cd": 153,
+        "line_name": "ほっとスパ・ライン"
+    }
+}

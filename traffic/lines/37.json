@@ -1,0 +1,30 @@
+{
+    "11710": {
+        "company_cd": 4,
+        "line_name": "瀬戸大橋線"
+    },
+    "11801": {
+        "company_cd": 5,
+        "line_name": "JR土讃線"
+    },
+    "11802": {
+        "company_cd": 5,
+        "line_name": "JR高徳線"
+    },
+    "11806": {
+        "company_cd": 5,
+        "line_name": "JR予讃線"
+    },
+    "99802": {
+        "company_cd": 225,
+        "line_name": "琴電琴平線"
+    },
+    "99803": {
+        "company_cd": 225,
+        "line_name": "琴電長尾線"
+    },
+    "99804": {
+        "company_cd": 225,
+        "line_name": "琴電志度線"
+    }
+}

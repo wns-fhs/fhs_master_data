@@ -1,0 +1,90 @@
+{
+    "11508": {
+        "company_cd": 3,
+        "line_name": "JR関西本線(名古屋～亀山)"
+    },
+    "11509": {
+        "company_cd": 4,
+        "line_name": "JR関西本線(亀山～加茂)"
+    },
+    "11510": {
+        "company_cd": 3,
+        "line_name": "JR紀勢本線"
+    },
+    "11511": {
+        "company_cd": 4,
+        "line_name": "JR草津線"
+    },
+    "11512": {
+        "company_cd": 3,
+        "line_name": "JR参宮線"
+    },
+    "11513": {
+        "company_cd": 3,
+        "line_name": "JR名松線"
+    },
+    "31004": {
+        "company_cd": 21,
+        "line_name": "近鉄養老線"
+    },
+    "31005": {
+        "company_cd": 21,
+        "line_name": "近鉄大阪線"
+    },
+    "31006": {
+        "company_cd": 21,
+        "line_name": "近鉄伊賀線"
+    },
+    "31008": {
+        "company_cd": 21,
+        "line_name": "近鉄湯の山線"
+    },
+    "31009": {
+        "company_cd": 21,
+        "line_name": "近鉄山田線"
+    },
+    "31010": {
+        "company_cd": 21,
+        "line_name": "近鉄鳥羽線"
+    },
+    "31013": {
+        "company_cd": 247,
+        "line_name": "内部線"
+    },
+    "31014": {
+        "company_cd": 247,
+        "line_name": "八王子線"
+    },
+    "31015": {
+        "company_cd": 21,
+        "line_name": "近鉄志摩線"
+    },
+    "31019": {
+        "company_cd": 21,
+        "line_name": "近鉄鈴鹿線"
+    },
+    "31027": {
+        "company_cd": 21,
+        "line_name": "近鉄名古屋線"
+    },
+    "99528": {
+        "company_cd": 186,
+        "line_name": "三岐鉄道三岐線"
+    },
+    "99529": {
+        "company_cd": 186,
+        "line_name": "三岐鉄道北勢線"
+    },
+    "99530": {
+        "company_cd": 187,
+        "line_name": "伊勢鉄道伊勢線"
+    },
+    "99531": {
+        "company_cd": 188,
+        "line_name": "伊賀鉄道伊賀線"
+    },
+    "99532": {
+        "company_cd": 189,
+        "line_name": "養老鉄道養老線"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "11419": {
+        "company_cd": 4,
+        "line_name": "JR七尾線"
+    },
+    "99416": {
+        "company_cd": 165,
+        "line_name": "北陸鉄道石川線"
+    },
+    "99417": {
+        "company_cd": 165,
+        "line_name": "北陸鉄道浅野川線"
+    },
+    "99418": {
+        "company_cd": 166,
+        "line_name": "のと鉄道七尾線"
+    },
+    "99425": {
+        "company_cd": 245,
+        "line_name": "あいの風とやま鉄道線"
+    },
+    "99426": {
+        "company_cd": 246,
+        "line_name": "IRいしかわ鉄道線"
+    },
+    "99428": {
+        "company_cd": 251,
+        "line_name": "ハピラインふくい線"
+    }
+}

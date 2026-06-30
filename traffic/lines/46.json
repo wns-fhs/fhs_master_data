@@ -1,0 +1,42 @@
+{
+    "11904": {
+        "company_cd": 6,
+        "line_name": "JR鹿児島本線(川内～鹿児島)"
+    },
+    "11907": {
+        "company_cd": 6,
+        "line_name": "JR日豊本線(佐伯～鹿児島中央)"
+    },
+    "11925": {
+        "company_cd": 6,
+        "line_name": "えびの高原線(八代～吉松)"
+    },
+    "11926": {
+        "company_cd": 6,
+        "line_name": "JR肥薩線(吉松～隼人)"
+    },
+    "11928": {
+        "company_cd": 6,
+        "line_name": "JR日南線"
+    },
+    "11929": {
+        "company_cd": 6,
+        "line_name": "えびの高原線"
+    },
+    "11930": {
+        "company_cd": 6,
+        "line_name": "JR指宿枕崎線"
+    },
+    "99921": {
+        "company_cd": 240,
+        "line_name": "肥薩おれんじ鉄道線"
+    },
+    "99925": {
+        "company_cd": 242,
+        "line_name": "鹿児島市電１系統"
+    },
+    "99926": {
+        "company_cd": 242,
+        "line_name": "鹿児島市電２系統"
+    }
+}

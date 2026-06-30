@@ -1,0 +1,58 @@
+{
+    "11318": {
+        "company_cd": 2,
+        "line_name": "JR八高線(高麗川～高崎)"
+    },
+    "11323": {
+        "company_cd": 2,
+        "line_name": "JR高崎線"
+    },
+    "11335": {
+        "company_cd": 2,
+        "line_name": "JR吾妻線"
+    },
+    "11337": {
+        "company_cd": 2,
+        "line_name": "JR信越本線"
+    },
+    "11341": {
+        "company_cd": 2,
+        "line_name": "JR両毛線"
+    },
+    "11342": {
+        "company_cd": 2,
+        "line_name": "JR上越線"
+    },
+    "21002": {
+        "company_cd": 11,
+        "line_name": "東武伊勢崎線"
+    },
+    "21003": {
+        "company_cd": 11,
+        "line_name": "東武日光線"
+    },
+    "21010": {
+        "company_cd": 11,
+        "line_name": "東武佐野線"
+    },
+    "21011": {
+        "company_cd": 11,
+        "line_name": "東武桐生線"
+    },
+    "21012": {
+        "company_cd": 11,
+        "line_name": "東武小泉線"
+    },
+    "99312": {
+        "company_cd": 126,
+        "line_name": "わたらせ渓谷線"
+    },
+    "99327": {
+        "company_cd": 140,
+        "line_name": "上信電鉄"
+    },
+    "99328": {
+        "company_cd": 141,
+        "line_name": "上毛電気鉄道上毛線"
+    }
+}

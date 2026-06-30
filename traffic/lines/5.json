@@ -1,0 +1,38 @@
+{
+    "11202": {
+        "company_cd": 2,
+        "line_name": "JR奥羽本線(新庄～青森)"
+    },
+    "11204": {
+        "company_cd": 2,
+        "line_name": "JR五能線"
+    },
+    "11210": {
+        "company_cd": 2,
+        "line_name": "JR北上線"
+    },
+    "11211": {
+        "company_cd": 2,
+        "line_name": "JR田沢湖線"
+    },
+    "11212": {
+        "company_cd": 2,
+        "line_name": "十和田八幡平四季彩ライン"
+    },
+    "11214": {
+        "company_cd": 2,
+        "line_name": "JR羽越本線"
+    },
+    "11215": {
+        "company_cd": 2,
+        "line_name": "JR男鹿線"
+    },
+    "99209": {
+        "company_cd": 110,
+        "line_name": "秋田内陸線"
+    },
+    "99210": {
+        "company_cd": 111,
+        "line_name": "鳥海山ろく線"
+    }
+}

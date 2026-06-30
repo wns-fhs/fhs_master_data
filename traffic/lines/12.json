@@ -1,0 +1,126 @@
+{
+    "11305": {
+        "company_cd": 2,
+        "line_name": "JR武蔵野線"
+    },
+    "11313": {
+        "company_cd": 2,
+        "line_name": "JR中央・総武線"
+    },
+    "11314": {
+        "company_cd": 2,
+        "line_name": "JR総武本線"
+    },
+    "11320": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(上野～取手)"
+    },
+    "11324": {
+        "company_cd": 2,
+        "line_name": "JR外房線"
+    },
+    "11325": {
+        "company_cd": 2,
+        "line_name": "JR内房線"
+    },
+    "11326": {
+        "company_cd": 2,
+        "line_name": "JR京葉線"
+    },
+    "11327": {
+        "company_cd": 2,
+        "line_name": "JR成田線"
+    },
+    "11328": {
+        "company_cd": 2,
+        "line_name": "JR成田エクスプレス"
+    },
+    "11329": {
+        "company_cd": 2,
+        "line_name": "JR鹿島線"
+    },
+    "11330": {
+        "company_cd": 2,
+        "line_name": "JR久留里線"
+    },
+    "11331": {
+        "company_cd": 2,
+        "line_name": "JR東金線"
+    },
+    "21004": {
+        "company_cd": 11,
+        "line_name": "東武アーバンパークライン（東武野田線）"
+    },
+    "23001": {
+        "company_cd": 13,
+        "line_name": "京成本線"
+    },
+    "23004": {
+        "company_cd": 13,
+        "line_name": "京成千葉線"
+    },
+    "23005": {
+        "company_cd": 13,
+        "line_name": "京成千原線"
+    },
+    "23006": {
+        "company_cd": 13,
+        "line_name": "成田スカイアクセス"
+    },
+    "28004": {
+        "company_cd": 18,
+        "line_name": "東京メトロ東西線"
+    },
+    "99304": {
+        "company_cd": 119,
+        "line_name": "都営新宿線"
+    },
+    "99308": {
+        "company_cd": 122,
+        "line_name": "いすみ線"
+    },
+    "99309": {
+        "company_cd": 123,
+        "line_name": "つくばエクスプレス"
+    },
+    "99313": {
+        "company_cd": 127,
+        "line_name": "ユーカリが丘線"
+    },
+    "99324": {
+        "company_cd": 137,
+        "line_name": "芝山鉄道線"
+    },
+    "99325": {
+        "company_cd": 138,
+        "line_name": "小湊鉄道線"
+    },
+    "99329": {
+        "company_cd": 142,
+        "line_name": "新京成線"
+    },
+    "99331": {
+        "company_cd": 144,
+        "line_name": "千葉都市モノレール１号線"
+    },
+    "99332": {
+        "company_cd": 144,
+        "line_name": "千葉都市モノレール２号線"
+    },
+    "99333": {
+        "company_cd": 145,
+        "line_name": "流鉄流山線"
+    },
+    "99335": {
+        "company_cd": 147,
+        "line_name": "銚子電鉄線"
+    },
+    "99338": {
+        "company_cd": 150,
+        "line_name": "東葉高速線"
+    },
+    "99340": {
+        "company_cd": 152,
+        "line_name": "北総鉄道北総線"
+    }
+}

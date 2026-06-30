@@ -1,0 +1,46 @@
+{
+    "11903": {
+        "company_cd": 6,
+        "line_name": "JR鹿児島本線(博多～八代)"
+    },
+    "11923": {
+        "company_cd": 6,
+        "line_name": "阿蘇高原線"
+    },
+    "11924": {
+        "company_cd": 6,
+        "line_name": "三角線（あまくさみすみ線）"
+    },
+    "11925": {
+        "company_cd": 6,
+        "line_name": "えびの高原線(八代～吉松)"
+    },
+    "99917": {
+        "company_cd": 237,
+        "line_name": "熊本電鉄本線"
+    },
+    "99918": {
+        "company_cd": 237,
+        "line_name": "熊本電鉄上熊本線"
+    },
+    "99919": {
+        "company_cd": 238,
+        "line_name": "高森線"
+    },
+    "99920": {
+        "company_cd": 239,
+        "line_name": "湯前線"
+    },
+    "99921": {
+        "company_cd": 240,
+        "line_name": "肥薩おれんじ鉄道線"
+    },
+    "99922": {
+        "company_cd": 241,
+        "line_name": "熊本市電Ａ系統"
+    },
+    "99923": {
+        "company_cd": 241,
+        "line_name": "熊本市電Ｂ系統"
+    }
+}

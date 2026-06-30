@@ -1,0 +1,54 @@
+{
+    "11208": {
+        "company_cd": 2,
+        "line_name": "ドラゴンレール大船渡線"
+    },
+    "11217": {
+        "company_cd": 2,
+        "line_name": "JR仙山線"
+    },
+    "11221": {
+        "company_cd": 2,
+        "line_name": "奥の細道湯けむりライン"
+    },
+    "11222": {
+        "company_cd": 2,
+        "line_name": "JR仙石線"
+    },
+    "11223": {
+        "company_cd": 2,
+        "line_name": "JR石巻線"
+    },
+    "11224": {
+        "company_cd": 2,
+        "line_name": "JR気仙沼線"
+    },
+    "11230": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(いわき～仙台)"
+    },
+    "11231": {
+        "company_cd": 2,
+        "line_name": "JR東北本線(黒磯～利府・盛岡)"
+    },
+    "99212": {
+        "company_cd": 113,
+        "line_name": "くりはら田園鉄道線"
+    },
+    "99213": {
+        "company_cd": 114,
+        "line_name": "阿武隈急行線"
+    },
+    "99214": {
+        "company_cd": 115,
+        "line_name": "仙台市営地下鉄南北線"
+    },
+    "99217": {
+        "company_cd": 118,
+        "line_name": "仙台空港線"
+    },
+    "99218": {
+        "company_cd": 115,
+        "line_name": "仙台市営地下鉄東西線"
+    }
+}

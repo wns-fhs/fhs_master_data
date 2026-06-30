@@ -1,0 +1,22 @@
+{
+    "11907": {
+        "company_cd": 6,
+        "line_name": "JR日豊本線(佐伯～鹿児島中央)"
+    },
+    "11925": {
+        "company_cd": 6,
+        "line_name": "えびの高原線(八代～吉松)"
+    },
+    "11927": {
+        "company_cd": 6,
+        "line_name": "JR宮崎空港線"
+    },
+    "11928": {
+        "company_cd": 6,
+        "line_name": "JR日南線"
+    },
+    "11929": {
+        "company_cd": 6,
+        "line_name": "えびの高原線"
+    }
+}

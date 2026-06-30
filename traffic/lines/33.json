@@ -1,0 +1,66 @@
+{
+    "11609": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(姫路～岡山)"
+    },
+    "11610": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(岡山～三原)"
+    },
+    "11631": {
+        "company_cd": 4,
+        "line_name": "JR赤穂線"
+    },
+    "11634": {
+        "company_cd": 4,
+        "line_name": "JR姫新線(佐用～新見)"
+    },
+    "11703": {
+        "company_cd": 4,
+        "line_name": "JR伯備線"
+    },
+    "11704": {
+        "company_cd": 4,
+        "line_name": "JR因美線"
+    },
+    "11709": {
+        "company_cd": 4,
+        "line_name": "JR宇野線"
+    },
+    "11710": {
+        "company_cd": 4,
+        "line_name": "瀬戸大橋線"
+    },
+    "11713": {
+        "company_cd": 4,
+        "line_name": "JR吉備線"
+    },
+    "11714": {
+        "company_cd": 4,
+        "line_name": "JR芸備線"
+    },
+    "11715": {
+        "company_cd": 4,
+        "line_name": "JR津山線"
+    },
+    "99644": {
+        "company_cd": 210,
+        "line_name": "智頭急行智頭線"
+    },
+    "99704": {
+        "company_cd": 217,
+        "line_name": "水島本線"
+    },
+    "99705": {
+        "company_cd": 218,
+        "line_name": "井原線"
+    },
+    "99706": {
+        "company_cd": 219,
+        "line_name": "東山線"
+    },
+    "99707": {
+        "company_cd": 219,
+        "line_name": "清輝橋線"
+    }
+}

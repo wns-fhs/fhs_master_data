@@ -1,0 +1,30 @@
+{
+    "11616": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(豊岡～米子)"
+    },
+    "11701": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(米子～益田)"
+    },
+    "11703": {
+        "company_cd": 4,
+        "line_name": "JR伯備線"
+    },
+    "11704": {
+        "company_cd": 4,
+        "line_name": "JR因美線"
+    },
+    "11705": {
+        "company_cd": 4,
+        "line_name": "JR境線"
+    },
+    "99644": {
+        "company_cd": 210,
+        "line_name": "智頭急行智頭線"
+    },
+    "99701": {
+        "company_cd": 215,
+        "line_name": "若桜線"
+    }
+}

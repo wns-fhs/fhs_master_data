@@ -1,0 +1,54 @@
+{
+    "11229": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(取手～いわき)"
+    },
+    "11319": {
+        "company_cd": 2,
+        "line_name": "宇都宮線"
+    },
+    "11320": {
+        "company_cd": 2,
+        "line_name": "JR常磐線(上野～取手)"
+    },
+    "11329": {
+        "company_cd": 2,
+        "line_name": "JR鹿島線"
+    },
+    "11338": {
+        "company_cd": 2,
+        "line_name": "JR水郡線"
+    },
+    "11339": {
+        "company_cd": 2,
+        "line_name": "JR水戸線"
+    },
+    "99309": {
+        "company_cd": 123,
+        "line_name": "つくばエクスプレス"
+    },
+    "99315": {
+        "company_cd": 129,
+        "line_name": "ひたちなか海浜鉄道湊線"
+    },
+    "99318": {
+        "company_cd": 132,
+        "line_name": "関東鉄道常総線"
+    },
+    "99319": {
+        "company_cd": 132,
+        "line_name": "関東鉄道竜ヶ崎線"
+    },
+    "99322": {
+        "company_cd": 135,
+        "line_name": "鹿島鉄道線"
+    },
+    "99323": {
+        "company_cd": 136,
+        "line_name": "鹿島臨海鉄道大洗鹿島線"
+    },
+    "99330": {
+        "company_cd": 143,
+        "line_name": "真岡鐵道真岡線"
+    }
+}

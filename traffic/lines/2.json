@@ -1,0 +1,54 @@
+{
+    "11118": {
+        "company_cd": 1,
+        "line_name": "JR海峡線"
+    },
+    "11201": {
+        "company_cd": 2,
+        "line_name": "JR東北本線(八戸～青森)"
+    },
+    "11202": {
+        "company_cd": 2,
+        "line_name": "JR奥羽本線(新庄～青森)"
+    },
+    "11203": {
+        "company_cd": 2,
+        "line_name": "はまなすベイライン大湊線"
+    },
+    "11204": {
+        "company_cd": 2,
+        "line_name": "JR五能線"
+    },
+    "11205": {
+        "company_cd": 2,
+        "line_name": "JR津軽線"
+    },
+    "11206": {
+        "company_cd": 2,
+        "line_name": "JR八戸線"
+    },
+    "99201": {
+        "company_cd": 104,
+        "line_name": "津軽鉄道線"
+    },
+    "99202": {
+        "company_cd": 105,
+        "line_name": "弘南鉄道弘南線"
+    },
+    "99203": {
+        "company_cd": 105,
+        "line_name": "弘南鉄道大鰐線"
+    },
+    "99204": {
+        "company_cd": 106,
+        "line_name": "十和田観光電鉄"
+    },
+    "99205": {
+        "company_cd": 107,
+        "line_name": "いわて銀河鉄道線"
+    },
+    "99206": {
+        "company_cd": 108,
+        "line_name": "青い森鉄道線"
+    }
+}

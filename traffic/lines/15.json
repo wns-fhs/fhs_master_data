@@ -1,0 +1,66 @@
+{
+    "11214": {
+        "company_cd": 2,
+        "line_name": "JR羽越本線"
+    },
+    "11219": {
+        "company_cd": 2,
+        "line_name": "JR米坂線"
+    },
+    "11226": {
+        "company_cd": 2,
+        "line_name": "森と水とロマンの鉄道"
+    },
+    "11227": {
+        "company_cd": 2,
+        "line_name": "JR只見線"
+    },
+    "11342": {
+        "company_cd": 2,
+        "line_name": "JR上越線"
+    },
+    "11404": {
+        "company_cd": 2,
+        "line_name": "JR信越本線(直江津～新潟)"
+    },
+    "11406": {
+        "company_cd": 2,
+        "line_name": "JR白新線"
+    },
+    "11407": {
+        "company_cd": 2,
+        "line_name": "JR飯山線"
+    },
+    "11408": {
+        "company_cd": 2,
+        "line_name": "JR越後線"
+    },
+    "11409": {
+        "company_cd": 2,
+        "line_name": "北アルプス線"
+    },
+    "11410": {
+        "company_cd": 2,
+        "line_name": "JR弥彦線"
+    },
+    "99402": {
+        "company_cd": 155,
+        "line_name": "北越急行ほくほく線"
+    },
+    "99423": {
+        "company_cd": 244,
+        "line_name": "日本海ひすいライン"
+    },
+    "99424": {
+        "company_cd": 244,
+        "line_name": "妙高はねうまライン"
+    },
+    "99425": {
+        "company_cd": 245,
+        "line_name": "あいの風とやま鉄道線"
+    },
+    "99427": {
+        "company_cd": 156,
+        "line_name": "北しなの線"
+    }
+}

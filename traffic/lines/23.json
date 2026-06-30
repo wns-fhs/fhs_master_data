@@ -1,0 +1,158 @@
+{
+    "11411": {
+        "company_cd": 3,
+        "line_name": "JR中央本線(名古屋～塩尻)"
+    },
+    "11413": {
+        "company_cd": 3,
+        "line_name": "JR飯田線(豊橋～天竜峡)"
+    },
+    "11502": {
+        "company_cd": 3,
+        "line_name": "JR東海道本線(浜松～岐阜)"
+    },
+    "11506": {
+        "company_cd": 3,
+        "line_name": "JR武豊線"
+    },
+    "11508": {
+        "company_cd": 3,
+        "line_name": "JR関西本線(名古屋～亀山)"
+    },
+    "30001": {
+        "company_cd": 20,
+        "line_name": "名鉄名古屋本線"
+    },
+    "30002": {
+        "company_cd": 20,
+        "line_name": "名鉄豊川線"
+    },
+    "30003": {
+        "company_cd": 20,
+        "line_name": "名鉄西尾線"
+    },
+    "30004": {
+        "company_cd": 20,
+        "line_name": "名鉄蒲郡線"
+    },
+    "30005": {
+        "company_cd": 20,
+        "line_name": "名鉄三河線"
+    },
+    "30006": {
+        "company_cd": 20,
+        "line_name": "名鉄豊田線"
+    },
+    "30007": {
+        "company_cd": 20,
+        "line_name": "名鉄常滑・空港線"
+    },
+    "30008": {
+        "company_cd": 20,
+        "line_name": "名鉄常滑線"
+    },
+    "30009": {
+        "company_cd": 20,
+        "line_name": "名鉄河和線"
+    },
+    "30010": {
+        "company_cd": 20,
+        "line_name": "名鉄知多新線"
+    },
+    "30011": {
+        "company_cd": 20,
+        "line_name": "名鉄築港線"
+    },
+    "30012": {
+        "company_cd": 20,
+        "line_name": "名鉄瀬戸線"
+    },
+    "30013": {
+        "company_cd": 20,
+        "line_name": "名鉄津島線"
+    },
+    "30014": {
+        "company_cd": 20,
+        "line_name": "名鉄尾西線"
+    },
+    "30015": {
+        "company_cd": 20,
+        "line_name": "名鉄犬山線"
+    },
+    "30017": {
+        "company_cd": 20,
+        "line_name": "名鉄広見線"
+    },
+    "30018": {
+        "company_cd": 20,
+        "line_name": "名鉄小牧線"
+    },
+    "30019": {
+        "company_cd": 20,
+        "line_name": "犬山モノレール"
+    },
+    "31027": {
+        "company_cd": 21,
+        "line_name": "近鉄名古屋線"
+    },
+    "99509": {
+        "company_cd": 175,
+        "line_name": "あおなみ線"
+    },
+    "99510": {
+        "company_cd": 176,
+        "line_name": "東海交通事業城北線"
+    },
+    "99511": {
+        "company_cd": 177,
+        "line_name": "愛知環状鉄道線"
+    },
+    "99512": {
+        "company_cd": 178,
+        "line_name": "リニモ"
+    },
+    "99513": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄東山線"
+    },
+    "99514": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄名城線"
+    },
+    "99515": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄名港線"
+    },
+    "99516": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄鶴舞線"
+    },
+    "99517": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄桜通線"
+    },
+    "99518": {
+        "company_cd": 179,
+        "line_name": "名古屋市営地下鉄上飯田線"
+    },
+    "99519": {
+        "company_cd": 180,
+        "line_name": "ピーチライナー"
+    },
+    "99520": {
+        "company_cd": 181,
+        "line_name": "豊橋鉄道渥美線"
+    },
+    "99521": {
+        "company_cd": 181,
+        "line_name": "豊橋鉄道東田本線"
+    },
+    "99522": {
+        "company_cd": 181,
+        "line_name": "豊橋鉄道運動公園前線"
+    },
+    "99523": {
+        "company_cd": 182,
+        "line_name": "ゆとりーとライン"
+    }
+}

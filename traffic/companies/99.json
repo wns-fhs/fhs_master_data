@@ -1,0 +1,524 @@
+{
+    "1": {
+        "company_name": "JR北海道"
+    },
+    "2": {
+        "company_name": "JR東日本"
+    },
+    "3": {
+        "company_name": "JR東海"
+    },
+    "4": {
+        "company_name": "JR西日本"
+    },
+    "5": {
+        "company_name": "JR四国"
+    },
+    "6": {
+        "company_name": "JR九州"
+    },
+    "11": {
+        "company_name": "東武鉄道"
+    },
+    "12": {
+        "company_name": "西武鉄道"
+    },
+    "13": {
+        "company_name": "京成電鉄"
+    },
+    "14": {
+        "company_name": "京王電鉄"
+    },
+    "15": {
+        "company_name": "小田急電鉄"
+    },
+    "16": {
+        "company_name": "東急電鉄"
+    },
+    "17": {
+        "company_name": "京急電鉄"
+    },
+    "18": {
+        "company_name": "東京メトロ"
+    },
+    "19": {
+        "company_name": "相模鉄道"
+    },
+    "20": {
+        "company_name": "名古屋鉄道"
+    },
+    "21": {
+        "company_name": "近畿日本鉄道"
+    },
+    "22": {
+        "company_name": "南海電鉄"
+    },
+    "23": {
+        "company_name": "京阪電鉄"
+    },
+    "24": {
+        "company_name": "阪急電鉄"
+    },
+    "25": {
+        "company_name": "阪神電鉄"
+    },
+    "26": {
+        "company_name": "西日本鉄道"
+    },
+    "101": {
+        "company_name": "札幌市交通局"
+    },
+    "102": {
+        "company_name": "函館市交通局"
+    },
+    "103": {
+        "company_name": "北海道ちほく高原鉄道"
+    },
+    "104": {
+        "company_name": "津軽鉄道"
+    },
+    "105": {
+        "company_name": "弘南鉄道"
+    },
+    "106": {
+        "company_name": "十和田観光電鉄"
+    },
+    "107": {
+        "company_name": "IGRいわて銀河鉄道"
+    },
+    "108": {
+        "company_name": "青い森鉄道"
+    },
+    "109": {
+        "company_name": "三陸鉄道"
+    },
+    "110": {
+        "company_name": "秋田内陸縦貫鉄道"
+    },
+    "111": {
+        "company_name": "由利高原鉄道"
+    },
+    "112": {
+        "company_name": "山形鉄道"
+    },
+    "113": {
+        "company_name": "くりはら田園鉄道"
+    },
+    "114": {
+        "company_name": "阿武隈急行"
+    },
+    "115": {
+        "company_name": "仙台市交通局"
+    },
+    "116": {
+        "company_name": "福島交通"
+    },
+    "117": {
+        "company_name": "会津鉄道"
+    },
+    "118": {
+        "company_name": "仙台空港鉄道"
+    },
+    "119": {
+        "company_name": "東京都交通局"
+    },
+    "120": {
+        "company_name": "秩父鉄道"
+    },
+    "121": {
+        "company_name": "埼玉高速鉄道"
+    },
+    "122": {
+        "company_name": "いすみ鉄道"
+    },
+    "123": {
+        "company_name": "首都圏新都市鉄道"
+    },
+    "124": {
+        "company_name": "横浜高速鉄道"
+    },
+    "125": {
+        "company_name": "ゆりかもめ"
+    },
+    "126": {
+        "company_name": "わたらせ渓谷鐵道"
+    },
+    "127": {
+        "company_name": "山万"
+    },
+    "128": {
+        "company_name": "伊豆箱根鉄道"
+    },
+    "129": {
+        "company_name": "ひたちなか海浜鉄道"
+    },
+    "130": {
+        "company_name": "横浜市交通局"
+    },
+    "131": {
+        "company_name": "横浜シーサイドライン"
+    },
+    "132": {
+        "company_name": "関東鉄道"
+    },
+    "133": {
+        "company_name": "江ノ島電鉄"
+    },
+    "134": {
+        "company_name": "埼玉新都市交通"
+    },
+    "135": {
+        "company_name": "鹿島鉄道"
+    },
+    "136": {
+        "company_name": "鹿島臨海鉄道"
+    },
+    "137": {
+        "company_name": "芝山鉄道"
+    },
+    "138": {
+        "company_name": "小湊鐵道"
+    },
+    "139": {
+        "company_name": "湘南モノレール"
+    },
+    "140": {
+        "company_name": "上信電鉄"
+    },
+    "141": {
+        "company_name": "上毛電気鉄道"
+    },
+    "142": {
+        "company_name": "新京成電鉄"
+    },
+    "143": {
+        "company_name": "真岡鐵道"
+    },
+    "144": {
+        "company_name": "千葉都市モノレール"
+    },
+    "145": {
+        "company_name": "流鉄"
+    },
+    "146": {
+        "company_name": "多摩都市モノレール"
+    },
+    "147": {
+        "company_name": "銚子電気鉄道"
+    },
+    "148": {
+        "company_name": "東京モノレール"
+    },
+    "149": {
+        "company_name": "東京臨海高速鉄道"
+    },
+    "150": {
+        "company_name": "東葉高速鉄道"
+    },
+    "151": {
+        "company_name": "箱根登山鉄道"
+    },
+    "152": {
+        "company_name": "北総鉄道"
+    },
+    "153": {
+        "company_name": "野岩鉄道"
+    },
+    "154": {
+        "company_name": "富士山麓電気鉄道"
+    },
+    "155": {
+        "company_name": "北越急行"
+    },
+    "156": {
+        "company_name": "しなの鉄道"
+    },
+    "157": {
+        "company_name": "上田交通"
+    },
+    "158": {
+        "company_name": "長野電鉄"
+    },
+    "159": {
+        "company_name": "アルピコ交通"
+    },
+    "160": {
+        "company_name": "富山地方鉄道"
+    },
+    "161": {
+        "company_name": "神岡鉄道"
+    },
+    "162": {
+        "company_name": "黒部峡谷鉄道"
+    },
+    "163": {
+        "company_name": "万葉線"
+    },
+    "164": {
+        "company_name": "富山ライトレール"
+    },
+    "165": {
+        "company_name": "北陸鉄道"
+    },
+    "166": {
+        "company_name": "のと鉄道"
+    },
+    "167": {
+        "company_name": "えちぜん鉄道"
+    },
+    "168": {
+        "company_name": "福井鉄道"
+    },
+    "169": {
+        "company_name": "伊豆急行"
+    },
+    "170": {
+        "company_name": "岳南鉄道"
+    },
+    "171": {
+        "company_name": "静岡鉄道"
+    },
+    "172": {
+        "company_name": "天竜浜名湖鉄道"
+    },
+    "173": {
+        "company_name": "遠州鉄道"
+    },
+    "174": {
+        "company_name": "大井川鐵道"
+    },
+    "175": {
+        "company_name": "名古屋臨海高速鉄道"
+    },
+    "176": {
+        "company_name": "東海交通事業"
+    },
+    "177": {
+        "company_name": "愛知環状鉄道"
+    },
+    "178": {
+        "company_name": "愛知高速交通"
+    },
+    "179": {
+        "company_name": "名古屋市交通局"
+    },
+    "180": {
+        "company_name": "桃花台新交通"
+    },
+    "181": {
+        "company_name": "豊橋鉄道"
+    },
+    "182": {
+        "company_name": "名古屋ガイドウェイバス"
+    },
+    "183": {
+        "company_name": "明知鉄道"
+    },
+    "184": {
+        "company_name": "長良川鉄道"
+    },
+    "185": {
+        "company_name": "樽見鉄道"
+    },
+    "186": {
+        "company_name": "三岐鉄道"
+    },
+    "187": {
+        "company_name": "伊勢鉄道"
+    },
+    "188": {
+        "company_name": "伊賀鉄道"
+    },
+    "189": {
+        "company_name": "養老鉄道"
+    },
+    "190": {
+        "company_name": "近江鉄道"
+    },
+    "191": {
+        "company_name": "信楽高原鐵道"
+    },
+    "192": {
+        "company_name": "嵯峨野観光鉄道"
+    },
+    "193": {
+        "company_name": "叡山電鉄"
+    },
+    "194": {
+        "company_name": "京都丹後鉄道"
+    },
+    "195": {
+        "company_name": "京都市交通局"
+    },
+    "196": {
+        "company_name": "京福電気鉄道"
+    },
+    "197": {
+        "company_name": "北大阪急行電鉄"
+    },
+    "198": {
+        "company_name": "泉北高速鉄道"
+    },
+    "199": {
+        "company_name": "水間鉄道"
+    },
+    "200": {
+        "company_name": "大阪市交通局"
+    },
+    "201": {
+        "company_name": "大阪モノレール株式会社"
+    },
+    "202": {
+        "company_name": "阪堺電気軌道"
+    },
+    "203": {
+        "company_name": "神戸高速鉄道"
+    },
+    "204": {
+        "company_name": "神戸電鉄"
+    },
+    "205": {
+        "company_name": "北神急行電鉄"
+    },
+    "206": {
+        "company_name": "山陽電気鉄道"
+    },
+    "207": {
+        "company_name": "能勢電鉄"
+    },
+    "208": {
+        "company_name": "三木鉄道"
+    },
+    "209": {
+        "company_name": "北条鉄道"
+    },
+    "210": {
+        "company_name": "智頭急行"
+    },
+    "211": {
+        "company_name": "神戸市交通局"
+    },
+    "212": {
+        "company_name": "神戸新交通"
+    },
+    "213": {
+        "company_name": "紀州鉄道"
+    },
+    "214": {
+        "company_name": "和歌山電鐵"
+    },
+    "215": {
+        "company_name": "若桜鉄道"
+    },
+    "216": {
+        "company_name": "一畑電車"
+    },
+    "217": {
+        "company_name": "水島臨海鉄道"
+    },
+    "218": {
+        "company_name": "井原鉄道"
+    },
+    "219": {
+        "company_name": "岡山電気軌道"
+    },
+    "220": {
+        "company_name": "スカイレールサービス"
+    },
+    "221": {
+        "company_name": "広島高速交通"
+    },
+    "222": {
+        "company_name": "広島電鉄"
+    },
+    "223": {
+        "company_name": "錦川鉄道"
+    },
+    "224": {
+        "company_name": "阿佐海岸鉄道"
+    },
+    "225": {
+        "company_name": "高松琴平電気鉄道"
+    },
+    "226": {
+        "company_name": "伊予鉄道"
+    },
+    "227": {
+        "company_name": "土佐くろしお鉄道"
+    },
+    "228": {
+        "company_name": "土佐電気鉄道"
+    },
+    "229": {
+        "company_name": "甘木鉄道"
+    },
+    "230": {
+        "company_name": "平成筑豊鉄道"
+    },
+    "231": {
+        "company_name": "福岡市交通局"
+    },
+    "232": {
+        "company_name": "北九州高速鉄道"
+    },
+    "233": {
+        "company_name": "筑豊電気鉄道"
+    },
+    "234": {
+        "company_name": "松浦鉄道"
+    },
+    "235": {
+        "company_name": "島原鉄道"
+    },
+    "236": {
+        "company_name": "長崎電気軌道"
+    },
+    "237": {
+        "company_name": "熊本電気鉄道"
+    },
+    "238": {
+        "company_name": "南阿蘇鉄道"
+    },
+    "239": {
+        "company_name": "くま川鉄道"
+    },
+    "240": {
+        "company_name": "肥薩おれんじ鉄道"
+    },
+    "241": {
+        "company_name": "熊本市交通局"
+    },
+    "242": {
+        "company_name": "鹿児島市交通局"
+    },
+    "243": {
+        "company_name": "沖縄都市モノレール"
+    },
+    "244": {
+        "company_name": "えちごトキめき鉄道"
+    },
+    "245": {
+        "company_name": "あいの風とやま鉄道"
+    },
+    "246": {
+        "company_name": "IRいしかわ鉄道"
+    },
+    "247": {
+        "company_name": "四日市あすなろう鉄道"
+    },
+    "248": {
+        "company_name": "道南いさりび鉄道"
+    },
+    "249": {
+        "company_name": "Osaka Metro"
+    },
+    "250": {
+        "company_name": "宇都宮ライトレール"
+    },
+    "251": {
+        "company_name": "ハピラインふくい"
+    },
+    "252": {
+        "company_name": "札幌市交通事業振興公社"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "11311": {
+        "company_cd": 2,
+        "line_name": "JR中央本線(東京～塩尻)"
+    },
+    "11401": {
+        "company_cd": 2,
+        "line_name": "小海線"
+    },
+    "11403": {
+        "company_cd": 2,
+        "line_name": "JR信越本線(篠ノ井～長野)"
+    },
+    "11407": {
+        "company_cd": 2,
+        "line_name": "JR飯山線"
+    },
+    "11409": {
+        "company_cd": 2,
+        "line_name": "北アルプス線"
+    },
+    "11411": {
+        "company_cd": 3,
+        "line_name": "JR中央本線(名古屋～塩尻)"
+    },
+    "11412": {
+        "company_cd": 2,
+        "line_name": "JR篠ノ井線"
+    },
+    "11413": {
+        "company_cd": 3,
+        "line_name": "JR飯田線(豊橋～天竜峡)"
+    },
+    "11414": {
+        "company_cd": 3,
+        "line_name": "JR飯田線(天竜峡～辰野)"
+    },
+    "99403": {
+        "company_cd": 156,
+        "line_name": "しなの鉄道線"
+    },
+    "99404": {
+        "company_cd": 157,
+        "line_name": "上田電鉄別所線"
+    },
+    "99405": {
+        "company_cd": 158,
+        "line_name": "長野電鉄長野線"
+    },
+    "99406": {
+        "company_cd": 158,
+        "line_name": "長野電鉄屋代線"
+    },
+    "99407": {
+        "company_cd": 159,
+        "line_name": "上高地線"
+    },
+    "99427": {
+        "company_cd": 156,
+        "line_name": "北しなの線"
+    }
+}

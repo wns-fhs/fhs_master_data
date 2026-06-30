@@ -1,0 +1,50 @@
+{
+    "11510": {
+        "company_cd": 3,
+        "line_name": "JR紀勢本線"
+    },
+    "11626": {
+        "company_cd": 4,
+        "line_name": "阪和線(天王寺～和歌山)"
+    },
+    "11636": {
+        "company_cd": 4,
+        "line_name": "JR和歌山線"
+    },
+    "11639": {
+        "company_cd": 4,
+        "line_name": "きのくに線"
+    },
+    "11640": {
+        "company_cd": 4,
+        "line_name": "紀勢本線(和歌山～和歌山市)"
+    },
+    "32001": {
+        "company_cd": 22,
+        "line_name": "南海本線"
+    },
+    "32003": {
+        "company_cd": 22,
+        "line_name": "南海和歌山港線"
+    },
+    "32005": {
+        "company_cd": 22,
+        "line_name": "南海加太線"
+    },
+    "32007": {
+        "company_cd": 22,
+        "line_name": "南海高野線"
+    },
+    "32008": {
+        "company_cd": 22,
+        "line_name": "南海高野山ケーブル"
+    },
+    "99650": {
+        "company_cd": 213,
+        "line_name": "紀州鉄道線"
+    },
+    "99651": {
+        "company_cd": 214,
+        "line_name": "貴志川線"
+    }
+}

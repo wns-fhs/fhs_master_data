@@ -1,0 +1,158 @@
+{
+    "11301": {
+        "company_cd": 2,
+        "line_name": "JR東海道本線(東京～熱海)"
+    },
+    "11303": {
+        "company_cd": 2,
+        "line_name": "JR南武線"
+    },
+    "11304": {
+        "company_cd": 2,
+        "line_name": "JR鶴見線"
+    },
+    "11306": {
+        "company_cd": 2,
+        "line_name": "JR横浜線"
+    },
+    "11307": {
+        "company_cd": 2,
+        "line_name": "JR根岸線"
+    },
+    "11308": {
+        "company_cd": 2,
+        "line_name": "JR横須賀線"
+    },
+    "11309": {
+        "company_cd": 2,
+        "line_name": "JR相模線"
+    },
+    "11311": {
+        "company_cd": 2,
+        "line_name": "JR中央本線(東京～塩尻)"
+    },
+    "11328": {
+        "company_cd": 2,
+        "line_name": "JR成田エクスプレス"
+    },
+    "11332": {
+        "company_cd": 2,
+        "line_name": "JR京浜東北線"
+    },
+    "11333": {
+        "company_cd": 2,
+        "line_name": "JR湘南新宿ライン"
+    },
+    "11505": {
+        "company_cd": 3,
+        "line_name": "JR御殿場線"
+    },
+    "24002": {
+        "company_cd": 14,
+        "line_name": "京王相模原線"
+    },
+    "25001": {
+        "company_cd": 15,
+        "line_name": "小田急線"
+    },
+    "25002": {
+        "company_cd": 15,
+        "line_name": "小田急江ノ島線"
+    },
+    "25003": {
+        "company_cd": 15,
+        "line_name": "小田急多摩線"
+    },
+    "26001": {
+        "company_cd": 16,
+        "line_name": "東急東横線"
+    },
+    "26002": {
+        "company_cd": 16,
+        "line_name": "東急目黒線"
+    },
+    "26003": {
+        "company_cd": 16,
+        "line_name": "東急田園都市線"
+    },
+    "26004": {
+        "company_cd": 16,
+        "line_name": "東急大井町線"
+    },
+    "26008": {
+        "company_cd": 16,
+        "line_name": "東急こどもの国線"
+    },
+    "26009": {
+        "company_cd": 16,
+        "line_name": "東急新横浜線"
+    },
+    "27001": {
+        "company_cd": 17,
+        "line_name": "京急本線"
+    },
+    "27003": {
+        "company_cd": 17,
+        "line_name": "京急大師線"
+    },
+    "27004": {
+        "company_cd": 17,
+        "line_name": "京急逗子線"
+    },
+    "27005": {
+        "company_cd": 17,
+        "line_name": "京急久里浜線"
+    },
+    "29001": {
+        "company_cd": 19,
+        "line_name": "相鉄本線"
+    },
+    "29002": {
+        "company_cd": 19,
+        "line_name": "相鉄いずみ野線"
+    },
+    "29003": {
+        "company_cd": 19,
+        "line_name": "相鉄・JR直通線"
+    },
+    "29004": {
+        "company_cd": 19,
+        "line_name": "相鉄新横浜線"
+    },
+    "99310": {
+        "company_cd": 124,
+        "line_name": "みなとみらい線"
+    },
+    "99314": {
+        "company_cd": 128,
+        "line_name": "伊豆箱根鉄道大雄山線"
+    },
+    "99316": {
+        "company_cd": 130,
+        "line_name": "ブルーライン"
+    },
+    "99317": {
+        "company_cd": 131,
+        "line_name": "金沢シーサイドライン"
+    },
+    "99320": {
+        "company_cd": 133,
+        "line_name": "江ノ島電鉄線"
+    },
+    "99326": {
+        "company_cd": 139,
+        "line_name": "湘南モノレール"
+    },
+    "99339": {
+        "company_cd": 151,
+        "line_name": "箱根登山鉄道鉄道線"
+    },
+    "99343": {
+        "company_cd": 130,
+        "line_name": "グリーンライン"
+    },
+    "99344": {
+        "company_cd": 151,
+        "line_name": "箱根登山ケーブルカー"
+    }
+}

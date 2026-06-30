@@ -1,0 +1,106 @@
+{
+    "11305": {
+        "company_cd": 2,
+        "line_name": "JR武蔵野線"
+    },
+    "11317": {
+        "company_cd": 2,
+        "line_name": "JR八高線(八王子～高麗川)"
+    },
+    "11318": {
+        "company_cd": 2,
+        "line_name": "JR八高線(高麗川～高崎)"
+    },
+    "11319": {
+        "company_cd": 2,
+        "line_name": "宇都宮線"
+    },
+    "11321": {
+        "company_cd": 2,
+        "line_name": "JR埼京線"
+    },
+    "11322": {
+        "company_cd": 2,
+        "line_name": "JR川越線"
+    },
+    "11323": {
+        "company_cd": 2,
+        "line_name": "JR高崎線"
+    },
+    "11328": {
+        "company_cd": 2,
+        "line_name": "JR成田エクスプレス"
+    },
+    "11332": {
+        "company_cd": 2,
+        "line_name": "JR京浜東北線"
+    },
+    "11333": {
+        "company_cd": 2,
+        "line_name": "JR湘南新宿ライン"
+    },
+    "21001": {
+        "company_cd": 11,
+        "line_name": "東武東上線"
+    },
+    "21002": {
+        "company_cd": 11,
+        "line_name": "東武伊勢崎線"
+    },
+    "21003": {
+        "company_cd": 11,
+        "line_name": "東武日光線"
+    },
+    "21004": {
+        "company_cd": 11,
+        "line_name": "東武アーバンパークライン（東武野田線）"
+    },
+    "21007": {
+        "company_cd": 11,
+        "line_name": "東武越生線"
+    },
+    "22001": {
+        "company_cd": 12,
+        "line_name": "西武池袋線"
+    },
+    "22002": {
+        "company_cd": 12,
+        "line_name": "西武秩父線"
+    },
+    "22005": {
+        "company_cd": 12,
+        "line_name": "西武狭山線"
+    },
+    "22006": {
+        "company_cd": 12,
+        "line_name": "レオライナー"
+    },
+    "22007": {
+        "company_cd": 12,
+        "line_name": "西武新宿線"
+    },
+    "28006": {
+        "company_cd": 18,
+        "line_name": "東京メトロ有楽町線"
+    },
+    "28010": {
+        "company_cd": 18,
+        "line_name": "東京メトロ副都心線"
+    },
+    "99306": {
+        "company_cd": 120,
+        "line_name": "秩父鉄道秩父本線"
+    },
+    "99307": {
+        "company_cd": 121,
+        "line_name": "埼玉高速鉄道線"
+    },
+    "99309": {
+        "company_cd": 123,
+        "line_name": "つくばエクスプレス"
+    },
+    "99321": {
+        "company_cd": 134,
+        "line_name": "ニューシャトル"
+    }
+}

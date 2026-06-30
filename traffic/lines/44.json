@@ -1,0 +1,22 @@
+{
+    "11906": {
+        "company_cd": 6,
+        "line_name": "JR日豊本線(門司港～佐伯)"
+    },
+    "11907": {
+        "company_cd": 6,
+        "line_name": "JR日豊本線(佐伯～鹿児島中央)"
+    },
+    "11913": {
+        "company_cd": 6,
+        "line_name": "ゆふ高原線"
+    },
+    "11914": {
+        "company_cd": 6,
+        "line_name": "JR日田彦山線"
+    },
+    "11923": {
+        "company_cd": 6,
+        "line_name": "阿蘇高原線"
+    }
+}

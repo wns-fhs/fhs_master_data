@@ -1,0 +1,66 @@
+{
+    "11607": {
+        "company_cd": 4,
+        "line_name": "大和路線"
+    },
+    "11618": {
+        "company_cd": 4,
+        "line_name": "奈良線"
+    },
+    "11636": {
+        "company_cd": 4,
+        "line_name": "JR和歌山線"
+    },
+    "11637": {
+        "company_cd": 4,
+        "line_name": "万葉まほろば線"
+    },
+    "31002": {
+        "company_cd": 21,
+        "line_name": "近鉄橿原線"
+    },
+    "31003": {
+        "company_cd": 21,
+        "line_name": "近鉄南大阪線"
+    },
+    "31005": {
+        "company_cd": 21,
+        "line_name": "近鉄大阪線"
+    },
+    "31007": {
+        "company_cd": 21,
+        "line_name": "近鉄吉野線"
+    },
+    "31011": {
+        "company_cd": 21,
+        "line_name": "近鉄天理線"
+    },
+    "31016": {
+        "company_cd": 21,
+        "line_name": "近鉄生駒線"
+    },
+    "31017": {
+        "company_cd": 21,
+        "line_name": "近鉄田原本線"
+    },
+    "31018": {
+        "company_cd": 21,
+        "line_name": "近鉄御所線"
+    },
+    "31020": {
+        "company_cd": 21,
+        "line_name": "近鉄奈良線"
+    },
+    "31023": {
+        "company_cd": 21,
+        "line_name": "近鉄けいはんな線"
+    },
+    "31025": {
+        "company_cd": 21,
+        "line_name": "近鉄京都線"
+    },
+    "31026": {
+        "company_cd": 21,
+        "line_name": "生駒ケーブル"
+    }
+}

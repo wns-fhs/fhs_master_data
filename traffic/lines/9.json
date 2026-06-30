@@ -1,0 +1,62 @@
+{
+    "11231": {
+        "company_cd": 2,
+        "line_name": "JR東北本線(黒磯～利府・盛岡)"
+    },
+    "11319": {
+        "company_cd": 2,
+        "line_name": "宇都宮線"
+    },
+    "11334": {
+        "company_cd": 2,
+        "line_name": "JR烏山線"
+    },
+    "11339": {
+        "company_cd": 2,
+        "line_name": "JR水戸線"
+    },
+    "11340": {
+        "company_cd": 2,
+        "line_name": "JR日光線"
+    },
+    "11341": {
+        "company_cd": 2,
+        "line_name": "JR両毛線"
+    },
+    "21002": {
+        "company_cd": 11,
+        "line_name": "東武伊勢崎線"
+    },
+    "21003": {
+        "company_cd": 11,
+        "line_name": "東武日光線"
+    },
+    "21008": {
+        "company_cd": 11,
+        "line_name": "東武宇都宮線"
+    },
+    "21009": {
+        "company_cd": 11,
+        "line_name": "東武鬼怒川線"
+    },
+    "21010": {
+        "company_cd": 11,
+        "line_name": "東武佐野線"
+    },
+    "99312": {
+        "company_cd": 126,
+        "line_name": "わたらせ渓谷線"
+    },
+    "99330": {
+        "company_cd": 143,
+        "line_name": "真岡鐵道真岡線"
+    },
+    "99341": {
+        "company_cd": 153,
+        "line_name": "ほっとスパ・ライン"
+    },
+    "99345": {
+        "company_cd": 250,
+        "line_name": "芳賀・宇都宮LRT"
+    }
+}

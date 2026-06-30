@@ -1,0 +1,38 @@
+{
+    "11905": {
+        "company_cd": 6,
+        "line_name": "JR長崎本線(鳥栖～長崎)"
+    },
+    "11918": {
+        "company_cd": 6,
+        "line_name": "JR佐世保線"
+    },
+    "11922": {
+        "company_cd": 6,
+        "line_name": "JR大村線"
+    },
+    "99911": {
+        "company_cd": 234,
+        "line_name": "西九州線(伊万里～佐世保)"
+    },
+    "99912": {
+        "company_cd": 235,
+        "line_name": "島原鉄道線"
+    },
+    "99913": {
+        "company_cd": 236,
+        "line_name": "長崎電軌１系統"
+    },
+    "99914": {
+        "company_cd": 236,
+        "line_name": "長崎電軌３系統"
+    },
+    "99915": {
+        "company_cd": 236,
+        "line_name": "長崎電軌４系統"
+    },
+    "99916": {
+        "company_cd": 236,
+        "line_name": "長崎電軌５系統"
+    }
+}

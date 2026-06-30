@@ -1,0 +1,122 @@
+{
+    "11612": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(岩国～門司)"
+    },
+    "11702": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(益田～下関)"
+    },
+    "11901": {
+        "company_cd": 4,
+        "line_name": "JR博多南線"
+    },
+    "11902": {
+        "company_cd": 6,
+        "line_name": "JR鹿児島本線(下関・門司港～博多)"
+    },
+    "11903": {
+        "company_cd": 6,
+        "line_name": "JR鹿児島本線(博多～八代)"
+    },
+    "11906": {
+        "company_cd": 6,
+        "line_name": "JR日豊本線(門司港～佐伯)"
+    },
+    "11908": {
+        "company_cd": 6,
+        "line_name": "福北ゆたか線"
+    },
+    "11909": {
+        "company_cd": 6,
+        "line_name": "JR筑肥線(姪浜～西唐津)"
+    },
+    "11910": {
+        "company_cd": 6,
+        "line_name": "若松線"
+    },
+    "11911": {
+        "company_cd": 6,
+        "line_name": "福北ゆたか線(折尾～桂川)"
+    },
+    "11912": {
+        "company_cd": 6,
+        "line_name": "原田線"
+    },
+    "11913": {
+        "company_cd": 6,
+        "line_name": "ゆふ高原線"
+    },
+    "11914": {
+        "company_cd": 6,
+        "line_name": "JR日田彦山線"
+    },
+    "11915": {
+        "company_cd": 6,
+        "line_name": "JR後藤寺線"
+    },
+    "11916": {
+        "company_cd": 6,
+        "line_name": "海の中道線"
+    },
+    "11917": {
+        "company_cd": 6,
+        "line_name": "JR香椎線(香椎～宇美)"
+    },
+    "36001": {
+        "company_cd": 26,
+        "line_name": "西鉄天神大牟田線"
+    },
+    "36002": {
+        "company_cd": 26,
+        "line_name": "西鉄太宰府線"
+    },
+    "36003": {
+        "company_cd": 26,
+        "line_name": "西鉄甘木線"
+    },
+    "36004": {
+        "company_cd": 26,
+        "line_name": "西鉄貝塚線"
+    },
+    "99901": {
+        "company_cd": 229,
+        "line_name": "甘木鉄道甘木線"
+    },
+    "99902": {
+        "company_cd": 230,
+        "line_name": "伊田線"
+    },
+    "99903": {
+        "company_cd": 230,
+        "line_name": "糸田線"
+    },
+    "99904": {
+        "company_cd": 230,
+        "line_name": "田川線"
+    },
+    "99905": {
+        "company_cd": 231,
+        "line_name": "福岡市営地下鉄空港線"
+    },
+    "99906": {
+        "company_cd": 231,
+        "line_name": "福岡市営地下鉄箱崎線"
+    },
+    "99907": {
+        "company_cd": 231,
+        "line_name": "福岡市営地下鉄七隈線"
+    },
+    "99908": {
+        "company_cd": 232,
+        "line_name": "北九州モノレール"
+    },
+    "99909": {
+        "company_cd": 233,
+        "line_name": "筑豊電気鉄道線"
+    },
+    "99928": {
+        "company_cd": 230,
+        "line_name": "門司港レトロ観光線"
+    }
+}

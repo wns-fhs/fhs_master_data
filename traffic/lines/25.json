@@ -1,0 +1,46 @@
+{
+    "11415": {
+        "company_cd": 4,
+        "line_name": "JR北陸本線(米原～敦賀)"
+    },
+    "11503": {
+        "company_cd": 3,
+        "line_name": "JR東海道本線(岐阜～美濃赤坂・米原)"
+    },
+    "11511": {
+        "company_cd": 4,
+        "line_name": "JR草津線"
+    },
+    "11601": {
+        "company_cd": 4,
+        "line_name": "琵琶湖線"
+    },
+    "11605": {
+        "company_cd": 4,
+        "line_name": "JR湖西線"
+    },
+    "33006": {
+        "company_cd": 23,
+        "line_name": "京阪石山坂本線"
+    },
+    "33007": {
+        "company_cd": 23,
+        "line_name": "京阪京津線"
+    },
+    "99601": {
+        "company_cd": 190,
+        "line_name": "近江鉄道本線"
+    },
+    "99602": {
+        "company_cd": 190,
+        "line_name": "近江鉄道多賀線"
+    },
+    "99603": {
+        "company_cd": 190,
+        "line_name": "近江鉄道八日市線"
+    },
+    "99604": {
+        "company_cd": 191,
+        "line_name": "信楽高原鐵道信楽線"
+    }
+}

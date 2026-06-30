@@ -1,0 +1,38 @@
+{
+    "11801": {
+        "company_cd": 5,
+        "line_name": "JR土讃線"
+    },
+    "11808": {
+        "company_cd": 5,
+        "line_name": "しまんとグリーンライン"
+    },
+    "99801": {
+        "company_cd": 224,
+        "line_name": "阿波室戸シーサイドライン"
+    },
+    "99814": {
+        "company_cd": 227,
+        "line_name": "中村線"
+    },
+    "99815": {
+        "company_cd": 227,
+        "line_name": "宿毛線"
+    },
+    "99816": {
+        "company_cd": 227,
+        "line_name": "ごめん・なはり線"
+    },
+    "99817": {
+        "company_cd": 228,
+        "line_name": "ごめん線"
+    },
+    "99818": {
+        "company_cd": 228,
+        "line_name": "伊野線"
+    },
+    "99819": {
+        "company_cd": 228,
+        "line_name": "桟橋線"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "11801": {
+        "company_cd": 5,
+        "line_name": "JR土讃線"
+    },
+    "11802": {
+        "company_cd": 5,
+        "line_name": "JR高徳線"
+    },
+    "11803": {
+        "company_cd": 5,
+        "line_name": "よしの川ブルーライン"
+    },
+    "11804": {
+        "company_cd": 5,
+        "line_name": "JR牟岐線"
+    },
+    "11805": {
+        "company_cd": 5,
+        "line_name": "JR鳴門線"
+    },
+    "99801": {
+        "company_cd": 224,
+        "line_name": "阿波室戸シーサイドライン"
+    }
+}

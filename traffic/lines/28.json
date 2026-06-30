@@ -1,0 +1,170 @@
+{
+    "11603": {
+        "company_cd": 4,
+        "line_name": "JR神戸線(大阪～神戸)"
+    },
+    "11608": {
+        "company_cd": 4,
+        "line_name": "JR神戸線(神戸～姫路)"
+    },
+    "11609": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(姫路～岡山)"
+    },
+    "11613": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(兵庫～和田岬)"
+    },
+    "11615": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(園部～豊岡)"
+    },
+    "11616": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(豊岡～米子)"
+    },
+    "11625": {
+        "company_cd": 4,
+        "line_name": "JR東西線"
+    },
+    "11629": {
+        "company_cd": 4,
+        "line_name": "JR宝塚線"
+    },
+    "11630": {
+        "company_cd": 4,
+        "line_name": "福知山線(篠山口～福知山)"
+    },
+    "11631": {
+        "company_cd": 4,
+        "line_name": "JR赤穂線"
+    },
+    "11632": {
+        "company_cd": 4,
+        "line_name": "JR加古川線"
+    },
+    "11633": {
+        "company_cd": 4,
+        "line_name": "JR姫新線(姫路～佐用)"
+    },
+    "11634": {
+        "company_cd": 4,
+        "line_name": "JR姫新線(佐用～新見)"
+    },
+    "11635": {
+        "company_cd": 4,
+        "line_name": "JR播但線"
+    },
+    "34001": {
+        "company_cd": 24,
+        "line_name": "阪急神戸本線"
+    },
+    "34002": {
+        "company_cd": 24,
+        "line_name": "阪急宝塚本線"
+    },
+    "34004": {
+        "company_cd": 24,
+        "line_name": "阪急今津線"
+    },
+    "34005": {
+        "company_cd": 24,
+        "line_name": "阪急甲陽線"
+    },
+    "34006": {
+        "company_cd": 24,
+        "line_name": "阪急伊丹線"
+    },
+    "35001": {
+        "company_cd": 25,
+        "line_name": "阪神本線"
+    },
+    "35002": {
+        "company_cd": 25,
+        "line_name": "阪神なんば線"
+    },
+    "35003": {
+        "company_cd": 25,
+        "line_name": "阪神武庫川線"
+    },
+    "99609": {
+        "company_cd": 194,
+        "line_name": "宮豊線"
+    },
+    "99615": {
+        "company_cd": 207,
+        "line_name": "能勢電鉄妙見線"
+    },
+    "99630": {
+        "company_cd": 203,
+        "line_name": "神戸高速東西線"
+    },
+    "99631": {
+        "company_cd": 203,
+        "line_name": "神戸高速南北線"
+    },
+    "99632": {
+        "company_cd": 204,
+        "line_name": "有馬線"
+    },
+    "99633": {
+        "company_cd": 204,
+        "line_name": "三田線"
+    },
+    "99634": {
+        "company_cd": 204,
+        "line_name": "公園都市線"
+    },
+    "99635": {
+        "company_cd": 204,
+        "line_name": "粟生線"
+    },
+    "99636": {
+        "company_cd": 211,
+        "line_name": "北神線"
+    },
+    "99637": {
+        "company_cd": 206,
+        "line_name": "山陽電鉄本線"
+    },
+    "99638": {
+        "company_cd": 206,
+        "line_name": "山陽電鉄網干線"
+    },
+    "99640": {
+        "company_cd": 207,
+        "line_name": "能勢電鉄日生線"
+    },
+    "99642": {
+        "company_cd": 208,
+        "line_name": "三木鉄道三木線"
+    },
+    "99643": {
+        "company_cd": 209,
+        "line_name": "北条鉄道北条線"
+    },
+    "99644": {
+        "company_cd": 210,
+        "line_name": "智頭急行智頭線"
+    },
+    "99645": {
+        "company_cd": 211,
+        "line_name": "神戸市営地下鉄西神線"
+    },
+    "99646": {
+        "company_cd": 211,
+        "line_name": "神戸市営地下鉄山手線"
+    },
+    "99647": {
+        "company_cd": 211,
+        "line_name": "夢かもめ"
+    },
+    "99648": {
+        "company_cd": 212,
+        "line_name": "ポートライナー"
+    },
+    "99649": {
+        "company_cd": 212,
+        "line_name": "六甲ライナー"
+    }
+}

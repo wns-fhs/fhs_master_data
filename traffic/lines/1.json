@@ -1,0 +1,110 @@
+{
+    "11101": {
+        "company_cd": 1,
+        "line_name": "JR函館本線(函館～長万部)"
+    },
+    "11102": {
+        "company_cd": 1,
+        "line_name": "JR函館本線(長万部～小樽)"
+    },
+    "11103": {
+        "company_cd": 1,
+        "line_name": "JR函館本線(小樽～旭川)"
+    },
+    "11104": {
+        "company_cd": 1,
+        "line_name": "JR室蘭本線(長万部・室蘭～苫小牧)"
+    },
+    "11105": {
+        "company_cd": 1,
+        "line_name": "JR室蘭本線(苫小牧～岩見沢)"
+    },
+    "11106": {
+        "company_cd": 1,
+        "line_name": "JR根室本線(滝川～富良野)"
+    },
+    "11107": {
+        "company_cd": 1,
+        "line_name": "JR根室本線(新得～釧路)"
+    },
+    "11108": {
+        "company_cd": 1,
+        "line_name": "花咲線"
+    },
+    "11109": {
+        "company_cd": 1,
+        "line_name": "JR千歳線"
+    },
+    "11110": {
+        "company_cd": 1,
+        "line_name": "JR石勝線"
+    },
+    "11111": {
+        "company_cd": 1,
+        "line_name": "JR日高本線"
+    },
+    "11112": {
+        "company_cd": 1,
+        "line_name": "JR札沼線"
+    },
+    "11113": {
+        "company_cd": 1,
+        "line_name": "JR留萌本線"
+    },
+    "11114": {
+        "company_cd": 1,
+        "line_name": "JR富良野線"
+    },
+    "11115": {
+        "company_cd": 1,
+        "line_name": "JR宗谷本線"
+    },
+    "11116": {
+        "company_cd": 1,
+        "line_name": "JR石北本線"
+    },
+    "11117": {
+        "company_cd": 1,
+        "line_name": "JR釧網本線"
+    },
+    "11118": {
+        "company_cd": 1,
+        "line_name": "JR海峡線"
+    },
+    "11119": {
+        "company_cd": 1,
+        "line_name": "JR江差線"
+    },
+    "99101": {
+        "company_cd": 101,
+        "line_name": "札幌市営地下鉄東西線"
+    },
+    "99102": {
+        "company_cd": 101,
+        "line_name": "札幌市営地下鉄南北線"
+    },
+    "99103": {
+        "company_cd": 101,
+        "line_name": "札幌市営地下鉄東豊線"
+    },
+    "99104": {
+        "company_cd": 252,
+        "line_name": "札幌市電"
+    },
+    "99105": {
+        "company_cd": 102,
+        "line_name": "函館市電２系統"
+    },
+    "99106": {
+        "company_cd": 102,
+        "line_name": "函館市電５系統"
+    },
+    "99107": {
+        "company_cd": 103,
+        "line_name": "ふるさと銀河線"
+    },
+    "99108": {
+        "company_cd": 248,
+        "line_name": "道南いさりび鉄道線"
+    }
+}

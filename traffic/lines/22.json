@@ -1,0 +1,62 @@
+{
+    "11301": {
+        "company_cd": 2,
+        "line_name": "JR東海道本線(東京～熱海)"
+    },
+    "11402": {
+        "company_cd": 3,
+        "line_name": "JR身延線"
+    },
+    "11413": {
+        "company_cd": 3,
+        "line_name": "JR飯田線(豊橋～天竜峡)"
+    },
+    "11501": {
+        "company_cd": 3,
+        "line_name": "JR東海道本線(熱海～浜松)"
+    },
+    "11502": {
+        "company_cd": 3,
+        "line_name": "JR東海道本線(浜松～岐阜)"
+    },
+    "11504": {
+        "company_cd": 2,
+        "line_name": "JR伊東線"
+    },
+    "11505": {
+        "company_cd": 3,
+        "line_name": "JR御殿場線"
+    },
+    "99501": {
+        "company_cd": 169,
+        "line_name": "伊豆急行線"
+    },
+    "99502": {
+        "company_cd": 128,
+        "line_name": "伊豆箱根鉄道駿豆線"
+    },
+    "99503": {
+        "company_cd": 170,
+        "line_name": "岳南鉄道線"
+    },
+    "99504": {
+        "company_cd": 171,
+        "line_name": "静岡鉄道静岡清水線"
+    },
+    "99505": {
+        "company_cd": 172,
+        "line_name": "天竜浜名湖線"
+    },
+    "99506": {
+        "company_cd": 173,
+        "line_name": "遠州鉄道鉄道線"
+    },
+    "99507": {
+        "company_cd": 174,
+        "line_name": "大井川鐵道大井川本線"
+    },
+    "99508": {
+        "company_cd": 174,
+        "line_name": "南アルプスあぷとライン"
+    }
+}

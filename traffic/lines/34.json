@@ -1,0 +1,78 @@
+{
+    "11610": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(岡山～三原)"
+    },
+    "11611": {
+        "company_cd": 4,
+        "line_name": "JR山陽本線(三原～岩国)"
+    },
+    "11706": {
+        "company_cd": 4,
+        "line_name": "JR木次線"
+    },
+    "11707": {
+        "company_cd": 4,
+        "line_name": "JR三江線"
+    },
+    "11714": {
+        "company_cd": 4,
+        "line_name": "JR芸備線"
+    },
+    "11716": {
+        "company_cd": 4,
+        "line_name": "JR呉線"
+    },
+    "11717": {
+        "company_cd": 4,
+        "line_name": "JR可部線"
+    },
+    "11720": {
+        "company_cd": 4,
+        "line_name": "JR福塩線"
+    },
+    "99705": {
+        "company_cd": 218,
+        "line_name": "井原線"
+    },
+    "99708": {
+        "company_cd": 220,
+        "line_name": "スカイレールみどり坂線"
+    },
+    "99709": {
+        "company_cd": 221,
+        "line_name": "アストラムライン"
+    },
+    "99710": {
+        "company_cd": 222,
+        "line_name": "広電１号線(宇品線)"
+    },
+    "99711": {
+        "company_cd": 222,
+        "line_name": "広電２号線(宮島線)"
+    },
+    "99712": {
+        "company_cd": 222,
+        "line_name": "広電３号線"
+    },
+    "99713": {
+        "company_cd": 222,
+        "line_name": "広電５号線(皆実線)"
+    },
+    "99714": {
+        "company_cd": 222,
+        "line_name": "広電６号線(江波線)"
+    },
+    "99715": {
+        "company_cd": 222,
+        "line_name": "広電７号線"
+    },
+    "99716": {
+        "company_cd": 222,
+        "line_name": "広電８号線(横川線)"
+    },
+    "99717": {
+        "company_cd": 222,
+        "line_name": "広電９号線(白島線)"
+    }
+}

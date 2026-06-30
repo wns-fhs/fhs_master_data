@@ -1,0 +1,122 @@
+{
+    "11422": {
+        "company_cd": 4,
+        "line_name": "JR小浜線"
+    },
+    "11509": {
+        "company_cd": 4,
+        "line_name": "JR関西本線(亀山～加茂)"
+    },
+    "11601": {
+        "company_cd": 4,
+        "line_name": "琵琶湖線"
+    },
+    "11602": {
+        "company_cd": 4,
+        "line_name": "JR京都線"
+    },
+    "11605": {
+        "company_cd": 4,
+        "line_name": "JR湖西線"
+    },
+    "11607": {
+        "company_cd": 4,
+        "line_name": "大和路線"
+    },
+    "11614": {
+        "company_cd": 4,
+        "line_name": "嵯峨野線"
+    },
+    "11615": {
+        "company_cd": 4,
+        "line_name": "JR山陰本線(園部～豊岡)"
+    },
+    "11617": {
+        "company_cd": 4,
+        "line_name": "学研都市線"
+    },
+    "11618": {
+        "company_cd": 4,
+        "line_name": "奈良線"
+    },
+    "11622": {
+        "company_cd": 4,
+        "line_name": "JR舞鶴線"
+    },
+    "11630": {
+        "company_cd": 4,
+        "line_name": "福知山線(篠山口～福知山)"
+    },
+    "31025": {
+        "company_cd": 21,
+        "line_name": "近鉄京都線"
+    },
+    "33001": {
+        "company_cd": 23,
+        "line_name": "京阪本線"
+    },
+    "33002": {
+        "company_cd": 23,
+        "line_name": "京阪宇治線"
+    },
+    "33004": {
+        "company_cd": 23,
+        "line_name": "京阪鴨東線"
+    },
+    "33005": {
+        "company_cd": 23,
+        "line_name": "石清水八幡宮参道ケーブル"
+    },
+    "33007": {
+        "company_cd": 23,
+        "line_name": "京阪京津線"
+    },
+    "34003": {
+        "company_cd": 24,
+        "line_name": "阪急京都本線"
+    },
+    "34009": {
+        "company_cd": 24,
+        "line_name": "阪急嵐山線"
+    },
+    "99605": {
+        "company_cd": 192,
+        "line_name": "嵯峨野観光線"
+    },
+    "99606": {
+        "company_cd": 193,
+        "line_name": "叡山電鉄叡山本線"
+    },
+    "99607": {
+        "company_cd": 193,
+        "line_name": "叡山電鉄鞍馬線"
+    },
+    "99608": {
+        "company_cd": 194,
+        "line_name": "宮福線"
+    },
+    "99609": {
+        "company_cd": 194,
+        "line_name": "宮豊線"
+    },
+    "99610": {
+        "company_cd": 195,
+        "line_name": "京都市営地下鉄烏丸線"
+    },
+    "99611": {
+        "company_cd": 195,
+        "line_name": "京都市営地下鉄東西線"
+    },
+    "99612": {
+        "company_cd": 196,
+        "line_name": "京福電鉄嵐山本線"
+    },
+    "99613": {
+        "company_cd": 196,
+        "line_name": "京福電鉄北野線"
+    },
+    "99653": {
+        "company_cd": 194,
+        "line_name": "宮舞線"
+    }
+}

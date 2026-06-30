@@ -1,0 +1,38 @@
+{
+    "11903": {
+        "company_cd": 6,
+        "line_name": "JR鹿児島本線(博多～八代)"
+    },
+    "11905": {
+        "company_cd": 6,
+        "line_name": "JR長崎本線(鳥栖～長崎)"
+    },
+    "11909": {
+        "company_cd": 6,
+        "line_name": "JR筑肥線(姪浜～西唐津)"
+    },
+    "11918": {
+        "company_cd": 6,
+        "line_name": "JR佐世保線"
+    },
+    "11920": {
+        "company_cd": 6,
+        "line_name": "JR筑肥線(西唐津～伊万里)"
+    },
+    "11921": {
+        "company_cd": 6,
+        "line_name": "JR唐津線"
+    },
+    "99901": {
+        "company_cd": 229,
+        "line_name": "甘木鉄道甘木線"
+    },
+    "99910": {
+        "company_cd": 234,
+        "line_name": "西九州線(有田～伊万里)"
+    },
+    "99911": {
+        "company_cd": 234,
+        "line_name": "西九州線(伊万里～佐世保)"
+    }
+}

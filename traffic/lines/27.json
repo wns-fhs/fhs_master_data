@@ -1,0 +1,218 @@
+{
+    "11602": {
+        "company_cd": 4,
+        "line_name": "JR京都線"
+    },
+    "11603": {
+        "company_cd": 4,
+        "line_name": "JR神戸線(大阪～神戸)"
+    },
+    "11607": {
+        "company_cd": 4,
+        "line_name": "大和路線"
+    },
+    "11617": {
+        "company_cd": 4,
+        "line_name": "学研都市線"
+    },
+    "11623": {
+        "company_cd": 4,
+        "line_name": "大阪環状線"
+    },
+    "11624": {
+        "company_cd": 4,
+        "line_name": "JRゆめ咲線"
+    },
+    "11625": {
+        "company_cd": 4,
+        "line_name": "JR東西線"
+    },
+    "11626": {
+        "company_cd": 4,
+        "line_name": "阪和線(天王寺～和歌山)"
+    },
+    "11627": {
+        "company_cd": 4,
+        "line_name": "羽衣線"
+    },
+    "11628": {
+        "company_cd": 4,
+        "line_name": "JR関西空港線"
+    },
+    "11629": {
+        "company_cd": 4,
+        "line_name": "JR宝塚線"
+    },
+    "11641": {
+        "company_cd": 4,
+        "line_name": "おおさか東線"
+    },
+    "31001": {
+        "company_cd": 21,
+        "line_name": "近鉄難波線"
+    },
+    "31003": {
+        "company_cd": 21,
+        "line_name": "近鉄南大阪線"
+    },
+    "31005": {
+        "company_cd": 21,
+        "line_name": "近鉄大阪線"
+    },
+    "31012": {
+        "company_cd": 21,
+        "line_name": "近鉄道明寺線"
+    },
+    "31020": {
+        "company_cd": 21,
+        "line_name": "近鉄奈良線"
+    },
+    "31021": {
+        "company_cd": 21,
+        "line_name": "近鉄信貴線"
+    },
+    "31022": {
+        "company_cd": 21,
+        "line_name": "近鉄長野線"
+    },
+    "31023": {
+        "company_cd": 21,
+        "line_name": "近鉄けいはんな線"
+    },
+    "31024": {
+        "company_cd": 21,
+        "line_name": "西信貴ケーブル"
+    },
+    "32001": {
+        "company_cd": 22,
+        "line_name": "南海本線"
+    },
+    "32002": {
+        "company_cd": 22,
+        "line_name": "南海空港線"
+    },
+    "32004": {
+        "company_cd": 22,
+        "line_name": "南海高師浜線"
+    },
+    "32006": {
+        "company_cd": 22,
+        "line_name": "南海多奈川線"
+    },
+    "32007": {
+        "company_cd": 22,
+        "line_name": "南海高野線"
+    },
+    "32009": {
+        "company_cd": 22,
+        "line_name": "南海汐見橋線"
+    },
+    "33001": {
+        "company_cd": 23,
+        "line_name": "京阪本線"
+    },
+    "33003": {
+        "company_cd": 23,
+        "line_name": "京阪交野線"
+    },
+    "33008": {
+        "company_cd": 23,
+        "line_name": "京阪中之島線"
+    },
+    "34001": {
+        "company_cd": 24,
+        "line_name": "阪急神戸本線"
+    },
+    "34002": {
+        "company_cd": 24,
+        "line_name": "阪急宝塚本線"
+    },
+    "34003": {
+        "company_cd": 24,
+        "line_name": "阪急京都本線"
+    },
+    "34007": {
+        "company_cd": 24,
+        "line_name": "阪急箕面線"
+    },
+    "34008": {
+        "company_cd": 24,
+        "line_name": "阪急千里線"
+    },
+    "35001": {
+        "company_cd": 25,
+        "line_name": "阪神本線"
+    },
+    "35002": {
+        "company_cd": 25,
+        "line_name": "阪神なんば線"
+    },
+    "99614": {
+        "company_cd": 197,
+        "line_name": "北大阪急行電鉄"
+    },
+    "99615": {
+        "company_cd": 207,
+        "line_name": "能勢電鉄妙見線"
+    },
+    "99616": {
+        "company_cd": 198,
+        "line_name": "泉北高速鉄道線"
+    },
+    "99617": {
+        "company_cd": 199,
+        "line_name": "水間鉄道水間線"
+    },
+    "99618": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ御堂筋線"
+    },
+    "99619": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ谷町線"
+    },
+    "99620": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ四つ橋線"
+    },
+    "99621": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ中央線"
+    },
+    "99622": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ千日前線"
+    },
+    "99623": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ堺筋線"
+    },
+    "99624": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ長堀鶴見緑地線"
+    },
+    "99625": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ南港ポートタウン線"
+    },
+    "99626": {
+        "company_cd": 201,
+        "line_name": "大阪モノレール線"
+    },
+    "99627": {
+        "company_cd": 201,
+        "line_name": "大阪モノレール彩都線"
+    },
+    "99628": {
+        "company_cd": 202,
+        "line_name": "阪堺電軌上町線"
+    },
+    "99629": {
+        "company_cd": 202,
+        "line_name": "阪堺電軌阪堺線"
+    },
+    "99652": {
+        "company_cd": 249,
+        "line_name": "大阪メトロ今里筋線"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "11806": {
+        "company_cd": 5,
+        "line_name": "JR予讃線"
+    },
+    "11807": {
+        "company_cd": 5,
+        "line_name": "JR予讃・内子線"
+    },
+    "11808": {
+        "company_cd": 5,
+        "line_name": "しまんとグリーンライン"
+    },
+    "99805": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道郡中線"
+    },
+    "99806": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道高浜線"
+    },
+    "99807": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道横河原線"
+    },
+    "99808": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道環状線（１系統）"
+    },
+    "99809": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道環状線（２系統）"
+    },
+    "99810": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道市駅線（３系統）"
+    },
+    "99811": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道松山駅前線（５系統）"
+    },
+    "99812": {
+        "company_cd": 226,
+        "line_name": "伊予鉄道本町線（６系統）"
+    }
+}

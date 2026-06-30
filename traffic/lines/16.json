@@ -1,0 +1,54 @@
+{
+    "11416": {
+        "company_cd": 3,
+        "line_name": "JR高山本線"
+    },
+    "11417": {
+        "company_cd": 4,
+        "line_name": "JR城端線"
+    },
+    "11418": {
+        "company_cd": 4,
+        "line_name": "JR氷見線"
+    },
+    "99408": {
+        "company_cd": 160,
+        "line_name": "富山地鉄本線"
+    },
+    "99409": {
+        "company_cd": 160,
+        "line_name": "富山地鉄立山線"
+    },
+    "99410": {
+        "company_cd": 160,
+        "line_name": "富山地鉄不二越・上滝線"
+    },
+    "99411": {
+        "company_cd": 161,
+        "line_name": "神岡鉄道神岡線"
+    },
+    "99412": {
+        "company_cd": 162,
+        "line_name": "黒部峡谷鉄道本線"
+    },
+    "99413": {
+        "company_cd": 160,
+        "line_name": "富山地鉄市内線【１・２系統】"
+    },
+    "99414": {
+        "company_cd": 163,
+        "line_name": "万葉線"
+    },
+    "99415": {
+        "company_cd": 160,
+        "line_name": "富山港線"
+    },
+    "99422": {
+        "company_cd": 160,
+        "line_name": "富山地鉄富山都心線【３系統(環状線)】"
+    },
+    "99425": {
+        "company_cd": 245,
+        "line_name": "あいの風とやま鉄道線"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "11206": {
+        "company_cd": 2,
+        "line_name": "JR八戸線"
+    },
+    "11207": {
+        "company_cd": 2,
+        "line_name": "JR岩泉線"
+    },
+    "11208": {
+        "company_cd": 2,
+        "line_name": "ドラゴンレール大船渡線"
+    },
+    "11209": {
+        "company_cd": 2,
+        "line_name": "銀河ドリームライン釜石線"
+    },
+    "11210": {
+        "company_cd": 2,
+        "line_name": "JR北上線"
+    },
+    "11211": {
+        "company_cd": 2,
+        "line_name": "JR田沢湖線"
+    },
+    "11212": {
+        "company_cd": 2,
+        "line_name": "十和田八幡平四季彩ライン"
+    },
+    "11213": {
+        "company_cd": 2,
+        "line_name": "JR山田線"
+    },
+    "11231": {
+        "company_cd": 2,
+        "line_name": "JR東北本線(黒磯～利府・盛岡)"
+    },
+    "99205": {
+        "company_cd": 107,
+        "line_name": "いわて銀河鉄道線"
+    },
+    "99208": {
+        "company_cd": 109,
+        "line_name": "三陸鉄道リアス線"
+    }
+}
