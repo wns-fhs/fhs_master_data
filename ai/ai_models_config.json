@@ -1,15 +1,15 @@
 {
   "tiers": {
     "low_tier": {
-      "model_id": "gpt-4o-mini",
-      "name": "軽量モデル（GPT-4o mini）",
-      "desc": "GPT-4o mini：生成速度が速く、コストパフォーマンスに優れています。"
+      "model_id": "gpt-5-mini",
+      "name": "軽量モデル（GPT-5 mini）",
+      "desc": "GPT-5 mini：生成速度が速く、コストパフォーマンスに優れています。"
     },
     "high_tier": {
-      "model_id": "gpt-4o",
-      "name": "高機能モデル（GPT-4o）",
-      "desc": "GPT-4o：表現力が豊かで、複雑な指示も理解します。"
+      "model_id": "gpt-5.5",
+      "name": "高機能モデル（GPT-5.5）",
+      "desc": "GPT-5.5：表現力が豊かで、複雑な指示も理解します。"
     }
   },
-  "version": "2025-12-11"
+  "version": "2026-6-30"
 }
