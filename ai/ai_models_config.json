@@ -3,12 +3,12 @@
     "low_tier": {
       "model_id": "gpt-5-mini",
       "name": "軽量モデル（GPT-5 mini）",
-      "desc": "GPT-5 mini：生成速度が速く、コストパフォーマンスに優れている。"
+      "desc": "GPT-5 mini：生成速度が速く、コストパフォーマンスに優れています。"
     },
     "high_tier": {
       "model_id": "gpt-5.5",
       "name": "高機能モデル（GPT-5.5）",
-      "desc": "GPT-5.5：表現力が豊かで、複雑な指示も理解できる。"
+      "desc": "GPT-5.5：表現力が豊かで、複雑な指示も理解できます。"
     }
   },
   "version": "2026-7-1"
