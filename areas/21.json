@@ -26100,8 +26100,8 @@
         "area_city_name": "多治見市",
         "area_town_code": "212040045002",
         "area_town_name": "虎渓山町二丁目",
-        "area_lat": 35.347958,
-        "area_lng": 137.125288
+        "area_lat": 35.348158,
+        "area_lng": 137.125053
     },
     {
         "area_city_code": 21204,
@@ -26492,8 +26492,8 @@
         "area_city_name": "多治見市",
         "area_town_code": "212040063002",
         "area_town_name": "住吉町二丁目",
-        "area_lat": 35.34486,
-        "area_lng": 137.124501
+        "area_lat": 35.346515,
+        "area_lng": 137.123311
     },
     {
         "area_city_code": 21204,
@@ -26532,8 +26532,8 @@
         "area_city_name": "多治見市",
         "area_town_code": "212040063007",
         "area_town_name": "住吉町七丁目",
-        "area_lat": 35.34754,
-        "area_lng": 137.121189
+        "area_lat": 35.346624,
+        "area_lng": 137.122678
     },
     {
         "area_city_code": 21204,
@@ -28430,6 +28430,14 @@
         "area_town_name": "脇之島町八丁目",
         "area_lat": 35.314535,
         "area_lng": 137.105077
+    },
+    {
+        "area_city_code": 21204,
+        "area_city_name": "多治見市",
+        "area_town_code": "212040126000",
+        "area_town_name": "住吉町",
+        "area_lat": 35.346405,
+        "area_lng": 137.122221
     },
     {
         "area_city_code": 21205,
@@ -33692,8 +33700,8 @@
         "area_city_name": "羽島市",
         "area_town_code": "212090065000",
         "area_town_name": "福寿町平方",
-        "area_lat": 35.317172,
-        "area_lng": 136.672928
+        "area_lat": 35.316774,
+        "area_lng": 136.672338
     },
     {
         "area_city_code": 21209,
@@ -33798,6 +33806,14 @@
         "area_town_name": "福寿町平方十三丁目",
         "area_lat": 35.312332,
         "area_lng": 136.678294
+    },
+    {
+        "area_city_code": 21209,
+        "area_city_name": "羽島市",
+        "area_town_code": "212090066014",
+        "area_town_name": "福寿町平方十四丁目",
+        "area_lat": 35.316432,
+        "area_lng": 136.672972
     },
     {
         "area_city_code": 21209,
@@ -43824,6 +43840,14 @@
         "area_lng": 137.05637
     },
     {
+        "area_city_code": 21214,
+        "area_city_name": "可児市",
+        "area_town_code": "212140059000",
+        "area_town_name": "あけち",
+        "area_lat": 35.432437,
+        "area_lng": 137.094497
+    },
+    {
         "area_city_code": 21215,
         "area_city_name": "山県市",
         "area_town_code": "212150001000",
@@ -50380,8 +50404,8 @@
         "area_city_name": "不破郡垂井町",
         "area_town_code": "213610011000",
         "area_town_name": "栗原",
-        "area_lat": 35.339932,
-        "area_lng": 136.540761
+        "area_lat": 35.339956,
+        "area_lng": 136.543377
     },
     {
         "area_city_code": 21361,
@@ -50494,6 +50518,14 @@
         "area_town_name": "宮代",
         "area_lat": 35.355302,
         "area_lng": 136.522526
+    },
+    {
+        "area_city_code": 21361,
+        "area_city_name": "不破郡垂井町",
+        "area_town_code": "213610020000",
+        "area_town_name": "柏ケ谷一丁目",
+        "area_lat": 35.343381,
+        "area_lng": 136.538552
     },
     {
         "area_city_code": 21362,
@@ -52596,8 +52628,8 @@
         "area_city_name": "本巣郡北方町",
         "area_town_code": "214210026001",
         "area_town_name": "柱本南一丁目",
-        "area_lat": 35.425662,
-        "area_lng": 136.687803
+        "area_lat": 35.425759,
+        "area_lng": 136.686513
     },
     {
         "area_city_code": 21421,
@@ -52782,6 +52814,54 @@
         "area_town_name": "北方",
         "area_lat": 35.437267,
         "area_lng": 136.689849
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034001",
+        "area_town_name": "高屋清流一丁目",
+        "area_lat": 35.422094,
+        "area_lng": 136.686105
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034002",
+        "area_town_name": "高屋清流二丁目",
+        "area_lat": 35.423303,
+        "area_lng": 136.685692
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034003",
+        "area_town_name": "高屋清流三丁目",
+        "area_lat": 35.421597,
+        "area_lng": 136.68402
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034004",
+        "area_town_name": "高屋清流四丁目",
+        "area_lat": 35.420162,
+        "area_lng": 136.684394
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034005",
+        "area_town_name": "高屋清流五丁目",
+        "area_lat": 35.420026,
+        "area_lng": 136.682285
+    },
+    {
+        "area_city_code": 21421,
+        "area_city_name": "本巣郡北方町",
+        "area_town_code": "214210034006",
+        "area_town_name": "高屋清流六丁目",
+        "area_lat": 35.417864,
+        "area_lng": 136.681322
     },
     {
         "area_city_code": 21501,

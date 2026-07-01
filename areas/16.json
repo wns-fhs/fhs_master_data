@@ -3908,8 +3908,8 @@
         "area_city_name": "富山市",
         "area_town_code": "162010370001",
         "area_town_name": "中央通り一丁目",
-        "area_lat": 36.689633,
-        "area_lng": 137.217152
+        "area_lat": 36.689795,
+        "area_lng": 137.216754
     },
     {
         "area_city_code": 16201,
@@ -5396,16 +5396,16 @@
         "area_city_name": "富山市",
         "area_town_code": "162010495000",
         "area_town_name": "野田",
-        "area_lat": 36.746989,
-        "area_lng": 137.281801
+        "area_lat": 36.747738,
+        "area_lng": 137.280925
     },
     {
         "area_city_code": 16201,
         "area_city_name": "富山市",
         "area_town_code": "162010496000",
         "area_town_name": "野中",
-        "area_lat": 36.739436,
-        "area_lng": 137.280015
+        "area_lat": 36.739404,
+        "area_lng": 137.27812
     },
     {
         "area_city_code": 16201,
@@ -5636,8 +5636,8 @@
         "area_city_name": "富山市",
         "area_town_code": "162010517000",
         "area_town_name": "浜黒崎",
-        "area_lat": 36.751993,
-        "area_lng": 137.276275
+        "area_lat": 36.748927,
+        "area_lng": 137.280128
     },
     {
         "area_city_code": 16201,
@@ -5916,8 +5916,8 @@
         "area_city_name": "富山市",
         "area_town_code": "162010545000",
         "area_town_name": "平榎",
-        "area_lat": 36.742184,
-        "area_lng": 137.275676
+        "area_lat": 36.742159,
+        "area_lng": 137.282967
     },
     {
         "area_city_code": 16201,
@@ -10060,8 +10060,8 @@
         "area_city_name": "富山市",
         "area_town_code": "162011019000",
         "area_town_name": "横越",
-        "area_lat": 36.750357,
-        "area_lng": 137.287275
+        "area_lat": 36.75032,
+        "area_lng": 137.288887
     },
     {
         "area_city_code": 16201,
@@ -10238,6 +10238,14 @@
         "area_town_name": "水落一丁目",
         "area_lat": 36.735136,
         "area_lng": 137.248964
+    },
+    {
+        "area_city_code": 16201,
+        "area_city_name": "富山市",
+        "area_town_code": "162011033000",
+        "area_town_name": "浜黒崎町",
+        "area_lat": 36.751882,
+        "area_lng": 137.279414
     },
     {
         "area_city_code": 16202,
@@ -20244,8 +20252,8 @@
         "area_city_name": "南砺市",
         "area_town_code": "162100094000",
         "area_town_name": "是安",
-        "area_lat": 36.526477,
-        "area_lng": 136.903482
+        "area_lat": 36.527467,
+        "area_lng": 136.903288
     },
     {
         "area_city_code": 16210,
@@ -21172,8 +21180,8 @@
         "area_city_name": "南砺市",
         "area_town_code": "162100210000",
         "area_town_name": "信末",
-        "area_lat": 36.535559,
-        "area_lng": 136.908882
+        "area_lat": 36.536,
+        "area_lng": 136.907289
     },
     {
         "area_city_code": 16210,
@@ -23180,8 +23188,8 @@
         "area_city_name": "射水市",
         "area_town_code": "162110133000",
         "area_town_name": "本開発",
-        "area_lat": 36.728786,
-        "area_lng": 137.082865
+        "area_lat": 36.728078,
+        "area_lng": 137.082183
     },
     {
         "area_city_code": 16211,
@@ -23844,8 +23852,8 @@
         "area_city_name": "中新川郡上市町",
         "area_town_code": "163220009000",
         "area_town_name": "飯坂新",
-        "area_lat": 36.716626,
-        "area_lng": 137.329417
+        "area_lat": 36.716044,
+        "area_lng": 137.32978
     },
     {
         "area_city_code": 16322,
@@ -24492,16 +24500,16 @@
         "area_city_name": "中新川郡上市町",
         "area_town_code": "163220086000",
         "area_town_name": "久金",
-        "area_lat": 36.723271,
-        "area_lng": 137.32687
+        "area_lat": 36.723291,
+        "area_lng": 137.326349
     },
     {
         "area_city_code": 16322,
         "area_city_name": "中新川郡上市町",
         "area_town_code": "163220087000",
         "area_town_name": "久金新",
-        "area_lat": 36.719803,
-        "area_lng": 137.324538
+        "area_lat": 36.721484,
+        "area_lng": 137.323792
     },
     {
         "area_city_code": 16322,

@@ -732,8 +732,8 @@
         "area_city_name": "津市",
         "area_town_code": "242010085001",
         "area_town_name": "上浜町一丁目",
-        "area_lat": 34.737883,
-        "area_lng": 136.51309
+        "area_lat": 34.737977,
+        "area_lng": 136.513261
     },
     {
         "area_city_code": 24201,
@@ -1236,8 +1236,8 @@
         "area_city_name": "津市",
         "area_town_code": "242010136004",
         "area_town_name": "栄町四丁目",
-        "area_lat": 34.735503,
-        "area_lng": 136.513304
+        "area_lat": 34.735673,
+        "area_lng": 136.513098
     },
     {
         "area_city_code": 24201,
@@ -1908,8 +1908,8 @@
         "area_city_name": "津市",
         "area_town_code": "242010202000",
         "area_town_name": "羽所町",
-        "area_lat": 34.733402,
-        "area_lng": 136.511153
+        "area_lat": 34.733289,
+        "area_lng": 136.510967
     },
     {
         "area_city_code": 24201,
@@ -9980,8 +9980,8 @@
         "area_city_name": "桑名市",
         "area_town_code": "242050066000",
         "area_town_name": "大字蓮花寺",
-        "area_lat": 35.066413,
-        "area_lng": 136.650328
+        "area_lat": 35.070203,
+        "area_lng": 136.65147
     },
     {
         "area_city_code": 24205,
@@ -10380,8 +10380,8 @@
         "area_city_name": "桑名市",
         "area_town_code": "242050099004",
         "area_town_name": "新西方四丁目",
-        "area_lat": 35.070542,
-        "area_lng": 136.656132
+        "area_lat": 35.070096,
+        "area_lng": 136.656137
     },
     {
         "area_city_code": 24205,
@@ -10406,6 +10406,14 @@
         "area_town_name": "新西方七丁目",
         "area_lat": 35.066768,
         "area_lng": 136.660311
+    },
+    {
+        "area_city_code": 24205,
+        "area_city_name": "桑名市",
+        "area_town_code": "242050099008",
+        "area_town_name": "新西方八丁目",
+        "area_lat": 35.06911,
+        "area_lng": 136.654386
     },
     {
         "area_city_code": 24205,
@@ -10580,8 +10588,8 @@
         "area_city_name": "桑名市",
         "area_town_code": "242050114000",
         "area_town_name": "多度町小山",
-        "area_lat": 35.12847,
-        "area_lng": 136.636589
+        "area_lat": 35.123212,
+        "area_lng": 136.632155
     },
     {
         "area_city_code": 24205,
@@ -10628,8 +10636,8 @@
         "area_city_name": "桑名市",
         "area_town_code": "242050120000",
         "area_town_name": "多度町多度",
-        "area_lat": 35.147652,
-        "area_lng": 136.614122
+        "area_lat": 35.133916,
+        "area_lng": 136.627023
     },
     {
         "area_city_code": 24205,
@@ -10644,8 +10652,8 @@
         "area_city_name": "桑名市",
         "area_town_code": "242050121002",
         "area_town_name": "多度町多度二丁目",
-        "area_lat": 35.130332,
-        "area_lng": 136.630406
+        "area_lat": 35.130473,
+        "area_lng": 136.631003
     },
     {
         "area_city_code": 24205,
@@ -11950,6 +11958,22 @@
         "area_town_name": "さくらの丘",
         "area_lat": 35.067411,
         "area_lng": 136.654108
+    },
+    {
+        "area_city_code": 24205,
+        "area_city_name": "桑名市",
+        "area_town_code": "242050546001",
+        "area_town_name": "小山台一丁目",
+        "area_lat": 35.128057,
+        "area_lng": 136.634799
+    },
+    {
+        "area_city_code": 24205,
+        "area_city_name": "桑名市",
+        "area_town_code": "242050546002",
+        "area_town_name": "小山台二丁目",
+        "area_lat": 35.128383,
+        "area_lng": 136.630728
     },
     {
         "area_city_code": 24207,

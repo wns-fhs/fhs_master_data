@@ -4596,32 +4596,32 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050003000",
         "area_town_name": "西柳原町",
-        "area_lat": 34.669608,
-        "area_lng": 135.168687
+        "area_lat": 34.669555,
+        "area_lng": 135.168761
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050004000",
         "area_town_name": "門口町",
-        "area_lat": 34.670512,
-        "area_lng": 135.170186
+        "area_lat": 34.670526,
+        "area_lng": 135.170303
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050005000",
         "area_town_name": "西仲町",
-        "area_lat": 34.669762,
-        "area_lng": 135.172896
+        "area_lat": 34.669708,
+        "area_lng": 135.172926
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050006000",
         "area_town_name": "西宮内町",
-        "area_lat": 34.669705,
-        "area_lng": 135.1717
+        "area_lat": 34.669604,
+        "area_lng": 135.171839
     },
     {
         "area_city_code": 28105,
@@ -4972,32 +4972,32 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050015000",
         "area_town_name": "神明町",
-        "area_lat": 34.66795,
-        "area_lng": 135.172359
+        "area_lat": 34.667909,
+        "area_lng": 135.172398
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050016000",
         "area_town_name": "北逆瀬川町",
-        "area_lat": 34.668218,
-        "area_lng": 135.171275
+        "area_lat": 34.668148,
+        "area_lng": 135.171289
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050017000",
         "area_town_name": "南仲町",
-        "area_lat": 34.667723,
-        "area_lng": 135.173229
+        "area_lat": 34.667743,
+        "area_lng": 135.173232
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050018000",
         "area_town_name": "船大工町",
-        "area_lat": 34.667554,
-        "area_lng": 135.175282
+        "area_lat": 34.667404,
+        "area_lng": 135.175485
     },
     {
         "area_city_code": 28105,
@@ -5005,15 +5005,15 @@
         "area_town_code": "281050019000",
         "area_town_name": "磯之町",
         "area_lat": 34.667565,
-        "area_lng": 135.174137
+        "area_lng": 135.174173
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050020000",
         "area_town_name": "南逆瀬川町",
-        "area_lat": 34.666753,
-        "area_lng": 135.170923
+        "area_lat": 34.666717,
+        "area_lng": 135.170922
     },
     {
         "area_city_code": 28105,
@@ -5060,16 +5060,16 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050022000",
         "area_town_name": "築地町",
-        "area_lat": 34.664895,
-        "area_lng": 135.182146
+        "area_lat": 34.665149,
+        "area_lng": 135.182577
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050023001",
         "area_town_name": "中之島一丁目",
-        "area_lat": 34.666106,
-        "area_lng": 135.176974
+        "area_lat": 34.666173,
+        "area_lng": 135.1776
     },
     {
         "area_city_code": 28105,
@@ -5084,8 +5084,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050024000",
         "area_town_name": "切戸町",
-        "area_lat": 34.665356,
-        "area_lng": 135.171933
+        "area_lat": 34.665652,
+        "area_lng": 135.172254
     },
     {
         "area_city_code": 28105,
@@ -5228,8 +5228,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050029000",
         "area_town_name": "東柳原町",
-        "area_lat": 34.668408,
-        "area_lng": 135.169666
+        "area_lat": 34.668311,
+        "area_lng": 135.169782
     },
     {
         "area_city_code": 28105,
@@ -5300,8 +5300,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050032000",
         "area_town_name": "浜崎通",
-        "area_lat": 34.668079,
-        "area_lng": 135.167284
+        "area_lat": 34.667981,
+        "area_lng": 135.167135
     },
     {
         "area_city_code": 28105,
@@ -5684,8 +5684,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050044000",
         "area_town_name": "材木町",
-        "area_lat": 34.658611,
-        "area_lng": 135.166602
+        "area_lat": 34.65859,
+        "area_lng": 135.167102
     },
     {
         "area_city_code": 28105,
@@ -5780,32 +5780,32 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050050000",
         "area_town_name": "遠矢浜町",
-        "area_lat": 34.650099,
-        "area_lng": 135.170288
+        "area_lat": 34.649862,
+        "area_lng": 135.170757
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050051000",
         "area_town_name": "高松町",
-        "area_lat": 34.652566,
-        "area_lng": 135.161132
+        "area_lat": 34.653033,
+        "area_lng": 135.1612
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050052000",
         "area_town_name": "楠谷町",
-        "area_lat": 34.692692,
-        "area_lng": 135.174118
+        "area_lat": 34.693042,
+        "area_lng": 135.174416
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050053000",
         "area_town_name": "梅元町",
-        "area_lat": 34.693078,
-        "area_lng": 135.171806
+        "area_lat": 34.692957,
+        "area_lng": 135.171898
     },
     {
         "area_city_code": 28105,
@@ -5828,16 +5828,16 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050055000",
         "area_town_name": "五宮町",
-        "area_lat": 34.692412,
-        "area_lng": 135.169578
+        "area_lat": 34.692382,
+        "area_lng": 135.169674
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050056000",
         "area_town_name": "平野町",
-        "area_lat": 34.703469,
-        "area_lng": 135.165435
+        "area_lat": 34.702619,
+        "area_lng": 135.16723
     },
     {
         "area_city_code": 28105,
@@ -5924,23 +5924,23 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050060000",
         "area_town_name": "馬場町",
-        "area_lat": 34.687774,
-        "area_lng": 135.171148
+        "area_lat": 34.687889,
+        "area_lng": 135.171441
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050061000",
         "area_town_name": "矢部町",
-        "area_lat": 34.690565,
-        "area_lng": 135.172867
+        "area_lat": 34.690672,
+        "area_lng": 135.172708
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050062000",
         "area_town_name": "神田町",
-        "area_lat": 34.689944,
+        "area_lat": 34.689989,
         "area_lng": 135.170677
     },
     {
@@ -5948,8 +5948,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050063000",
         "area_town_name": "上祇園町",
-        "area_lat": 34.691921,
-        "area_lng": 135.167698
+        "area_lat": 34.691864,
+        "area_lng": 135.167693
     },
     {
         "area_city_code": 28105,
@@ -6324,40 +6324,40 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050071000",
         "area_town_name": "下祇園町",
-        "area_lat": 34.688575,
-        "area_lng": 135.169232
+        "area_lat": 34.68875,
+        "area_lng": 135.169085
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050072000",
         "area_town_name": "下三条町",
-        "area_lat": 34.688838,
-        "area_lng": 135.166976
+        "area_lat": 34.688728,
+        "area_lng": 135.166955
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050073000",
         "area_town_name": "上三条町",
-        "area_lat": 34.691529,
-        "area_lng": 135.166555
+        "area_lat": 34.691274,
+        "area_lng": 135.16658
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050074000",
         "area_town_name": "雪御所町",
-        "area_lat": 34.688321,
-        "area_lng": 135.16509
+        "area_lat": 34.688626,
+        "area_lng": 135.165055
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050075000",
         "area_town_name": "湊山町",
-        "area_lat": 34.691257,
-        "area_lng": 135.164658
+        "area_lat": 34.691176,
+        "area_lng": 135.164974
     },
     {
         "area_city_code": 28105,
@@ -6436,64 +6436,64 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050079000",
         "area_town_name": "北山町",
-        "area_lat": 34.688583,
-        "area_lng": 135.156878
+        "area_lat": 34.688518,
+        "area_lng": 135.15673
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050080000",
         "area_town_name": "烏原町",
-        "area_lat": 34.696874,
-        "area_lng": 135.151644
+        "area_lat": 34.695808,
+        "area_lng": 135.153311
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050081000",
         "area_town_name": "里山町",
-        "area_lat": 34.693254,
-        "area_lng": 135.140933
+        "area_lat": 34.692976,
+        "area_lng": 135.142459
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050082000",
         "area_town_name": "鵯越町",
-        "area_lat": 34.682236,
-        "area_lng": 135.154014
+        "area_lat": 34.682428,
+        "area_lng": 135.15423
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050083000",
         "area_town_name": "清水町",
-        "area_lat": 34.686526,
-        "area_lng": 135.154054
+        "area_lat": 34.686266,
+        "area_lng": 135.153964
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050084000",
         "area_town_name": "小山町",
-        "area_lat": 34.684701,
-        "area_lng": 135.152698
+        "area_lat": 34.684936,
+        "area_lng": 135.152772
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050085000",
         "area_town_name": "滝山町",
-        "area_lat": 34.684315,
-        "area_lng": 135.15141
+        "area_lat": 34.68447,
+        "area_lng": 135.151199
     },
     {
         "area_city_code": 28105,
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050086000",
         "area_town_name": "鵯越筋",
-        "area_lat": 34.688387,
-        "area_lng": 135.149113
+        "area_lat": 34.687607,
+        "area_lng": 135.152299
     },
     {
         "area_city_code": 28105,
@@ -6668,8 +6668,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050094000",
         "area_town_name": "佐比江町",
-        "area_lat": 34.673442,
-        "area_lng": 135.175974
+        "area_lat": 34.673659,
+        "area_lng": 135.176041
     },
     {
         "area_city_code": 28105,
@@ -6700,8 +6700,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050096000",
         "area_town_name": "西出町",
-        "area_lat": 34.673285,
-        "area_lng": 135.176913
+        "area_lat": 34.673121,
+        "area_lng": 135.176708
     },
     {
         "area_city_code": 28105,
@@ -6988,8 +6988,8 @@
         "area_city_name": "神戸市兵庫区",
         "area_town_code": "281050102000",
         "area_town_name": "福原町",
-        "area_lat": 34.679283,
-        "area_lng": 135.169753
+        "area_lat": 34.679205,
+        "area_lng": 135.16991
     },
     {
         "area_city_code": 28105,
@@ -13028,8 +13028,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080003000",
         "area_town_name": "多聞町",
-        "area_lat": 34.670004,
-        "area_lng": 135.056639
+        "area_lat": 34.670119,
+        "area_lng": 135.054999
     },
     {
         "area_city_code": 28108,
@@ -13108,8 +13108,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080005000",
         "area_town_name": "名谷町",
-        "area_lat": 34.662028,
-        "area_lng": 135.068106
+        "area_lat": 34.660297,
+        "area_lng": 135.071074
     },
     {
         "area_city_code": 28108,
@@ -13220,8 +13220,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080009000",
         "area_town_name": "宮本町",
-        "area_lat": 34.628008,
-        "area_lng": 135.052942
+        "area_lat": 34.628069,
+        "area_lng": 135.053053
     },
     {
         "area_city_code": 28108,
@@ -13316,32 +13316,32 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080013000",
         "area_town_name": "御霊町",
-        "area_lat": 34.633009,
-        "area_lng": 135.057972
+        "area_lat": 34.633043,
+        "area_lng": 135.057885
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080014000",
         "area_town_name": "瑞ケ丘",
-        "area_lat": 34.633811,
-        "area_lng": 135.056087
+        "area_lat": 34.633801,
+        "area_lng": 135.056268
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080015000",
         "area_town_name": "陸ノ町",
-        "area_lat": 34.63184,
-        "area_lng": 135.05429
+        "area_lat": 34.631661,
+        "area_lng": 135.054413
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080016000",
         "area_town_name": "神田町",
-        "area_lat": 34.629904,
-        "area_lng": 135.054232
+        "area_lat": 34.62983,
+        "area_lng": 135.05399
     },
     {
         "area_city_code": 28108,
@@ -13412,8 +13412,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080018000",
         "area_town_name": "天ノ下町",
-        "area_lat": 34.630762,
-        "area_lng": 135.052128
+        "area_lat": 34.630797,
+        "area_lng": 135.052156
     },
     {
         "area_city_code": 28108,
@@ -13500,8 +13500,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080021000",
         "area_town_name": "海岸通",
-        "area_lat": 34.627203,
-        "area_lng": 135.04578
+        "area_lat": 34.627192,
+        "area_lng": 135.045554
     },
     {
         "area_city_code": 28108,
@@ -13540,8 +13540,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080023000",
         "area_town_name": "東舞子町",
-        "area_lat": 34.632261,
-        "area_lng": 135.036231
+        "area_lat": 34.631954,
+        "area_lng": 135.035576
     },
     {
         "area_city_code": 28108,
@@ -14068,8 +14068,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080036000",
         "area_town_name": "舞子陵",
-        "area_lat": 34.646032,
-        "area_lng": 135.042263
+        "area_lat": 34.646056,
+        "area_lng": 135.041456
     },
     {
         "area_city_code": 28108,
@@ -14204,8 +14204,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080039005",
         "area_town_name": "学が丘五丁目",
-        "area_lat": 34.658331,
-        "area_lng": 135.059489
+        "area_lat": 34.658535,
+        "area_lng": 135.06068
     },
     {
         "area_city_code": 28108,
@@ -14316,32 +14316,32 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080043001",
         "area_town_name": "桃山台一丁目",
-        "area_lat": 34.651808,
-        "area_lng": 135.079856
+        "area_lat": 34.651774,
+        "area_lng": 135.079725
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080043002",
         "area_town_name": "桃山台二丁目",
-        "area_lat": 34.652188,
-        "area_lng": 135.077653
+        "area_lat": 34.651155,
+        "area_lng": 135.077165
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080043003",
         "area_town_name": "桃山台三丁目",
-        "area_lat": 34.655023,
-        "area_lng": 135.081439
+        "area_lat": 34.655057,
+        "area_lng": 135.081782
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080043004",
         "area_town_name": "桃山台四丁目",
-        "area_lat": 34.657966,
-        "area_lng": 135.080231
+        "area_lat": 34.658167,
+        "area_lng": 135.080688
     },
     {
         "area_city_code": 28108,
@@ -14380,8 +14380,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080044002",
         "area_town_name": "つつじが丘二丁目",
-        "area_lat": 34.656851,
-        "area_lng": 135.07629
+        "area_lat": 34.656824,
+        "area_lng": 135.076448
     },
     {
         "area_city_code": 28108,
@@ -14428,16 +14428,16 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080045000",
         "area_town_name": "朝谷町",
-        "area_lat": 34.650548,
-        "area_lng": 135.092523
+        "area_lat": 34.650428,
+        "area_lng": 135.092445
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080046000",
         "area_town_name": "清玄町",
-        "area_lat": 34.653355,
-        "area_lng": 135.0921
+        "area_lat": 34.653081,
+        "area_lng": 135.091727
     },
     {
         "area_city_code": 28108,
@@ -14516,8 +14516,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080050000",
         "area_town_name": "下畑町",
-        "area_lat": 34.650689,
-        "area_lng": 135.084777
+        "area_lat": 34.651055,
+        "area_lng": 135.08916
     },
     {
         "area_city_code": 28108,
@@ -14716,8 +14716,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080055003",
         "area_town_name": "美山台三丁目",
-        "area_lat": 34.644613,
-        "area_lng": 135.069392
+        "area_lat": 34.644049,
+        "area_lng": 135.069632
     },
     {
         "area_city_code": 28108,
@@ -14788,8 +14788,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080058000",
         "area_town_name": "東垂水町",
-        "area_lat": 34.642796,
-        "area_lng": 135.067117
+        "area_lat": 34.641439,
+        "area_lng": 135.072309
     },
     {
         "area_city_code": 28108,
@@ -14820,8 +14820,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080060000",
         "area_town_name": "塩屋町",
-        "area_lat": 34.639764,
-        "area_lng": 135.087986
+        "area_lat": 34.639653,
+        "area_lng": 135.087077
     },
     {
         "area_city_code": 28108,
@@ -15036,8 +15036,8 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080066000",
         "area_town_name": "清水通",
-        "area_lat": 34.633644,
-        "area_lng": 135.058604
+        "area_lat": 34.633869,
+        "area_lng": 135.058736
     },
     {
         "area_city_code": 28108,
@@ -15156,32 +15156,32 @@
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080070000",
         "area_town_name": "瑞穂通",
-        "area_lat": 34.634415,
-        "area_lng": 135.059456
+        "area_lat": 34.634564,
+        "area_lng": 135.059764
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080071000",
         "area_town_name": "馬場通",
-        "area_lat": 34.635311,
-        "area_lng": 135.06051
+        "area_lat": 34.635327,
+        "area_lng": 135.060325
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080072000",
         "area_town_name": "野田通",
-        "area_lat": 34.636281,
-        "area_lng": 135.060497
+        "area_lat": 34.636095,
+        "area_lng": 135.060403
     },
     {
         "area_city_code": 28108,
         "area_city_name": "神戸市垂水区",
         "area_town_code": "281080073000",
         "area_town_name": "小束台",
-        "area_lat": 34.673657,
-        "area_lng": 135.050945
+        "area_lat": 34.673675,
+        "area_lng": 135.051299
     },
     {
         "area_city_code": 28108,
@@ -15192,20 +15192,28 @@
         "area_lng": 135.056714
     },
     {
+        "area_city_code": 28108,
+        "area_city_name": "神戸市垂水区",
+        "area_town_code": "281080075000",
+        "area_town_name": "みずき台",
+        "area_lat": 34.652887,
+        "area_lng": 135.075634
+    },
+    {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090001000",
         "area_town_name": "桜森町",
-        "area_lat": 34.743738,
-        "area_lng": 135.173906
+        "area_lat": 34.743558,
+        "area_lng": 135.173803
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090002000",
         "area_town_name": "山田町東下",
-        "area_lat": 34.7614,
-        "area_lng": 135.119754
+        "area_lat": 34.757911,
+        "area_lng": 135.121552
     },
     {
         "area_city_code": 28109,
@@ -15340,24 +15348,24 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090006000",
         "area_town_name": "有野町唐櫃",
-        "area_lat": 34.781502,
-        "area_lng": 135.225979
+        "area_lat": 34.78205,
+        "area_lng": 135.222745
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090007000",
         "area_town_name": "有馬町",
-        "area_lat": 34.789225,
-        "area_lng": 135.255196
+        "area_lat": 34.789695,
+        "area_lng": 135.255299
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090008000",
         "area_town_name": "山田町上谷上",
-        "area_lat": 34.759717,
-        "area_lng": 135.192908
+        "area_lat": 34.763937,
+        "area_lng": 135.189277
     },
     {
         "area_city_code": 28109,
@@ -15420,24 +15428,24 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090010001",
         "area_town_name": "緑町一丁目",
-        "area_lat": 34.746915,
-        "area_lng": 135.153087
+        "area_lat": 34.746932,
+        "area_lng": 135.153043
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090010002",
         "area_town_name": "緑町二丁目",
-        "area_lat": 34.749223,
-        "area_lng": 135.148664
+        "area_lat": 34.748993,
+        "area_lng": 135.14914
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090010003",
         "area_town_name": "緑町三丁目",
-        "area_lat": 34.75015,
-        "area_lng": 135.150341
+        "area_lat": 34.749934,
+        "area_lng": 135.151235
     },
     {
         "area_city_code": 28109,
@@ -15476,8 +15484,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090010008",
         "area_town_name": "緑町八丁目",
-        "area_lat": 34.751249,
-        "area_lng": 135.153304
+        "area_lat": 34.751436,
+        "area_lng": 135.153301
     },
     {
         "area_city_code": 28109,
@@ -15516,8 +15524,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090012000",
         "area_town_name": "山田町原野",
-        "area_lat": 34.766309,
-        "area_lng": 135.143237
+        "area_lat": 34.773041,
+        "area_lng": 135.148502
     },
     {
         "area_city_code": 28109,
@@ -15564,88 +15572,88 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090014000",
         "area_town_name": "山田町中",
-        "area_lat": 34.77234,
-        "area_lng": 135.129498
+        "area_lat": 34.774185,
+        "area_lng": 135.130512
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090015000",
         "area_town_name": "山田町小河",
-        "area_lat": 34.749125,
-        "area_lng": 135.100783
+        "area_lat": 34.749016,
+        "area_lng": 135.099484
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090016000",
         "area_town_name": "山田町西下",
-        "area_lat": 34.756688,
-        "area_lng": 135.108599
+        "area_lat": 34.75783,
+        "area_lng": 135.107942
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090017000",
         "area_town_name": "山田町坂本",
-        "area_lat": 34.780511,
-        "area_lng": 135.114776
+        "area_lat": 34.781467,
+        "area_lng": 135.114449
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090018000",
         "area_town_name": "淡河町野瀬",
-        "area_lat": 34.801654,
-        "area_lng": 135.153856
+        "area_lat": 34.804976,
+        "area_lng": 135.149265
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090019000",
         "area_town_name": "淡河町萩原",
-        "area_lat": 34.810432,
-        "area_lng": 135.109188
+        "area_lat": 34.811176,
+        "area_lng": 135.109356
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090020000",
         "area_town_name": "淡河町木津",
-        "area_lat": 34.810559,
-        "area_lng": 135.118847
+        "area_lat": 34.809734,
+        "area_lng": 135.118249
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090021000",
         "area_town_name": "淡河町行原",
-        "area_lat": 34.812832,
-        "area_lng": 135.125174
+        "area_lat": 34.814269,
+        "area_lng": 135.124801
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090022000",
         "area_town_name": "淡河町北畑",
-        "area_lat": 34.826978,
-        "area_lng": 135.122753
+        "area_lat": 34.827352,
+        "area_lng": 135.123931
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090023000",
         "area_town_name": "淡河町南僧尾",
-        "area_lat": 34.829116,
-        "area_lng": 135.109207
+        "area_lat": 34.828255,
+        "area_lng": 135.108011
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090024000",
         "area_town_name": "淡河町北僧尾",
-        "area_lat": 34.836076,
-        "area_lng": 135.116654
+        "area_lat": 34.837143,
+        "area_lng": 135.112933
     },
     {
         "area_city_code": 28109,
@@ -15684,32 +15692,32 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090026000",
         "area_town_name": "道場町塩田",
-        "area_lat": 34.865533,
-        "area_lng": 135.237089
+        "area_lat": 34.867815,
+        "area_lng": 135.238261
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090027000",
         "area_town_name": "道場町生野",
-        "area_lat": 34.864133,
-        "area_lng": 135.268285
+        "area_lat": 34.864738,
+        "area_lng": 135.266665
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090028000",
         "area_town_name": "有野町有野",
-        "area_lat": 34.816201,
-        "area_lng": 135.223084
+        "area_lat": 34.807121,
+        "area_lng": 135.214288
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090029000",
         "area_town_name": "有野町二郎",
-        "area_lat": 34.845818,
-        "area_lng": 135.227001
+        "area_lat": 34.846638,
+        "area_lng": 135.227932
     },
     {
         "area_city_code": 28109,
@@ -15732,64 +15740,64 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090031000",
         "area_town_name": "八多町上小名田",
-        "area_lat": 34.835567,
-        "area_lng": 135.196431
+        "area_lat": 34.836498,
+        "area_lng": 135.197166
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090032000",
         "area_town_name": "八多町吉尾",
-        "area_lat": 34.827327,
-        "area_lng": 135.209788
+        "area_lat": 34.828409,
+        "area_lng": 135.209312
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090033000",
         "area_town_name": "大沢町神付",
-        "area_lat": 34.837034,
-        "area_lng": 135.181061
+        "area_lat": 34.836344,
+        "area_lng": 135.182048
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090034000",
         "area_town_name": "大沢町中大沢",
-        "area_lat": 34.847893,
-        "area_lng": 135.161989
+        "area_lat": 34.848615,
+        "area_lng": 135.164509
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090035000",
         "area_town_name": "大沢町上大沢",
-        "area_lat": 34.849402,
-        "area_lng": 135.184629
+        "area_lat": 34.848749,
+        "area_lng": 135.180034
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090036000",
         "area_town_name": "八多町西畑",
-        "area_lat": 34.828918,
-        "area_lng": 135.170298
+        "area_lat": 34.819829,
+        "area_lng": 135.167923
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090037000",
         "area_town_name": "淡河町神影",
-        "area_lat": 34.832175,
-        "area_lng": 135.142093
+        "area_lat": 34.831413,
+        "area_lng": 135.142478
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090038000",
         "area_town_name": "淡河町神田",
-        "area_lat": 34.831777,
-        "area_lng": 135.156388
+        "area_lat": 34.830329,
+        "area_lng": 135.156684
     },
     {
         "area_city_code": 28109,
@@ -16204,8 +16212,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090046006",
         "area_town_name": "鈴蘭台西町六丁目",
-        "area_lat": 34.731738,
-        "area_lng": 135.146042
+        "area_lat": 34.731906,
+        "area_lng": 135.145966
     },
     {
         "area_city_code": 28109,
@@ -16412,16 +16420,16 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090051000",
         "area_town_name": "大脇台",
-        "area_lat": 34.7387,
-        "area_lng": 135.161621
+        "area_lat": 34.738699,
+        "area_lng": 135.161631
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090052000",
         "area_town_name": "山田町小部",
-        "area_lat": 34.732713,
-        "area_lng": 135.162901
+        "area_lat": 34.733477,
+        "area_lng": 135.162202
     },
     {
         "area_city_code": 28109,
@@ -16612,24 +16620,24 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090059000",
         "area_town_name": "谷上西町",
-        "area_lat": 34.761782,
-        "area_lng": 135.168577
+        "area_lat": 34.761494,
+        "area_lng": 135.166663
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090060000",
         "area_town_name": "谷上南町",
-        "area_lat": 34.763301,
-        "area_lng": 135.178887
+        "area_lat": 34.763007,
+        "area_lng": 135.178155
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090061000",
         "area_town_name": "谷上東町",
-        "area_lat": 34.763322,
-        "area_lng": 135.175715
+        "area_lat": 34.76314,
+        "area_lng": 135.174469
     },
     {
         "area_city_code": 28109,
@@ -16716,8 +16724,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090065000",
         "area_town_name": "花山東町",
-        "area_lat": 34.765359,
-        "area_lng": 135.185496
+        "area_lat": 34.765214,
+        "area_lng": 135.186006
     },
     {
         "area_city_code": 28109,
@@ -16748,8 +16756,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090067000",
         "area_town_name": "唐櫃六甲台",
-        "area_lat": 34.782871,
-        "area_lng": 135.207807
+        "area_lat": 34.782571,
+        "area_lng": 135.207831
     },
     {
         "area_city_code": 28109,
@@ -16780,8 +16788,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090069000",
         "area_town_name": "大池見山台",
-        "area_lat": 34.774331,
-        "area_lng": 135.191494
+        "area_lat": 34.774874,
+        "area_lng": 135.191634
     },
     {
         "area_city_code": 28109,
@@ -16804,32 +16812,32 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090071000",
         "area_town_name": "花山台",
-        "area_lat": 34.769503,
-        "area_lng": 135.184592
+        "area_lat": 34.769573,
+        "area_lng": 135.184421
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090072000",
         "area_town_name": "青葉台",
-        "area_lat": 34.766144,
-        "area_lng": 135.152369
+        "area_lat": 34.766017,
+        "area_lng": 135.152173
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090073000",
         "area_town_name": "柏尾台",
-        "area_lat": 34.77131,
-        "area_lng": 135.148013
+        "area_lat": 34.771109,
+        "area_lng": 135.147471
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090074000",
         "area_town_name": "山田町福地",
-        "area_lat": 34.774554,
-        "area_lng": 135.136551
+        "area_lat": 34.775605,
+        "area_lng": 135.135252
     },
     {
         "area_city_code": 28109,
@@ -17092,8 +17100,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090081000",
         "area_town_name": "八多町柳谷",
-        "area_lat": 34.812183,
-        "area_lng": 135.199086
+        "area_lat": 34.811608,
+        "area_lng": 135.199708
     },
     {
         "area_city_code": 28109,
@@ -17156,64 +17164,64 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090083000",
         "area_town_name": "八多町附物",
-        "area_lat": 34.804502,
-        "area_lng": 135.184578
+        "area_lat": 34.805457,
+        "area_lng": 135.189531
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090084000",
         "area_town_name": "八多町屏風",
-        "area_lat": 34.804936,
-        "area_lng": 135.172695
+        "area_lat": 34.805266,
+        "area_lng": 135.173734
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090085000",
         "area_town_name": "八多町深谷",
-        "area_lat": 34.823178,
-        "area_lng": 135.181929
+        "area_lat": 34.823621,
+        "area_lng": 135.181973
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090086000",
         "area_town_name": "淡河町中山",
-        "area_lat": 34.812149,
-        "area_lng": 135.139818
+        "area_lat": 34.811444,
+        "area_lng": 135.139787
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090087000",
         "area_town_name": "淡河町東畑",
-        "area_lat": 34.816293,
-        "area_lng": 135.131193
+        "area_lat": 34.817686,
+        "area_lng": 135.132002
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090088000",
         "area_town_name": "山田町衝原",
-        "area_lat": 34.773259,
-        "area_lng": 135.092761
+        "area_lat": 34.770819,
+        "area_lng": 135.090244
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090089000",
         "area_town_name": "淡河町勝雄",
-        "area_lat": 34.803575,
-        "area_lng": 135.088581
+        "area_lat": 34.800465,
+        "area_lng": 135.090465
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090090000",
         "area_town_name": "淡河町淡河",
-        "area_lat": 34.81002,
-        "area_lng": 135.09751
+        "area_lat": 34.812762,
+        "area_lng": 135.096543
     },
     {
         "area_city_code": 28109,
@@ -17380,40 +17388,40 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090095000",
         "area_town_name": "八多町下小名田",
-        "area_lat": 34.844028,
-        "area_lng": 135.20991
+        "area_lat": 34.844497,
+        "area_lng": 135.210078
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090096000",
         "area_town_name": "道場町平田",
-        "area_lat": 34.852823,
-        "area_lng": 135.237274
+        "area_lat": 34.852442,
+        "area_lng": 135.23725
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090097000",
         "area_town_name": "道場町道場",
-        "area_lat": 34.864108,
-        "area_lng": 135.22932
+        "area_lat": 34.864011,
+        "area_lng": 135.229665
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090098000",
         "area_town_name": "八多町中",
-        "area_lat": 34.850463,
-        "area_lng": 135.218014
+        "area_lat": 34.849468,
+        "area_lng": 135.218219
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090099000",
         "area_town_name": "道場町日下部",
-        "area_lat": 34.860988,
-        "area_lng": 135.227316
+        "area_lat": 34.859145,
+        "area_lng": 135.226999
     },
     {
         "area_city_code": 28109,
@@ -17484,40 +17492,40 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090101000",
         "area_town_name": "大沢町日西原",
-        "area_lat": 34.861132,
-        "area_lng": 135.169126
+        "area_lat": 34.861701,
+        "area_lng": 135.170019
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090102000",
         "area_town_name": "長尾町宅原",
-        "area_lat": 34.862575,
-        "area_lng": 135.206702
+        "area_lat": 34.865574,
+        "area_lng": 135.209246
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090103000",
         "area_town_name": "大沢町市原",
-        "area_lat": 34.873953,
-        "area_lng": 135.171835
+        "area_lat": 34.873196,
+        "area_lng": 135.172368
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090104000",
         "area_town_name": "大沢町簾",
-        "area_lat": 34.870787,
-        "area_lng": 135.160841
+        "area_lat": 34.871046,
+        "area_lng": 135.161428
     },
     {
         "area_city_code": 28109,
         "area_city_name": "神戸市北区",
         "area_town_code": "281090105000",
         "area_town_name": "長尾町上津",
-        "area_lat": 34.876491,
-        "area_lng": 135.193979
+        "area_lat": 34.874278,
+        "area_lng": 135.182936
     },
     {
         "area_city_code": 28109,
@@ -17548,8 +17556,8 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090107000",
         "area_town_name": "山田町下谷上",
-        "area_lat": 34.725645,
-        "area_lng": 135.173837
+        "area_lat": 34.729147,
+        "area_lng": 135.154035
     },
     {
         "area_city_code": 28109,
@@ -17564,8 +17572,16 @@
         "area_city_name": "神戸市北区",
         "area_town_code": "281090109000",
         "area_town_name": "山田町藍那",
-        "area_lat": 34.731305,
-        "area_lng": 135.11473
+        "area_lat": 34.730259,
+        "area_lng": 135.110764
+    },
+    {
+        "area_city_code": 28109,
+        "area_city_name": "神戸市北区",
+        "area_town_code": "281090110000",
+        "area_town_name": "山の街",
+        "area_lat": 34.748124,
+        "area_lng": 135.154372
     },
     {
         "area_city_code": 28110,
@@ -32588,8 +32604,8 @@
         "area_city_name": "尼崎市",
         "area_town_code": "282020129000",
         "area_town_name": "東海岸町",
-        "area_lat": 34.688594,
-        "area_lng": 135.395998
+        "area_lat": 34.693542,
+        "area_lng": 135.399814
     },
     {
         "area_city_code": 28202,
@@ -32956,8 +32972,8 @@
         "area_city_name": "尼崎市",
         "area_town_code": "282020149000",
         "area_town_name": "船出",
-        "area_lat": 34.681365,
-        "area_lng": 135.386911
+        "area_lat": 34.6824,
+        "area_lng": 135.385868
     },
     {
         "area_city_code": 28203,
@@ -47692,16 +47708,16 @@
         "area_city_name": "赤穂市",
         "area_town_code": "282120059000",
         "area_town_name": "浜市",
-        "area_lat": 34.771799,
-        "area_lng": 134.420765
+        "area_lat": 34.771908,
+        "area_lng": 134.418892
     },
     {
         "area_city_code": 28212,
         "area_city_name": "赤穂市",
         "area_town_code": "282120060000",
         "area_town_name": "砂子",
-        "area_lat": 34.767404,
-        "area_lng": 134.412407
+        "area_lat": 34.767527,
+        "area_lng": 134.4136
     },
     {
         "area_city_code": 28212,
@@ -48612,8 +48628,8 @@
         "area_city_name": "宝塚市",
         "area_town_code": "282140010004",
         "area_town_name": "山手台東四丁目",
-        "area_lat": 34.838165,
-        "area_lng": 135.379694
+        "area_lat": 34.838147,
+        "area_lng": 135.379643
     },
     {
         "area_city_code": 28214,
@@ -49004,8 +49020,8 @@
         "area_city_name": "宝塚市",
         "area_town_code": "282140029002",
         "area_town_name": "山本南二丁目",
-        "area_lat": 34.817494,
-        "area_lng": 135.390823
+        "area_lat": 34.817339,
+        "area_lng": 135.39085
     },
     {
         "area_city_code": 28214,
@@ -53044,8 +53060,8 @@
         "area_city_name": "高砂市",
         "area_town_code": "282160084005",
         "area_town_name": "中筋五丁目",
-        "area_lat": 34.783976,
-        "area_lng": 134.787693
+        "area_lat": 34.784464,
+        "area_lng": 134.78701
     },
     {
         "area_city_code": 28216,
@@ -58524,8 +58540,8 @@
         "area_city_name": "丹波篠山市",
         "area_town_code": "282210155000",
         "area_town_name": "網掛",
-        "area_lat": 35.069527,
-        "area_lng": 135.190143
+        "area_lat": 35.068389,
+        "area_lng": 135.185524
     },
     {
         "area_city_code": 28221,
@@ -58548,8 +58564,8 @@
         "area_city_name": "丹波篠山市",
         "area_town_code": "282210158000",
         "area_town_name": "西吹",
-        "area_lat": 35.069092,
-        "area_lng": 135.180395
+        "area_lat": 35.067739,
+        "area_lng": 135.184268
     },
     {
         "area_city_code": 28221,
@@ -61508,8 +61524,8 @@
         "area_city_name": "南あわじ市",
         "area_town_code": "282240016000",
         "area_town_name": "阿那賀",
-        "area_lat": 34.268699,
-        "area_lng": 134.681128
+        "area_lat": 34.27445,
+        "area_lng": 134.674451
     },
     {
         "area_city_code": 28224,
@@ -62060,8 +62076,8 @@
         "area_city_name": "南あわじ市",
         "area_town_code": "282240083000",
         "area_town_name": "倭文長田",
-        "area_lat": 34.322824,
-        "area_lng": 134.797771
+        "area_lat": 34.322939,
+        "area_lng": 134.797407
     },
     {
         "area_city_code": 28224,
@@ -65012,8 +65028,8 @@
         "area_city_name": "加東市",
         "area_town_code": "282280008000",
         "area_town_name": "天神",
-        "area_lat": 34.912806,
-        "area_lng": 135.055336
+        "area_lat": 34.90878,
+        "area_lng": 135.066232
     },
     {
         "area_city_code": 28228,
@@ -65028,8 +65044,8 @@
         "area_city_name": "加東市",
         "area_town_code": "282280010000",
         "area_town_name": "掎鹿谷",
-        "area_lat": 34.913887,
-        "area_lng": 135.06479
+        "area_lat": 34.910206,
+        "area_lng": 135.070207
     },
     {
         "area_city_code": 28228,
@@ -69268,16 +69284,16 @@
         "area_city_name": "揖保郡太子町",
         "area_town_code": "284640012000",
         "area_town_name": "塚森",
-        "area_lat": 34.814167,
-        "area_lng": 134.572643
+        "area_lat": 34.814797,
+        "area_lng": 134.568262
     },
     {
         "area_city_code": 28464,
         "area_city_name": "揖保郡太子町",
         "area_town_code": "284640013000",
         "area_town_name": "吉福",
-        "area_lat": 34.809716,
-        "area_lng": 134.563324
+        "area_lat": 34.810586,
+        "area_lng": 134.564856
     },
     {
         "area_city_code": 28464,
@@ -69430,6 +69446,14 @@
         "area_town_name": "広坂",
         "area_lat": 34.854997,
         "area_lng": 134.591045
+    },
+    {
+        "area_city_code": 28464,
+        "area_city_name": "揖保郡太子町",
+        "area_town_code": "284640034000",
+        "area_town_name": "岩見構下",
+        "area_lat": 34.814427,
+        "area_lng": 134.564483
     },
     {
         "area_city_code": 28481,

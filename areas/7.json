@@ -1628,8 +1628,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020028000",
         "area_town_name": "一箕町大字八幡",
-        "area_lat": 37.506147,
-        "area_lng": 139.952243
+        "area_lat": 37.510351,
+        "area_lng": 139.943548
     },
     {
         "area_city_code": 7202,
@@ -1644,8 +1644,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020030000",
         "area_town_name": "滝沢町",
-        "area_lat": 37.504329,
-        "area_lng": 139.94289
+        "area_lat": 37.505184,
+        "area_lng": 139.942144
     },
     {
         "area_city_code": 7202,
@@ -1668,8 +1668,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020033000",
         "area_town_name": "蚕養町",
-        "area_lat": 37.504517,
-        "area_lng": 139.937187
+        "area_lat": 37.505376,
+        "area_lng": 139.936702
     },
     {
         "area_city_code": 7202,
@@ -2484,16 +2484,16 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020117000",
         "area_town_name": "門田町大字日吉",
-        "area_lat": 37.477046,
-        "area_lng": 139.915244
+        "area_lat": 37.478016,
+        "area_lng": 139.911936
     },
     {
         "area_city_code": 7202,
         "area_city_name": "会津若松市",
         "area_town_code": "72020118000",
         "area_town_name": "桜町",
-        "area_lat": 37.480319,
-        "area_lng": 139.911671
+        "area_lat": 37.479576,
+        "area_lng": 139.90978
     },
     {
         "area_city_code": 7202,
@@ -2924,16 +2924,16 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020166000",
         "area_town_name": "山見町",
-        "area_lat": 37.508085,
-        "area_lng": 139.941666
+        "area_lat": 37.507216,
+        "area_lng": 139.942033
     },
     {
         "area_city_code": 7202,
         "area_city_name": "会津若松市",
         "area_town_code": "72020167000",
         "area_town_name": "白虎町",
-        "area_lat": 37.508691,
-        "area_lng": 139.935195
+        "area_lat": 37.508359,
+        "area_lng": 139.933001
     },
     {
         "area_city_code": 7202,
@@ -2948,8 +2948,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020169000",
         "area_town_name": "駅前町",
-        "area_lat": 37.508953,
-        "area_lng": 139.930528
+        "area_lat": 37.509548,
+        "area_lng": 139.930376
     },
     {
         "area_city_code": 7202,
@@ -3284,16 +3284,16 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020205000",
         "area_town_name": "一箕町大字亀賀",
-        "area_lat": 37.516543,
-        "area_lng": 139.939368
+        "area_lat": 37.517298,
+        "area_lng": 139.943124
     },
     {
         "area_city_code": 7202,
         "area_city_name": "会津若松市",
         "area_town_code": "72020206000",
         "area_town_name": "町北町大字上荒久田",
-        "area_lat": 37.516423,
-        "area_lng": 139.926879
+        "area_lat": 37.515697,
+        "area_lng": 139.930645
     },
     {
         "area_city_code": 7202,
@@ -3452,8 +3452,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020224000",
         "area_town_name": "門田町大字飯寺",
-        "area_lat": 37.472286,
-        "area_lng": 139.906112
+        "area_lat": 37.471378,
+        "area_lng": 139.903669
     },
     {
         "area_city_code": 7202,
@@ -3468,8 +3468,8 @@
         "area_city_name": "会津若松市",
         "area_town_code": "72020226000",
         "area_town_name": "門田町大字徳久",
-        "area_lat": 37.469521,
-        "area_lng": 139.915919
+        "area_lat": 37.472589,
+        "area_lng": 139.911192
     },
     {
         "area_city_code": 7202,
@@ -3502,6 +3502,142 @@
         "area_town_name": "門田町根岸東",
         "area_lat": 37.449298,
         "area_lng": 139.921667
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020231001",
+        "area_town_name": "亀賀一丁目",
+        "area_lat": 37.516659,
+        "area_lng": 139.934281
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020231002",
+        "area_town_name": "亀賀二丁目",
+        "area_lat": 37.516604,
+        "area_lng": 139.938958
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020232001",
+        "area_town_name": "山見一丁目",
+        "area_lat": 37.507088,
+        "area_lng": 139.940015
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020232002",
+        "area_town_name": "山見二丁目",
+        "area_lat": 37.509578,
+        "area_lng": 139.940026
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020233001",
+        "area_town_name": "扇町一丁目",
+        "area_lat": 37.51157,
+        "area_lng": 139.934218
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020233002",
+        "area_town_name": "扇町二丁目",
+        "area_lat": 37.511395,
+        "area_lng": 139.93741
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020233003",
+        "area_town_name": "扇町三丁目",
+        "area_lat": 37.514315,
+        "area_lng": 139.934213
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020234001",
+        "area_town_name": "藤原一丁目",
+        "area_lat": 37.511709,
+        "area_lng": 139.939766
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020234002",
+        "area_town_name": "藤原二丁目",
+        "area_lat": 37.514135,
+        "area_lng": 139.939437
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020235001",
+        "area_town_name": "白虎一丁目",
+        "area_lat": 37.507404,
+        "area_lng": 139.936087
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020235002",
+        "area_town_name": "白虎二丁目",
+        "area_lat": 37.507279,
+        "area_lng": 139.937988
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020235003",
+        "area_town_name": "白虎三丁目",
+        "area_lat": 37.509326,
+        "area_lng": 139.935268
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020235004",
+        "area_town_name": "白虎四丁目",
+        "area_lat": 37.509412,
+        "area_lng": 139.937788
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020236001",
+        "area_town_name": "飯寺南一丁目",
+        "area_lat": 37.474664,
+        "area_lng": 139.909381
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020236002",
+        "area_town_name": "飯寺南二丁目",
+        "area_lat": 37.470541,
+        "area_lng": 139.906225
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020236003",
+        "area_town_name": "飯寺南三丁目",
+        "area_lat": 37.475369,
+        "area_lng": 139.907226
+    },
+    {
+        "area_city_code": 7202,
+        "area_city_name": "会津若松市",
+        "area_town_code": "72020236004",
+        "area_town_name": "飯寺南四丁目",
+        "area_lat": 37.473497,
+        "area_lng": 139.903904
     },
     {
         "area_city_code": 7203,
@@ -3716,8 +3852,8 @@
         "area_city_name": "郡山市",
         "area_town_code": "72030020000",
         "area_town_name": "富田町",
-        "area_lat": 37.414993,
-        "area_lng": 140.345014
+        "area_lat": 37.425491,
+        "area_lng": 140.348079
     },
     {
         "area_city_code": 7203,
@@ -4020,8 +4156,8 @@
         "area_city_name": "郡山市",
         "area_town_code": "72030049000",
         "area_town_name": "富久山町福原",
-        "area_lat": 37.424265,
-        "area_lng": 140.401271
+        "area_lat": 37.430798,
+        "area_lng": 140.392506
     },
     {
         "area_city_code": 7203,
@@ -4156,16 +4292,16 @@
         "area_city_name": "郡山市",
         "area_town_code": "72030056001",
         "area_town_name": "中ノ目一丁目",
-        "area_lat": 37.420764,
-        "area_lng": 140.33374
+        "area_lat": 37.420031,
+        "area_lng": 140.333776
     },
     {
         "area_city_code": 7203,
         "area_city_name": "郡山市",
         "area_town_code": "72030057000",
         "area_town_name": "富久山町八山田",
-        "area_lat": 37.434042,
-        "area_lng": 140.36791
+        "area_lat": 37.43197,
+        "area_lng": 140.390398
     },
     {
         "area_city_code": 7203,
@@ -6606,6 +6742,54 @@
         "area_town_name": "東原三丁目",
         "area_lat": 37.432459,
         "area_lng": 140.355745
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244001",
+        "area_town_name": "富田西一丁目",
+        "area_lat": 37.420199,
+        "area_lng": 140.342479
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244002",
+        "area_town_name": "富田西二丁目",
+        "area_lat": 37.420324,
+        "area_lng": 140.337836
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244003",
+        "area_town_name": "富田西三丁目",
+        "area_lat": 37.421703,
+        "area_lng": 140.33654
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244004",
+        "area_town_name": "富田西四丁目",
+        "area_lat": 37.423672,
+        "area_lng": 140.336784
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244005",
+        "area_town_name": "富田西五丁目",
+        "area_lat": 37.425287,
+        "area_lng": 140.340185
+    },
+    {
+        "area_city_code": 7203,
+        "area_city_name": "郡山市",
+        "area_town_code": "72030244006",
+        "area_town_name": "富田西六丁目",
+        "area_lat": 37.42306,
+        "area_lng": 140.341619
     },
     {
         "area_city_code": 7204,
@@ -18196,16 +18380,16 @@
         "area_city_name": "南相馬市",
         "area_town_code": "72120025000",
         "area_town_name": "原町区大甕",
-        "area_lat": 37.605746,
-        "area_lng": 141.00474
+        "area_lat": 37.601435,
+        "area_lng": 141.007156
     },
     {
         "area_city_code": 7212,
         "area_city_name": "南相馬市",
         "area_town_code": "72120026000",
         "area_town_name": "原町区雫",
-        "area_lat": 37.610182,
-        "area_lng": 141.018326
+        "area_lat": 37.612244,
+        "area_lng": 141.012105
     },
     {
         "area_city_code": 7212,
@@ -18220,16 +18404,16 @@
         "area_city_name": "南相馬市",
         "area_town_code": "72120028000",
         "area_town_name": "原町区萱浜",
-        "area_lat": 37.625583,
-        "area_lng": 141.011417
+        "area_lat": 37.627396,
+        "area_lng": 141.008821
     },
     {
         "area_city_code": 7212,
         "area_city_name": "南相馬市",
         "area_town_code": "72120029000",
         "area_town_name": "原町区上渋佐",
-        "area_lat": 37.639165,
-        "area_lng": 141.000142
+        "area_lat": 37.638777,
+        "area_lng": 140.998696
     },
     {
         "area_city_code": 7212,
@@ -18676,8 +18860,8 @@
         "area_city_name": "南相馬市",
         "area_town_code": "72120076000",
         "area_town_name": "原町区下渋佐",
-        "area_lat": 37.637157,
-        "area_lng": 141.016175
+        "area_lat": 37.635318,
+        "area_lng": 141.017626
     },
     {
         "area_city_code": 7212,
@@ -18980,8 +19164,8 @@
         "area_city_name": "南相馬市",
         "area_town_code": "72120094000",
         "area_town_name": "原町区下高平",
-        "area_lat": 37.646395,
-        "area_lng": 140.987726
+        "area_lat": 37.646415,
+        "area_lng": 140.98927
     },
     {
         "area_city_code": 7212,
@@ -19510,6 +19694,22 @@
         "area_town_name": "原町区陣ケ崎",
         "area_lat": 37.613205,
         "area_lng": 140.944931
+    },
+    {
+        "area_city_code": 7212,
+        "area_city_name": "南相馬市",
+        "area_town_code": "72120140000",
+        "area_town_name": "下渋佐",
+        "area_lat": 37.635661,
+        "area_lng": 141.013503
+    },
+    {
+        "area_city_code": 7212,
+        "area_city_name": "南相馬市",
+        "area_town_code": "72120141000",
+        "area_town_name": "萱浜",
+        "area_lat": 37.619071,
+        "area_lng": 141.011213
     },
     {
         "area_city_code": 7213,

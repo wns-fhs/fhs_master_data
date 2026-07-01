@@ -140,16 +140,16 @@
         "area_city_name": "前橋市",
         "area_town_code": "102010010001",
         "area_town_name": "天川原町一丁目",
-        "area_lat": 36.372891,
-        "area_lng": 139.081867
+        "area_lat": 36.373925,
+        "area_lng": 139.081054
     },
     {
         "area_city_code": 10201,
         "area_city_name": "前橋市",
         "area_town_code": "102010010002",
         "area_town_name": "天川原町二丁目",
-        "area_lat": 36.372883,
-        "area_lng": 139.086253
+        "area_lat": 36.37259,
+        "area_lng": 139.085942
     },
     {
         "area_city_code": 10201,
@@ -1996,8 +1996,8 @@
         "area_city_name": "前橋市",
         "area_town_code": "102010179002",
         "area_town_name": "南町二丁目",
-        "area_lat": 36.37485,
-        "area_lng": 139.066168
+        "area_lat": 36.375402,
+        "area_lng": 139.066325
     },
     {
         "area_city_code": 10201,
@@ -2116,24 +2116,48 @@
         "area_city_name": "前橋市",
         "area_town_code": "102010190000",
         "area_town_name": "六供町",
-        "area_lat": 36.368741,
-        "area_lng": 139.075805
+        "area_lat": 36.3666,
+        "area_lng": 139.069383
     },
     {
         "area_city_code": 10201,
         "area_city_name": "前橋市",
         "area_town_code": "102010191001",
         "area_town_name": "六供町一丁目",
-        "area_lat": 36.374441,
-        "area_lng": 139.075791
+        "area_lat": 36.374347,
+        "area_lng": 139.072833
+    },
+    {
+        "area_city_code": 10201,
+        "area_city_name": "前橋市",
+        "area_town_code": "102010191002",
+        "area_town_name": "六供町二丁目",
+        "area_lat": 36.37076,
+        "area_lng": 139.072783
+    },
+    {
+        "area_city_code": 10201,
+        "area_city_name": "前橋市",
+        "area_town_code": "102010191003",
+        "area_town_name": "六供町三丁目",
+        "area_lat": 36.365811,
+        "area_lng": 139.073812
     },
     {
         "area_city_code": 10201,
         "area_city_name": "前橋市",
         "area_town_code": "102010191004",
         "area_town_name": "六供町四丁目",
-        "area_lat": 36.370563,
-        "area_lng": 139.083422
+        "area_lat": 36.370439,
+        "area_lng": 139.080246
+    },
+    {
+        "area_city_code": 10201,
+        "area_city_name": "前橋市",
+        "area_town_code": "102010191005",
+        "area_town_name": "六供町五丁目",
+        "area_lat": 36.367171,
+        "area_lng": 139.079569
     },
     {
         "area_city_code": 10201,
@@ -3036,8 +3060,8 @@
         "area_city_name": "高崎市",
         "area_town_code": "102020098000",
         "area_town_name": "菅谷町",
-        "area_lat": 36.378055,
-        "area_lng": 139.015475
+        "area_lat": 36.377788,
+        "area_lng": 139.014733
     },
     {
         "area_city_code": 10202,
@@ -5348,8 +5372,8 @@
         "area_city_name": "伊勢崎市",
         "area_town_code": "102040014000",
         "area_town_name": "太田町",
-        "area_lat": 36.330439,
-        "area_lng": 139.187992
+        "area_lat": 36.329368,
+        "area_lng": 139.185663
     },
     {
         "area_city_code": 10204,
@@ -5884,24 +5908,24 @@
         "area_city_name": "伊勢崎市",
         "area_town_code": "102040077000",
         "area_town_name": "連取本町",
-        "area_lat": 36.321637,
-        "area_lng": 139.177952
+        "area_lat": 36.319582,
+        "area_lng": 139.177897
     },
     {
         "area_city_code": 10204,
         "area_city_name": "伊勢崎市",
         "area_town_code": "102040078000",
         "area_town_name": "連取町",
-        "area_lat": 36.317458,
-        "area_lng": 139.182638
+        "area_lat": 36.316534,
+        "area_lng": 139.175093
     },
     {
         "area_city_code": 10204,
         "area_city_name": "伊勢崎市",
         "area_town_code": "102040079000",
         "area_town_name": "連取元町",
-        "area_lat": 36.310266,
-        "area_lng": 139.180037
+        "area_lat": 36.313828,
+        "area_lng": 139.181803
     },
     {
         "area_city_code": 10204,
@@ -12572,8 +12596,8 @@
         "area_city_name": "佐波郡玉村町",
         "area_town_code": "104640015000",
         "area_town_name": "大字下新田",
-        "area_lat": 36.303176,
-        "area_lng": 139.116273
+        "area_lat": 36.303485,
+        "area_lng": 139.119571
     },
     {
         "area_city_code": 10464,
@@ -12628,8 +12652,8 @@
         "area_city_name": "佐波郡玉村町",
         "area_town_code": "104640022000",
         "area_town_name": "大字福島",
-        "area_lat": 36.309408,
-        "area_lng": 139.122129
+        "area_lat": 36.304537,
+        "area_lng": 139.119901
     },
     {
         "area_city_code": 10464,

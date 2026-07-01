@@ -11260,8 +11260,8 @@
         "area_city_name": "横浜市栄区",
         "area_town_code": "141150002003",
         "area_town_name": "笠間三丁目",
-        "area_lat": 35.360283,
-        "area_lng": 139.532856
+        "area_lat": 35.360923,
+        "area_lng": 139.533729
     },
     {
         "area_city_code": 14115,
@@ -11700,8 +11700,8 @@
         "area_city_name": "横浜市泉区",
         "area_town_code": "141160001005",
         "area_town_name": "和泉中央南五丁目",
-        "area_lat": 35.413594,
-        "area_lng": 139.485875
+        "area_lat": 35.410877,
+        "area_lng": 139.485473
     },
     {
         "area_city_code": 14116,
@@ -11988,8 +11988,8 @@
         "area_city_name": "横浜市泉区",
         "area_town_code": "141160012000",
         "area_town_name": "下飯田町",
-        "area_lat": 35.399022,
-        "area_lng": 139.480694
+        "area_lat": 35.406417,
+        "area_lng": 139.480027
     },
     {
         "area_city_code": 14116,
@@ -12084,8 +12084,8 @@
         "area_city_name": "横浜市泉区",
         "area_town_code": "141160018000",
         "area_town_name": "上飯田町",
-        "area_lat": 35.429035,
-        "area_lng": 139.479002
+        "area_lat": 35.410591,
+        "area_lng": 139.482901
     },
     {
         "area_city_code": 14116,
@@ -12148,8 +12148,16 @@
         "area_city_name": "横浜市泉区",
         "area_town_code": "141160021000",
         "area_town_name": "和泉町",
-        "area_lat": 35.426022,
-        "area_lng": 139.495139
+        "area_lat": 35.405351,
+        "area_lng": 139.485985
+    },
+    {
+        "area_city_code": 14116,
+        "area_city_name": "横浜市泉区",
+        "area_town_code": "141160022000",
+        "area_town_name": "ゆめが丘",
+        "area_lat": 35.40594,
+        "area_lng": 139.482749
     },
     {
         "area_city_code": 14117,
@@ -20292,8 +20300,8 @@
         "area_city_name": "相模原市中央区",
         "area_town_code": "141520022001",
         "area_town_name": "松が丘一丁目",
-        "area_lat": 35.553279,
-        "area_lng": 139.393209
+        "area_lat": 35.553344,
+        "area_lng": 139.393421
     },
     {
         "area_city_code": 14152,
@@ -20908,8 +20916,8 @@
         "area_city_name": "相模原市中央区",
         "area_town_code": "141520043000",
         "area_town_name": "田名",
-        "area_lat": 35.550772,
-        "area_lng": 139.341756
+        "area_lat": 35.551516,
+        "area_lng": 139.341641
     },
     {
         "area_city_code": 14152,
@@ -20980,8 +20988,8 @@
         "area_city_name": "相模原市南区",
         "area_town_code": "141530004000",
         "area_town_name": "当麻",
-        "area_lat": 35.526923,
-        "area_lng": 139.365297
+        "area_lat": 35.528156,
+        "area_lng": 139.368197
     },
     {
         "area_city_code": 14153,
@@ -24788,8 +24796,8 @@
         "area_city_name": "平塚市",
         "area_town_code": "142030009000",
         "area_town_name": "根坂間",
-        "area_lat": 35.339812,
-        "area_lng": 139.305576
+        "area_lat": 35.338753,
+        "area_lng": 139.303795
     },
     {
         "area_city_code": 14203,
@@ -24868,8 +24876,8 @@
         "area_city_name": "平塚市",
         "area_town_code": "142030015000",
         "area_town_name": "徳延",
-        "area_lat": 35.337426,
-        "area_lng": 139.318148
+        "area_lat": 35.331992,
+        "area_lng": 139.320086
     },
     {
         "area_city_code": 14203,
@@ -24882,10 +24890,34 @@
     {
         "area_city_code": 14203,
         "area_city_name": "平塚市",
+        "area_town_code": "142030016001",
+        "area_town_name": "徳延一丁目",
+        "area_lat": 35.334052,
+        "area_lng": 139.31809
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030016002",
+        "area_town_name": "徳延二丁目",
+        "area_lat": 35.33676,
+        "area_lng": 139.317976
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030016003",
+        "area_town_name": "徳延三丁目",
+        "area_lat": 35.340165,
+        "area_lng": 139.316784
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
         "area_town_code": "142030017000",
         "area_town_name": "河内",
-        "area_lat": 35.341899,
-        "area_lng": 139.309657
+        "area_lat": 35.340638,
+        "area_lng": 139.307391
     },
     {
         "area_city_code": 14203,
@@ -24898,10 +24930,74 @@
     {
         "area_city_code": 14203,
         "area_city_name": "平塚市",
+        "area_town_code": "142030018001",
+        "area_town_name": "河内一丁目",
+        "area_lat": 35.336793,
+        "area_lng": 139.310981
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030018002",
+        "area_town_name": "河内二丁目",
+        "area_lat": 35.341619,
+        "area_lng": 139.309862
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
         "area_town_code": "142030019000",
         "area_town_name": "大神",
-        "area_lat": 35.392338,
-        "area_lng": 139.366101
+        "area_lat": 35.388856,
+        "area_lng": 139.373007
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019003",
+        "area_town_name": "大神三丁目",
+        "area_lat": 35.383482,
+        "area_lng": 139.369219
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019004",
+        "area_town_name": "大神四丁目",
+        "area_lat": 35.386473,
+        "area_lng": 139.370893
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019006",
+        "area_town_name": "大神六丁目",
+        "area_lat": 35.38732,
+        "area_lng": 139.362803
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019007",
+        "area_town_name": "大神七丁目",
+        "area_lat": 35.389422,
+        "area_lng": 139.360284
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019008",
+        "area_town_name": "大神八丁目",
+        "area_lat": 35.392621,
+        "area_lng": 139.365084
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030019009",
+        "area_town_name": "大神九丁目",
+        "area_lat": 35.392626,
+        "area_lng": 139.371346
     },
     {
         "area_city_code": 14203,
@@ -25692,8 +25788,8 @@
         "area_city_name": "平塚市",
         "area_town_code": "142030080000",
         "area_town_name": "纒",
-        "area_lat": 35.342717,
-        "area_lng": 139.318504
+        "area_lat": 35.34508,
+        "area_lng": 139.318874
     },
     {
         "area_city_code": 14203,
@@ -25702,6 +25798,38 @@
         "area_town_name": "長持",
         "area_lat": 35.347492,
         "area_lng": 139.318673
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030081001",
+        "area_town_name": "纒一丁目",
+        "area_lat": 35.342879,
+        "area_lng": 139.317782
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030081002",
+        "area_town_name": "纒二丁目",
+        "area_lat": 35.346323,
+        "area_lng": 139.311832
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030081003",
+        "area_town_name": "纒三丁目",
+        "area_lat": 35.340757,
+        "area_lng": 139.312861
+    },
+    {
+        "area_city_code": 14203,
+        "area_city_name": "平塚市",
+        "area_town_code": "142030081004",
+        "area_town_name": "纒四丁目",
+        "area_lat": 35.345664,
+        "area_lng": 139.309224
     },
     {
         "area_city_code": 14203,
@@ -33460,8 +33588,8 @@
         "area_city_name": "厚木市",
         "area_town_code": "142120061000",
         "area_town_name": "愛名",
-        "area_lat": 35.442465,
-        "area_lng": 139.324895
+        "area_lat": 35.44715,
+        "area_lng": 139.322558
     },
     {
         "area_city_code": 14212,
@@ -33476,24 +33604,24 @@
         "area_city_name": "厚木市",
         "area_town_code": "142120063000",
         "area_town_name": "森の里青山",
-        "area_lat": 35.450089,
-        "area_lng": 139.309916
+        "area_lat": 35.4466,
+        "area_lng": 139.313943
     },
     {
         "area_city_code": 14212,
         "area_city_name": "厚木市",
         "area_town_code": "142120064000",
         "area_town_name": "下古沢",
-        "area_lat": 35.453432,
-        "area_lng": 139.319486
+        "area_lat": 35.453783,
+        "area_lng": 139.320773
     },
     {
         "area_city_code": 14212,
         "area_city_name": "厚木市",
         "area_town_code": "142120065000",
         "area_town_name": "上古沢",
-        "area_lat": 35.460638,
-        "area_lng": 139.307624
+        "area_lat": 35.455341,
+        "area_lng": 139.310072
     },
     {
         "area_city_code": 14212,
@@ -33638,6 +33766,14 @@
         "area_town_name": "飯山南五丁目",
         "area_lat": 35.4633,
         "area_lng": 139.331431
+    },
+    {
+        "area_city_code": 14212,
+        "area_city_name": "厚木市",
+        "area_town_code": "142120076000",
+        "area_town_name": "森の里紅葉台",
+        "area_lat": 35.450696,
+        "area_lng": 139.317124
     },
     {
         "area_city_code": 14213,
@@ -35220,8 +35356,16 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150001005",
         "area_town_name": "河原口五丁目",
-        "area_lat": 35.449496,
-        "area_lng": 139.382276
+        "area_lat": 35.449054,
+        "area_lng": 139.382438
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150001006",
+        "area_town_name": "河原口六丁目",
+        "area_lat": 35.449703,
+        "area_lng": 139.385494
     },
     {
         "area_city_code": 14215,
@@ -35700,8 +35844,24 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150021003",
         "area_town_name": "中央三丁目",
-        "area_lat": 35.449858,
-        "area_lng": 139.389866
+        "area_lat": 35.450036,
+        "area_lng": 139.389698
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150021004",
+        "area_town_name": "中央四丁目",
+        "area_lat": 35.447946,
+        "area_lng": 139.388267
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150021005",
+        "area_town_name": "中央五丁目",
+        "area_lat": 35.446152,
+        "area_lng": 139.392878
     },
     {
         "area_city_code": 14215,
@@ -35756,8 +35916,8 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150024002",
         "area_town_name": "望地二丁目",
-        "area_lat": 35.455178,
-        "area_lng": 139.406214
+        "area_lat": 35.455014,
+        "area_lng": 139.405922
     },
     {
         "area_city_code": 14215,
@@ -35828,8 +35988,8 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150029000",
         "area_town_name": "勝瀬",
-        "area_lat": 35.446514,
-        "area_lng": 139.398054
+        "area_lat": 35.44706,
+        "area_lng": 139.398022
     },
     {
         "area_city_code": 14215,
@@ -35844,16 +36004,16 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150031001",
         "area_town_name": "東柏ケ谷一丁目",
-        "area_lat": 35.467717,
-        "area_lng": 139.426837
+        "area_lat": 35.467449,
+        "area_lng": 139.425902
     },
     {
         "area_city_code": 14215,
         "area_city_name": "海老名市",
         "area_town_code": "142150031002",
         "area_town_name": "東柏ケ谷二丁目",
-        "area_lat": 35.469611,
-        "area_lng": 139.426407
+        "area_lat": 35.469711,
+        "area_lng": 139.42618
     },
     {
         "area_city_code": 14215,
@@ -35940,8 +36100,8 @@
         "area_city_name": "海老名市",
         "area_town_code": "142150033000",
         "area_town_name": "柏ケ谷",
-        "area_lat": 35.463163,
-        "area_lng": 139.411962
+        "area_lat": 35.469219,
+        "area_lng": 139.412983
     },
     {
         "area_city_code": 14215,
@@ -36046,6 +36206,54 @@
         "area_town_name": "社家六丁目",
         "area_lat": 35.418686,
         "area_lng": 139.375443
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041001",
+        "area_town_name": "柏ケ谷一丁目",
+        "area_lat": 35.467607,
+        "area_lng": 139.414956
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041002",
+        "area_town_name": "柏ケ谷二丁目",
+        "area_lat": 35.46667,
+        "area_lng": 139.417982
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041003",
+        "area_town_name": "柏ケ谷三丁目",
+        "area_lat": 35.464343,
+        "area_lng": 139.414136
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041004",
+        "area_town_name": "柏ケ谷四丁目",
+        "area_lat": 35.460787,
+        "area_lng": 139.412921
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041005",
+        "area_town_name": "柏ケ谷五丁目",
+        "area_lat": 35.459044,
+        "area_lng": 139.409055
+    },
+    {
+        "area_city_code": 14215,
+        "area_city_name": "海老名市",
+        "area_town_code": "142150041006",
+        "area_town_name": "柏ケ谷六丁目",
+        "area_lat": 35.463588,
+        "area_lng": 139.409077
     },
     {
         "area_city_code": 14216,
@@ -38940,8 +39148,8 @@
         "area_city_name": "足柄下郡真鶴町",
         "area_town_code": "143830001000",
         "area_town_name": "真鶴",
-        "area_lat": 35.152756,
-        "area_lng": 139.138391
+        "area_lat": 35.151663,
+        "area_lng": 139.141776
     },
     {
         "area_city_code": 14383,

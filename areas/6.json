@@ -2346,6 +2346,14 @@
     {
         "area_city_code": 6201,
         "area_city_name": "山形市",
+        "area_town_code": "62010192004",
+        "area_town_name": "立谷川四丁目",
+        "area_lat": 38.313534,
+        "area_lng": 140.368804
+    },
+    {
+        "area_city_code": 6201,
+        "area_city_name": "山形市",
         "area_town_code": "62010193001",
         "area_town_name": "伊達城一丁目",
         "area_lat": 38.309037,
@@ -8772,8 +8780,8 @@
         "area_city_name": "酒田市",
         "area_town_code": "62040060002",
         "area_town_name": "大浜二丁目",
-        "area_lat": 38.93068,
-        "area_lng": 139.81654
+        "area_lat": 38.931412,
+        "area_lng": 139.813112
     },
     {
         "area_city_code": 6204,
@@ -9644,8 +9652,8 @@
         "area_city_name": "酒田市",
         "area_town_code": "62040137000",
         "area_town_name": "新町",
-        "area_lat": 38.934503,
-        "area_lng": 139.832042
+        "area_lat": 38.945711,
+        "area_lng": 139.819115
     },
     {
         "area_city_code": 6204,
@@ -11916,8 +11924,8 @@
         "area_city_name": "寒河江市",
         "area_town_code": "62060062000",
         "area_town_name": "大字寒河江",
-        "area_lat": 38.358483,
-        "area_lng": 140.300964
+        "area_lat": 38.36237,
+        "area_lng": 140.273966
     },
     {
         "area_city_code": 6206,
@@ -11926,6 +11934,14 @@
         "area_town_name": "大字日田",
         "area_lat": 38.37451,
         "area_lng": 140.30914
+    },
+    {
+        "area_city_code": 6206,
+        "area_city_name": "寒河江市",
+        "area_town_code": "62060064000",
+        "area_town_name": "高瀬台",
+        "area_lat": 38.36516,
+        "area_lng": 140.272718
     },
     {
         "area_city_code": 6207,
@@ -13284,8 +13300,8 @@
         "area_city_name": "長井市",
         "area_town_code": "62090005000",
         "area_town_name": "今泉",
-        "area_lat": 38.055459,
-        "area_lng": 140.046349
+        "area_lat": 38.055406,
+        "area_lng": 140.046445
     },
     {
         "area_city_code": 6209,
@@ -17008,6 +17024,38 @@
         "area_lng": 140.235967
     },
     {
+        "area_city_code": 6301,
+        "area_city_name": "東村山郡山辺町",
+        "area_town_code": "63010019000",
+        "area_town_name": "向ケ丘",
+        "area_lat": 38.273379,
+        "area_lng": 140.24589
+    },
+    {
+        "area_city_code": 6301,
+        "area_city_name": "東村山郡山辺町",
+        "area_town_code": "63010020000",
+        "area_town_name": "大字元木",
+        "area_lat": 38.280151,
+        "area_lng": 140.257085
+    },
+    {
+        "area_city_code": 6301,
+        "area_city_name": "東村山郡山辺町",
+        "area_town_code": "63010021000",
+        "area_town_name": "大字三河",
+        "area_lat": 38.285036,
+        "area_lng": 140.2713
+    },
+    {
+        "area_city_code": 6301,
+        "area_city_name": "東村山郡山辺町",
+        "area_town_code": "63010022000",
+        "area_town_name": "大字上沢",
+        "area_lat": 38.274564,
+        "area_lng": 140.256779
+    },
+    {
         "area_city_code": 6302,
         "area_city_name": "東村山郡中山町",
         "area_town_code": "63020001000",
@@ -18932,8 +18980,8 @@
         "area_city_name": "東置賜郡川西町",
         "area_town_code": "63820017000",
         "area_town_name": "大字西大塚",
-        "area_lat": 38.044969,
-        "area_lng": 140.058111
+        "area_lat": 38.054115,
+        "area_lng": 140.058246
     },
     {
         "area_city_code": 6382,

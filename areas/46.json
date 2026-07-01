@@ -572,8 +572,8 @@
         "area_city_name": "鹿児島市",
         "area_town_code": "462010044001",
         "area_town_name": "花野光ヶ丘一丁目",
-        "area_lat": 31.650888,
-        "area_lng": 130.528853
+        "area_lat": 31.650881,
+        "area_lng": 130.529448
     },
     {
         "area_city_code": 46201,
@@ -1828,8 +1828,8 @@
         "area_city_name": "鹿児島市",
         "area_town_code": "462010122003",
         "area_town_name": "永吉三丁目",
-        "area_lat": 31.603953,
-        "area_lng": 130.531845
+        "area_lat": 31.604163,
+        "area_lng": 130.530913
     },
     {
         "area_city_code": 46201,
@@ -2628,8 +2628,8 @@
         "area_city_name": "鹿児島市",
         "area_town_code": "462010172005",
         "area_town_name": "明和五丁目",
-        "area_lat": 31.607618,
-        "area_lng": 130.530231
+        "area_lat": 31.607137,
+        "area_lng": 130.529817
     },
     {
         "area_city_code": 46201,
@@ -2812,8 +2812,8 @@
         "area_city_name": "鹿児島市",
         "area_town_code": "462010188000",
         "area_town_name": "岡之原町",
-        "area_lat": 31.660718,
-        "area_lng": 130.539481
+        "area_lat": 31.662267,
+        "area_lng": 130.541556
     },
     {
         "area_city_code": 46201,
@@ -6044,8 +6044,8 @@
         "area_city_name": "薩摩川内市",
         "area_town_code": "462150075000",
         "area_town_name": "港町",
-        "area_lat": 31.854879,
-        "area_lng": 130.208565
+        "area_lat": 31.861162,
+        "area_lng": 130.203522
     },
     {
         "area_city_code": 46215,
@@ -6174,6 +6174,22 @@
         "area_town_name": "若松町",
         "area_lat": 31.813996,
         "area_lng": 130.301388
+    },
+    {
+        "area_city_code": 46215,
+        "area_city_name": "薩摩川内市",
+        "area_town_code": "462150092001",
+        "area_town_name": "サーキュラーパーク一丁目",
+        "area_lat": 31.858519,
+        "area_lng": 130.201012
+    },
+    {
+        "area_city_code": 46215,
+        "area_city_name": "薩摩川内市",
+        "area_town_code": "462150092002",
+        "area_town_name": "サーキュラーパーク二丁目",
+        "area_lat": 31.85787,
+        "area_lng": 130.197529
     },
     {
         "area_city_code": 46216,
@@ -7780,8 +7796,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190007000",
         "area_town_name": "大里",
-        "area_lat": 31.678456,
-        "area_lng": 130.308978
+        "area_lat": 31.676132,
+        "area_lng": 130.306797
     },
     {
         "area_city_code": 46219,
@@ -7820,8 +7836,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190012000",
         "area_town_name": "河内",
-        "area_lat": 31.733206,
-        "area_lng": 130.294255
+        "area_lat": 31.735032,
+        "area_lng": 130.295703
     },
     {
         "area_city_code": 46219,
@@ -7836,8 +7852,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190014000",
         "area_town_name": "上名",
-        "area_lat": 31.724974,
-        "area_lng": 130.287086
+        "area_lat": 31.721218,
+        "area_lng": 130.293042
     },
     {
         "area_city_code": 46219,
@@ -7916,8 +7932,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190024000",
         "area_town_name": "薩摩山",
-        "area_lat": 31.736827,
-        "area_lng": 130.282164
+        "area_lat": 31.730148,
+        "area_lng": 130.280789
     },
     {
         "area_city_code": 46219,
@@ -7972,8 +7988,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190031000",
         "area_town_name": "生福",
-        "area_lat": 31.726278,
-        "area_lng": 130.312819
+        "area_lat": 31.720133,
+        "area_lng": 130.300461
     },
     {
         "area_city_code": 46219,
@@ -8060,32 +8076,32 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190042000",
         "area_town_name": "袴田",
-        "area_lat": 31.717564,
-        "area_lng": 130.285352
+        "area_lat": 31.721088,
+        "area_lng": 130.284928
     },
     {
         "area_city_code": 46219,
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190043000",
         "area_town_name": "羽島",
-        "area_lat": 31.764925,
-        "area_lng": 130.221953
+        "area_lat": 31.756203,
+        "area_lng": 130.202148
     },
     {
         "area_city_code": 46219,
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190044000",
         "area_town_name": "浜ケ城",
-        "area_lat": 31.723297,
-        "area_lng": 130.277198
+        "area_lat": 31.723038,
+        "area_lng": 130.277319
     },
     {
         "area_city_code": 46219,
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190045000",
         "area_town_name": "浜田町",
-        "area_lat": 31.756376,
-        "area_lng": 130.204355
+        "area_lat": 31.755769,
+        "area_lng": 130.204155
     },
     {
         "area_city_code": 46219,
@@ -8108,8 +8124,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190048000",
         "area_town_name": "日出町",
-        "area_lat": 31.718779,
-        "area_lng": 130.277891
+        "area_lat": 31.721269,
+        "area_lng": 130.279345
     },
     {
         "area_city_code": 46219,
@@ -8172,8 +8188,8 @@
         "area_city_name": "いちき串木野市",
         "area_town_code": "462190056000",
         "area_town_name": "三井",
-        "area_lat": 31.730076,
-        "area_lng": 130.275728
+        "area_lat": 31.730361,
+        "area_lng": 130.275393
     },
     {
         "area_city_code": 46219,
@@ -8254,6 +8270,38 @@
         "area_town_name": "八房",
         "area_lat": 31.703054,
         "area_lng": 130.289665
+    },
+    {
+        "area_city_code": 46219,
+        "area_city_name": "いちき串木野市",
+        "area_town_code": "462190064000",
+        "area_town_name": "小薗",
+        "area_lat": 31.723153,
+        "area_lng": 130.292819
+    },
+    {
+        "area_city_code": 46219,
+        "area_city_name": "いちき串木野市",
+        "area_town_code": "462190065000",
+        "area_town_name": "浅山",
+        "area_lat": 31.729738,
+        "area_lng": 130.285916
+    },
+    {
+        "area_city_code": 46219,
+        "area_city_name": "いちき串木野市",
+        "area_town_code": "462190066000",
+        "area_town_name": "大薗",
+        "area_lat": 31.724436,
+        "area_lng": 130.297005
+    },
+    {
+        "area_city_code": 46219,
+        "area_city_name": "いちき串木野市",
+        "area_town_code": "462190067000",
+        "area_town_name": "麓",
+        "area_lat": 31.724723,
+        "area_lng": 130.284783
     },
     {
         "area_city_code": 46220,
@@ -10668,8 +10716,8 @@
         "area_city_name": "出水郡長島町",
         "area_town_code": "464040008000",
         "area_town_name": "諸浦",
-        "area_lat": 32.24774,
-        "area_lng": 130.171858
+        "area_lat": 32.251426,
+        "area_lng": 130.175244
     },
     {
         "area_city_code": 46404,
@@ -10956,8 +11004,8 @@
         "area_city_name": "肝属郡南大隅町",
         "area_town_code": "464910001000",
         "area_town_name": "佐多伊座敷",
-        "area_lat": 31.088783,
-        "area_lng": 130.695882
+        "area_lat": 31.095337,
+        "area_lng": 130.691183
     },
     {
         "area_city_code": 46491,
@@ -12076,8 +12124,8 @@
         "area_city_name": "大島郡喜界町",
         "area_town_code": "465290003000",
         "area_town_name": "大字荒木",
-        "area_lat": 28.300114,
-        "area_lng": 129.924445
+        "area_lat": 28.302323,
+        "area_lng": 129.923404
     },
     {
         "area_city_code": 46529,
@@ -12236,8 +12284,8 @@
         "area_city_name": "大島郡喜界町",
         "area_town_code": "465290023000",
         "area_town_name": "大字手久津久",
-        "area_lat": 28.29287,
-        "area_lng": 129.936259
+        "area_lat": 28.293951,
+        "area_lng": 129.93838
     },
     {
         "area_city_code": 46529,

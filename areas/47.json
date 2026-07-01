@@ -2212,24 +2212,24 @@
         "area_city_name": "宜野湾市",
         "area_town_code": "472050022003",
         "area_town_name": "真志喜三丁目",
-        "area_lat": 26.274807,
-        "area_lng": 127.734007
+        "area_lat": 26.275546,
+        "area_lng": 127.730799
     },
     {
         "area_city_code": 47205,
         "area_city_name": "宜野湾市",
         "area_town_code": "472050022004",
         "area_town_name": "真志喜四丁目",
-        "area_lat": 26.28015,
-        "area_lng": 127.734712
+        "area_lat": 26.278418,
+        "area_lng": 127.730581
     },
     {
         "area_city_code": 47205,
         "area_city_name": "宜野湾市",
         "area_town_code": "472050023000",
         "area_town_name": "字真志喜",
-        "area_lat": 26.272219,
-        "area_lng": 127.735802
+        "area_lat": 26.276027,
+        "area_lng": 127.731027
     },
     {
         "area_city_code": 47205,
@@ -2366,6 +2366,22 @@
         "area_town_name": "字中原",
         "area_lat": 26.278459,
         "area_lng": 127.765768
+    },
+    {
+        "area_city_code": 47205,
+        "area_city_name": "宜野湾市",
+        "area_town_code": "472050037000",
+        "area_town_name": "宇地泊二丁目",
+        "area_lat": 26.268436,
+        "area_lng": 127.728204
+    },
+    {
+        "area_city_code": 47205,
+        "area_city_name": "宜野湾市",
+        "area_town_code": "472050038000",
+        "area_town_name": "宇地泊三丁目",
+        "area_lat": 26.274551,
+        "area_lng": 127.727999
     },
     {
         "area_city_code": 47207,
@@ -3444,8 +3460,8 @@
         "area_city_name": "名護市",
         "area_town_code": "472090020000",
         "area_town_name": "字古我知",
-        "area_lat": 26.62618,
-        "area_lng": 127.983267
+        "area_lat": 26.63449,
+        "area_lng": 127.987815
     },
     {
         "area_city_code": 47209,
@@ -3980,8 +3996,8 @@
         "area_city_name": "糸満市",
         "area_town_code": "472100007001",
         "area_town_name": "西崎町一丁目",
-        "area_lat": 26.131943,
-        "area_lng": 127.652717
+        "area_lat": 26.132557,
+        "area_lng": 127.656174
     },
     {
         "area_city_code": 47210,
@@ -4164,8 +4180,8 @@
         "area_city_name": "糸満市",
         "area_town_code": "472100023001",
         "area_town_name": "西崎一丁目",
-        "area_lat": 26.137226,
-        "area_lng": 127.665453
+        "area_lat": 26.134122,
+        "area_lng": 127.665456
     },
     {
         "area_city_code": 47210,
@@ -6324,8 +6340,8 @@
         "area_city_name": "うるま市",
         "area_town_code": "472130061001",
         "area_town_name": "安慶名一丁目",
-        "area_lat": 26.373448,
-        "area_lng": 127.854435
+        "area_lat": 26.373428,
+        "area_lng": 127.854441
     },
     {
         "area_city_code": 47213,
@@ -6348,8 +6364,8 @@
         "area_city_name": "うるま市",
         "area_town_code": "472130062000",
         "area_town_name": "字田場",
-        "area_lat": 26.36824,
-        "area_lng": 127.864218
+        "area_lat": 26.367958,
+        "area_lng": 127.860641
     },
     {
         "area_city_code": 47213,
@@ -6372,8 +6388,8 @@
         "area_city_name": "宮古島市",
         "area_town_code": "472140001000",
         "area_town_name": "城辺",
-        "area_lat": 24.752557,
-        "area_lng": 125.382492
+        "area_lat": 24.777241,
+        "area_lng": 125.349061
     },
     {
         "area_city_code": 47214,
@@ -6396,8 +6412,8 @@
         "area_city_name": "宮古島市",
         "area_town_code": "472140004000",
         "area_town_name": "平良",
-        "area_lat": 24.842422,
-        "area_lng": 125.30218
+        "area_lat": 24.780345,
+        "area_lng": 125.343595
     },
     {
         "area_city_code": 47214,
@@ -7204,8 +7220,8 @@
         "area_city_name": "国頭郡今帰仁村",
         "area_town_code": "473060010000",
         "area_town_name": "字呉我山",
-        "area_lat": 26.652139,
-        "area_lng": 127.966167
+        "area_lat": 26.642989,
+        "area_lng": 127.969584
     },
     {
         "area_city_code": 47306,
@@ -7364,8 +7380,8 @@
         "area_city_name": "国頭郡本部町",
         "area_town_code": "473080011000",
         "area_town_name": "字大浜",
-        "area_lat": 26.654398,
-        "area_lng": 127.885087
+        "area_lat": 26.654413,
+        "area_lng": 127.884025
     },
     {
         "area_city_code": 47308,

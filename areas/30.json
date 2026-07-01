@@ -2820,8 +2820,8 @@
         "area_city_name": "和歌山市",
         "area_town_code": "302010246000",
         "area_town_name": "中",
-        "area_lat": 34.271103,
-        "area_lng": 135.148486
+        "area_lat": 34.266905,
+        "area_lng": 135.146948
     },
     {
         "area_city_code": 30201,
@@ -3196,8 +3196,8 @@
         "area_city_name": "和歌山市",
         "area_town_code": "302010278000",
         "area_town_name": "西浜",
-        "area_lat": 34.200634,
-        "area_lng": 135.152203
+        "area_lat": 34.20128,
+        "area_lng": 135.152476
     },
     {
         "area_city_code": 30201,
@@ -5280,6 +5280,14 @@
         "area_lng": 135.209885
     },
     {
+        "area_city_code": 30201,
+        "area_city_name": "和歌山市",
+        "area_town_code": "302010433000",
+        "area_town_name": "ふじと台",
+        "area_lat": 34.277014,
+        "area_lng": 135.149599
+    },
+    {
         "area_city_code": 30202,
         "area_city_name": "海南市",
         "area_town_code": "302020001000",
@@ -5404,8 +5412,8 @@
         "area_city_name": "海南市",
         "area_town_code": "302020016000",
         "area_town_name": "冷水",
-        "area_lat": 34.139727,
-        "area_lng": 135.191993
+        "area_lat": 34.142948,
+        "area_lng": 135.197026
     },
     {
         "area_city_code": 30202,
@@ -5756,8 +5764,8 @@
         "area_city_name": "海南市",
         "area_town_code": "302020058000",
         "area_town_name": "藤白",
-        "area_lat": 34.143145,
-        "area_lng": 135.21007
+        "area_lat": 34.145507,
+        "area_lng": 135.205792
     },
     {
         "area_city_code": 30202,
@@ -5932,8 +5940,8 @@
         "area_city_name": "橋本市",
         "area_town_code": "302030002003",
         "area_town_name": "あやの台三丁目",
-        "area_lat": 34.343209,
-        "area_lng": 135.654111
+        "area_lat": 34.343215,
+        "area_lng": 135.650635
     },
     {
         "area_city_code": 30203,
@@ -6460,8 +6468,8 @@
         "area_city_name": "橋本市",
         "area_town_code": "302030051000",
         "area_town_name": "隅田町垂井",
-        "area_lat": 34.336932,
-        "area_lng": 135.645566
+        "area_lat": 34.339896,
+        "area_lng": 135.648574
     },
     {
         "area_city_code": 30203,
@@ -8364,24 +8372,24 @@
         "area_city_name": "田辺市",
         "area_town_code": "302060140000",
         "area_town_name": "朝日ヶ丘",
-        "area_lat": 33.734812,
-        "area_lng": 135.392037
+        "area_lat": 33.734506,
+        "area_lng": 135.389618
     },
     {
         "area_city_code": 30206,
         "area_city_name": "田辺市",
         "area_town_code": "302060141000",
         "area_town_name": "あけぼの",
-        "area_lat": 33.728896,
-        "area_lng": 135.394492
+        "area_lat": 33.731852,
+        "area_lng": 135.389123
     },
     {
         "area_city_code": 30206,
         "area_city_name": "田辺市",
         "area_town_code": "302060142000",
         "area_town_name": "宝来町",
-        "area_lat": 33.734724,
-        "area_lng": 135.387731
+        "area_lat": 33.735139,
+        "area_lng": 135.38818
     },
     {
         "area_city_code": 30206,
@@ -9012,8 +9020,8 @@
         "area_city_name": "新宮市",
         "area_town_code": "302070046000",
         "area_town_name": "新宮",
-        "area_lat": 33.716234,
-        "area_lng": 135.981869
+        "area_lat": 33.710283,
+        "area_lng": 135.98904
     },
     {
         "area_city_code": 30207,
@@ -9342,6 +9350,38 @@
         "area_town_name": "丹鶴三丁目",
         "area_lat": 33.730742,
         "area_lng": 135.992039
+    },
+    {
+        "area_city_code": 30207,
+        "area_city_name": "新宮市",
+        "area_town_code": "302070068001",
+        "area_town_name": "鴻田一丁目",
+        "area_lat": 33.711422,
+        "area_lng": 135.987155
+    },
+    {
+        "area_city_code": 30207,
+        "area_city_name": "新宮市",
+        "area_town_code": "302070068002",
+        "area_town_name": "鴻田二丁目",
+        "area_lat": 33.710722,
+        "area_lng": 135.988866
+    },
+    {
+        "area_city_code": 30207,
+        "area_city_name": "新宮市",
+        "area_town_code": "302070068003",
+        "area_town_name": "鴻田三丁目",
+        "area_lat": 33.708086,
+        "area_lng": 135.984826
+    },
+    {
+        "area_city_code": 30207,
+        "area_city_name": "新宮市",
+        "area_town_code": "302070068004",
+        "area_town_name": "鴻田四丁目",
+        "area_lat": 33.712734,
+        "area_lng": 135.986314
     },
     {
         "area_city_code": 30208,
@@ -14068,8 +14108,8 @@
         "area_city_name": "西牟婁郡上富田町",
         "area_town_code": "304040008000",
         "area_town_name": "南紀の台",
-        "area_lat": 33.698805,
-        "area_lng": 135.40589
+        "area_lat": 33.698844,
+        "area_lng": 135.405838
     },
     {
         "area_city_code": 30406,

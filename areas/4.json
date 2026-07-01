@@ -644,8 +644,8 @@
         "area_city_name": "仙台市青葉区",
         "area_town_code": "41010028002",
         "area_town_name": "川平二丁目",
-        "area_lat": 38.299621,
-        "area_lng": 140.843185
+        "area_lat": 38.299209,
+        "area_lng": 140.843149
     },
     {
         "area_city_code": 4101,
@@ -3484,8 +3484,8 @@
         "area_city_name": "仙台市宮城野区",
         "area_town_code": "41020053001",
         "area_town_name": "港一丁目",
-        "area_lat": 38.265322,
-        "area_lng": 141.010436
+        "area_lat": 38.265535,
+        "area_lng": 141.01391
     },
     {
         "area_city_code": 4102,
@@ -4268,8 +4268,8 @@
         "area_city_name": "仙台市若林区",
         "area_town_code": "41030040001",
         "area_town_name": "南小泉一丁目",
-        "area_lat": 38.24229,
-        "area_lng": 140.901068
+        "area_lat": 38.242105,
+        "area_lng": 140.901165
     },
     {
         "area_city_code": 4103,
@@ -4700,8 +4700,8 @@
         "area_city_name": "仙台市若林区",
         "area_town_code": "41030072000",
         "area_town_name": "蒲町",
-        "area_lat": 38.244871,
-        "area_lng": 140.927374
+        "area_lat": 38.244987,
+        "area_lng": 140.927276
     },
     {
         "area_city_code": 4103,
@@ -7788,16 +7788,16 @@
         "area_city_name": "仙台市泉区",
         "area_town_code": "41050039000",
         "area_town_name": "本田町",
-        "area_lat": 38.322116,
-        "area_lng": 140.904135
+        "area_lat": 38.323665,
+        "area_lng": 140.90251
     },
     {
         "area_city_code": 4105,
         "area_city_name": "仙台市泉区",
         "area_town_code": "41050040001",
         "area_town_name": "天神沢一丁目",
-        "area_lat": 38.32405,
-        "area_lng": 140.898363
+        "area_lat": 38.325548,
+        "area_lng": 140.901526
     },
     {
         "area_city_code": 4105,
@@ -10796,8 +10796,8 @@
         "area_city_name": "塩竈市",
         "area_town_code": "42030014001",
         "area_town_name": "北浜一丁目",
-        "area_lat": 38.320704,
-        "area_lng": 141.02342
+        "area_lat": 38.320838,
+        "area_lng": 141.025096
     },
     {
         "area_city_code": 4203,
@@ -10820,8 +10820,8 @@
         "area_city_name": "塩竈市",
         "area_town_code": "42030014004",
         "area_town_name": "北浜四丁目",
-        "area_lat": 38.323543,
-        "area_lng": 141.029708
+        "area_lat": 38.32187,
+        "area_lng": 141.027292
     },
     {
         "area_city_code": 4203,
@@ -11212,8 +11212,8 @@
         "area_city_name": "塩竈市",
         "area_town_code": "42030052001",
         "area_town_name": "貞山通一丁目",
-        "area_lat": 38.316877,
-        "area_lng": 141.042092
+        "area_lat": 38.317021,
+        "area_lng": 141.040899
     },
     {
         "area_city_code": 4203,
@@ -12220,8 +12220,8 @@
         "area_city_name": "気仙沼市",
         "area_town_code": "42050084000",
         "area_town_name": "波路上内沼",
-        "area_lat": 38.831626,
-        "area_lng": 141.596739
+        "area_lat": 38.832563,
+        "area_lng": 141.597068
     },
     {
         "area_city_code": 4205,
@@ -12324,8 +12324,8 @@
         "area_city_name": "気仙沼市",
         "area_town_code": "42050097000",
         "area_town_name": "波路上岩井崎",
-        "area_lat": 38.829952,
-        "area_lng": 141.600554
+        "area_lat": 38.830491,
+        "area_lng": 141.600549
     },
     {
         "area_city_code": 4205,
@@ -16296,6 +16296,22 @@
         "area_lng": 140.951855
     },
     {
+        "area_city_code": 4207,
+        "area_city_name": "名取市",
+        "area_town_code": "42070046001",
+        "area_town_name": "飯野坂東一丁目",
+        "area_lat": 38.159205,
+        "area_lng": 140.89127
+    },
+    {
+        "area_city_code": 4207,
+        "area_city_name": "名取市",
+        "area_town_code": "42070046002",
+        "area_town_name": "飯野坂東二丁目",
+        "area_lat": 38.156287,
+        "area_lng": 140.890103
+    },
+    {
         "area_city_code": 4208,
         "area_city_name": "角田市",
         "area_town_code": "42080001000",
@@ -17716,8 +17732,8 @@
         "area_city_name": "岩沼市",
         "area_town_code": "42110036000",
         "area_town_name": "寺島",
-        "area_lat": 38.070871,
-        "area_lng": 140.918694
+        "area_lat": 38.084494,
+        "area_lng": 140.914472
     },
     {
         "area_city_code": 4211,
@@ -17732,8 +17748,8 @@
         "area_city_name": "岩沼市",
         "area_town_code": "42110038000",
         "area_town_name": "押分",
-        "area_lat": 38.106389,
-        "area_lng": 140.917088
+        "area_lat": 38.108083,
+        "area_lng": 140.921875
     },
     {
         "area_city_code": 4211,
@@ -17764,8 +17780,8 @@
         "area_city_name": "岩沼市",
         "area_town_code": "42110040000",
         "area_town_name": "早股",
-        "area_lat": 38.097119,
-        "area_lng": 140.906517
+        "area_lat": 38.092767,
+        "area_lng": 140.910376
     },
     {
         "area_city_code": 4211,
@@ -17868,8 +17884,8 @@
         "area_city_name": "岩沼市",
         "area_town_code": "42110050000",
         "area_town_name": "下野郷",
-        "area_lat": 38.125273,
-        "area_lng": 140.91579
+        "area_lat": 38.11271,
+        "area_lng": 140.92731
     },
     {
         "area_city_code": 4211,
@@ -22956,8 +22972,8 @@
         "area_city_name": "大崎市",
         "area_town_code": "42150044000",
         "area_town_name": "古川米倉",
-        "area_lat": 38.56798,
-        "area_lng": 140.936954
+        "area_lat": 38.566514,
+        "area_lng": 140.935871
     },
     {
         "area_city_code": 4215,
@@ -23364,8 +23380,8 @@
         "area_city_name": "大崎市",
         "area_town_code": "42150095000",
         "area_town_name": "古川西荒井",
-        "area_lat": 38.554187,
-        "area_lng": 140.943
+        "area_lat": 38.554541,
+        "area_lng": 140.938699
     },
     {
         "area_city_code": 4215,
@@ -23452,8 +23468,8 @@
         "area_city_name": "大崎市",
         "area_town_code": "42150106000",
         "area_town_name": "古川塚目",
-        "area_lat": 38.578673,
-        "area_lng": 140.933024
+        "area_lat": 38.578705,
+        "area_lng": 140.933137
     },
     {
         "area_city_code": 4215,
@@ -23596,8 +23612,8 @@
         "area_city_name": "大崎市",
         "area_town_code": "42150124000",
         "area_town_name": "古川新田",
-        "area_lat": 38.592746,
-        "area_lng": 140.927485
+        "area_lat": 38.593608,
+        "area_lng": 140.922078
     },
     {
         "area_city_code": 4215,
@@ -23962,6 +23978,14 @@
     {
         "area_city_code": 4216,
         "area_city_name": "富谷市",
+        "area_town_code": "42160003010",
+        "area_town_name": "明石台十丁目",
+        "area_lat": 38.347552,
+        "area_lng": 140.903972
+    },
+    {
+        "area_city_code": 4216,
+        "area_city_name": "富谷市",
         "area_town_code": "42160004001",
         "area_town_name": "成田一丁目",
         "area_lat": 38.363712,
@@ -24300,8 +24324,8 @@
         "area_city_name": "富谷市",
         "area_town_code": "42160024000",
         "area_town_name": "富谷",
-        "area_lat": 38.390131,
-        "area_lng": 140.889098
+        "area_lat": 38.393236,
+        "area_lng": 140.888399
     },
     {
         "area_city_code": 4216,
@@ -24310,6 +24334,14 @@
         "area_town_name": "明石",
         "area_lat": 38.3491,
         "area_lng": 140.90896
+    },
+    {
+        "area_city_code": 4216,
+        "area_city_name": "富谷市",
+        "area_town_code": "42160026000",
+        "area_town_name": "高屋敷西",
+        "area_lat": 38.396691,
+        "area_lng": 140.874769
     },
     {
         "area_city_code": 4301,
@@ -30556,8 +30588,8 @@
         "area_city_name": "宮城郡松島町",
         "area_town_code": "44010001000",
         "area_town_name": "磯崎",
-        "area_lat": 38.38788,
-        "area_lng": 141.079564
+        "area_lat": 38.385862,
+        "area_lng": 141.078855
     },
     {
         "area_city_code": 4401,
@@ -31292,8 +31324,8 @@
         "area_city_name": "黒川郡大和町",
         "area_town_code": "44210004003",
         "area_town_name": "杜の丘三丁目",
-        "area_lat": 38.388874,
-        "area_lng": 140.864974
+        "area_lat": 38.390345,
+        "area_lng": 140.866437
     },
     {
         "area_city_code": 4421,
@@ -31500,8 +31532,8 @@
         "area_city_name": "黒川郡大和町",
         "area_town_code": "44210026000",
         "area_town_name": "小野",
-        "area_lat": 38.379635,
-        "area_lng": 140.849605
+        "area_lat": 38.394435,
+        "area_lng": 140.869118
     },
     {
         "area_city_code": 4421,
@@ -31542,6 +31574,14 @@
         "area_town_name": "吉岡まほろば二丁目",
         "area_lat": 38.438717,
         "area_lng": 140.875936
+    },
+    {
+        "area_city_code": 4421,
+        "area_city_name": "黒川郡大和町",
+        "area_town_code": "44210031000",
+        "area_town_name": "しあわせの杜",
+        "area_lat": 38.391613,
+        "area_lng": 140.868633
     },
     {
         "area_city_code": 4422,

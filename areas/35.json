@@ -4988,8 +4988,8 @@
         "area_city_name": "下関市",
         "area_town_code": "352010368000",
         "area_town_name": "長州出島",
-        "area_lat": 33.989636,
-        "area_lng": 130.898124
+        "area_lat": 33.989245,
+        "area_lng": 130.894449
     },
     {
         "area_city_code": 35201,
@@ -9610,7 +9610,23 @@
     {
         "area_city_code": 35203,
         "area_city_name": "山口市",
-        "area_town_code": "352030457001",
+        "area_town_code": "352030182001",
+        "area_town_name": "小郡東津一丁目",
+        "area_lat": 34.098535,
+        "area_lng": 131.403724
+    },
+    {
+        "area_city_code": 35203,
+        "area_city_name": "山口市",
+        "area_town_code": "352030182002",
+        "area_town_name": "小郡東津二丁目",
+        "area_lat": 34.102298,
+        "area_lng": 131.403152
+    },
+    {
+        "area_city_code": 35203,
+        "area_city_name": "山口市",
+        "area_town_code": "352030183001",
         "area_town_name": "小郡長谷一丁目",
         "area_lat": 34.094561,
         "area_lng": 131.392106
@@ -9618,7 +9634,7 @@
     {
         "area_city_code": 35203,
         "area_city_name": "山口市",
-        "area_town_code": "352030458001",
+        "area_town_code": "352030184001",
         "area_town_name": "小郡明治一丁目",
         "area_lat": 34.09792,
         "area_lng": 131.394339
@@ -9626,10 +9642,18 @@
     {
         "area_city_code": 35203,
         "area_city_name": "山口市",
-        "area_town_code": "352030458002",
+        "area_town_code": "352030184002",
         "area_town_name": "小郡明治二丁目",
         "area_lat": 34.095844,
         "area_lng": 131.395635
+    },
+    {
+        "area_city_code": 35203,
+        "area_city_name": "山口市",
+        "area_town_code": "352030185000",
+        "area_town_name": "小郡昭和町",
+        "area_lat": 34.09579,
+        "area_lng": 131.404585
     },
     {
         "area_city_code": 35204,
@@ -12716,8 +12740,8 @@
         "area_city_name": "岩国市",
         "area_town_code": "352080027002",
         "area_town_name": "黒磯町二丁目",
-        "area_lat": 34.104287,
-        "area_lng": 132.195293
+        "area_lat": 34.10413,
+        "area_lng": 132.196356
     },
     {
         "area_city_code": 35208,
@@ -19828,24 +19852,24 @@
         "area_city_name": "熊毛郡田布施町",
         "area_town_code": "353430007000",
         "area_town_name": "大字下田布施",
-        "area_lat": 33.951309,
-        "area_lng": 132.050461
+        "area_lat": 33.956146,
+        "area_lng": 132.027234
     },
     {
         "area_city_code": 35343,
         "area_city_name": "熊毛郡田布施町",
         "area_town_code": "353430008000",
         "area_town_name": "大字宿井",
-        "area_lat": 33.973914,
-        "area_lng": 132.020782
+        "area_lat": 33.975674,
+        "area_lng": 132.02305
     },
     {
         "area_city_code": 35343,
         "area_city_name": "熊毛郡田布施町",
         "area_town_code": "353430009000",
         "area_town_name": "大字波野",
-        "area_lat": 33.969087,
-        "area_lng": 132.042663
+        "area_lat": 33.96084,
+        "area_lng": 132.036357
     },
     {
         "area_city_code": 35343,
@@ -19878,6 +19902,30 @@
         "area_town_name": "中央南",
         "area_lat": 33.951859,
         "area_lng": 132.044238
+    },
+    {
+        "area_city_code": 35343,
+        "area_city_name": "熊毛郡田布施町",
+        "area_town_code": "353430014000",
+        "area_town_name": "下田布施",
+        "area_lat": 33.958045,
+        "area_lng": 132.031341
+    },
+    {
+        "area_city_code": 35343,
+        "area_city_name": "熊毛郡田布施町",
+        "area_town_code": "353430015000",
+        "area_town_name": "宿井",
+        "area_lat": 33.977689,
+        "area_lng": 132.024555
+    },
+    {
+        "area_city_code": 35343,
+        "area_city_name": "熊毛郡田布施町",
+        "area_town_code": "353430016000",
+        "area_town_name": "己斐中一丁目",
+        "area_lat": 33.961683,
+        "area_lng": 132.025976
     },
     {
         "area_city_code": 35344,

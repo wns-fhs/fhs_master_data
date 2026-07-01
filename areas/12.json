@@ -12692,8 +12692,8 @@
         "area_city_name": "松戸市",
         "area_town_code": "122070023000",
         "area_town_name": "小金",
-        "area_lat": 35.829229,
-        "area_lng": 139.93045
+        "area_lat": 35.829227,
+        "area_lng": 139.929566
     },
     {
         "area_city_code": 12207,
@@ -14812,8 +14812,8 @@
         "area_city_name": "野田市",
         "area_town_code": "122080050000",
         "area_town_name": "中野台",
-        "area_lat": 35.943776,
-        "area_lng": 139.85609
+        "area_lat": 35.943224,
+        "area_lng": 139.86918
     },
     {
         "area_city_code": 12208,
@@ -14868,8 +14868,8 @@
         "area_city_name": "野田市",
         "area_town_code": "122080057000",
         "area_town_name": "野田",
-        "area_lat": 35.945802,
-        "area_lng": 139.86703
+        "area_lat": 35.942953,
+        "area_lng": 139.868235
     },
     {
         "area_city_code": 12208,
@@ -19884,8 +19884,8 @@
         "area_city_name": "旭市",
         "area_town_code": "122150001000",
         "area_town_name": "秋田",
-        "area_lat": 35.742174,
-        "area_lng": 140.577828
+        "area_lat": 35.740825,
+        "area_lng": 140.579377
     },
     {
         "area_city_code": 12215,
@@ -27372,8 +27372,8 @@
         "area_city_name": "流山市",
         "area_town_code": "122200011000",
         "area_town_name": "大字木",
-        "area_lat": 35.833543,
-        "area_lng": 139.89406
+        "area_lat": 35.834625,
+        "area_lng": 139.890473
     },
     {
         "area_city_code": 12220,
@@ -27996,8 +27996,8 @@
         "area_city_name": "流山市",
         "area_town_code": "122200052002",
         "area_town_name": "南流山二丁目",
-        "area_lat": 35.83631,
-        "area_lng": 139.902525
+        "area_lat": 35.834429,
+        "area_lng": 139.900719
     },
     {
         "area_city_code": 12220,
@@ -28028,8 +28028,8 @@
         "area_city_name": "流山市",
         "area_town_code": "122200052006",
         "area_town_name": "南流山六丁目",
-        "area_lat": 35.839093,
-        "area_lng": 139.898124
+        "area_lat": 35.834594,
+        "area_lng": 139.899013
     },
     {
         "area_city_code": 12220,
@@ -28046,6 +28046,22 @@
         "area_town_name": "南流山八丁目",
         "area_lat": 35.838668,
         "area_lng": 139.894835
+    },
+    {
+        "area_city_code": 12220,
+        "area_city_name": "流山市",
+        "area_town_code": "122200052009",
+        "area_town_name": "南流山九丁目",
+        "area_lat": 35.832395,
+        "area_lng": 139.897598
+    },
+    {
+        "area_city_code": 12220,
+        "area_city_name": "流山市",
+        "area_town_code": "122200052010",
+        "area_town_name": "南流山十丁目",
+        "area_lat": 35.832842,
+        "area_lng": 139.900849
     },
     {
         "area_city_code": 12220,
@@ -28342,6 +28358,30 @@
         "area_town_name": "思井一丁目",
         "area_lat": 35.845003,
         "area_lng": 139.911137
+    },
+    {
+        "area_city_code": 12220,
+        "area_city_name": "流山市",
+        "area_town_code": "122200065001",
+        "area_town_name": "木一丁目",
+        "area_lat": 35.835109,
+        "area_lng": 139.892627
+    },
+    {
+        "area_city_code": 12220,
+        "area_city_name": "流山市",
+        "area_town_code": "122200065002",
+        "area_town_name": "木二丁目",
+        "area_lat": 35.830583,
+        "area_lng": 139.89429
+    },
+    {
+        "area_city_code": 12220,
+        "area_city_name": "流山市",
+        "area_town_code": "122200065003",
+        "area_town_name": "木三丁目",
+        "area_lat": 35.830296,
+        "area_lng": 139.896884
     },
     {
         "area_city_code": 12221,
@@ -39020,8 +39060,8 @@
         "area_city_name": "匝瑳市",
         "area_town_code": "122350006000",
         "area_town_name": "飯塚",
-        "area_lat": 35.733518,
-        "area_lng": 140.552629
+        "area_lat": 35.740601,
+        "area_lng": 140.563088
     },
     {
         "area_city_code": 12235,
@@ -39076,8 +39116,8 @@
         "area_city_name": "匝瑳市",
         "area_town_code": "122350013000",
         "area_town_name": "大寺",
-        "area_lat": 35.746984,
-        "area_lng": 140.560675
+        "area_lat": 35.74764,
+        "area_lng": 140.567072
     },
     {
         "area_city_code": 12235,
@@ -39340,8 +39380,8 @@
         "area_city_name": "匝瑳市",
         "area_town_code": "122350046000",
         "area_town_name": "春海",
-        "area_lat": 35.730312,
-        "area_lng": 140.585038
+        "area_lat": 35.733786,
+        "area_lng": 140.581922
     },
     {
         "area_city_code": 12235,
@@ -39524,8 +39564,8 @@
         "area_city_name": "匝瑳市",
         "area_town_code": "122350069000",
         "area_town_name": "米持",
-        "area_lat": 35.734061,
-        "area_lng": 140.568035
+        "area_lat": 35.732005,
+        "area_lng": 140.567132
     },
     {
         "area_city_code": 12235,
@@ -43844,8 +43884,8 @@
         "area_city_name": "山武郡芝山町",
         "area_town_code": "124090004000",
         "area_town_name": "大里",
-        "area_lat": 35.745999,
-        "area_lng": 140.41541
+        "area_lat": 35.745245,
+        "area_lng": 140.406864
     },
     {
         "area_city_code": 12409,
@@ -43956,8 +43996,8 @@
         "area_city_name": "山武郡芝山町",
         "area_town_code": "124090018000",
         "area_town_name": "菱田",
-        "area_lat": 35.761166,
-        "area_lng": 140.410041
+        "area_lat": 35.753121,
+        "area_lng": 140.408178
     },
     {
         "area_city_code": 12409,
@@ -43998,6 +44038,14 @@
         "area_town_name": "山中",
         "area_lat": 35.698756,
         "area_lng": 140.435212
+    },
+    {
+        "area_city_code": 12409,
+        "area_city_name": "山武郡芝山町",
+        "area_town_code": "124090024000",
+        "area_town_name": "加香山新田",
+        "area_lat": 35.749347,
+        "area_lng": 140.407306
     },
     {
         "area_city_code": 12410,

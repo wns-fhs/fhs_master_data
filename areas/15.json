@@ -740,8 +740,8 @@
         "area_city_name": "新潟市北区",
         "area_town_code": "151010062000",
         "area_town_name": "濁川",
-        "area_lat": 37.935423,
-        "area_lng": 139.150139
+        "area_lat": 37.934827,
+        "area_lng": 139.149163
     },
     {
         "area_city_code": 15101,
@@ -13548,8 +13548,8 @@
         "area_city_name": "新潟市西区",
         "area_town_code": "151070125001",
         "area_town_name": "流通一丁目",
-        "area_lat": 37.863058,
-        "area_lng": 138.996105
+        "area_lat": 37.863011,
+        "area_lng": 138.99638
     },
     {
         "area_city_code": 15107,
@@ -13638,6 +13638,14 @@
         "area_town_name": "内野西が丘三丁目",
         "area_lat": 37.847345,
         "area_lng": 138.922363
+    },
+    {
+        "area_city_code": 15107,
+        "area_city_name": "新潟市西区",
+        "area_town_code": "151070128000",
+        "area_town_name": "小新流通東",
+        "area_lat": 37.863739,
+        "area_lng": 138.999963
     },
     {
         "area_city_code": 15108,
@@ -13732,8 +13740,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080012000",
         "area_town_name": "打越",
-        "area_lat": 37.730536,
-        "area_lng": 138.941149
+        "area_lat": 37.72781,
+        "area_lng": 138.951984
     },
     {
         "area_city_code": 15108,
@@ -13980,8 +13988,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080043000",
         "area_town_name": "河間",
-        "area_lat": 37.729984,
-        "area_lng": 138.966363
+        "area_lat": 37.730864,
+        "area_lng": 138.965992
     },
     {
         "area_city_code": 15108,
@@ -14212,8 +14220,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080072000",
         "area_town_name": "道上",
-        "area_lat": 37.741495,
-        "area_lng": 138.959933
+        "area_lat": 37.731248,
+        "area_lng": 138.954752
     },
     {
         "area_city_code": 15108,
@@ -14244,8 +14252,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080076000",
         "area_town_name": "中之口",
-        "area_lat": 37.714799,
-        "area_lng": 138.966722
+        "area_lat": 37.717637,
+        "area_lng": 138.966014
     },
     {
         "area_city_code": 15108,
@@ -14340,8 +14348,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080088000",
         "area_town_name": "羽黒",
-        "area_lat": 37.71808,
-        "area_lng": 138.956165
+        "area_lat": 37.724617,
+        "area_lng": 138.951108
     },
     {
         "area_city_code": 15108,
@@ -14476,8 +14484,8 @@
         "area_city_name": "新潟市西蒲区",
         "area_town_code": "151080105000",
         "area_town_name": "福島",
-        "area_lat": 37.729725,
-        "area_lng": 138.958643
+        "area_lat": 37.723498,
+        "area_lng": 138.956749
     },
     {
         "area_city_code": 15108,
@@ -22158,6 +22166,22 @@
         "area_town_name": "稲保南一丁目",
         "area_lat": 37.477967,
         "area_lng": 138.875953
+    },
+    {
+        "area_city_code": 15202,
+        "area_city_name": "長岡市",
+        "area_town_code": "152020628002",
+        "area_town_name": "稲保南二丁目",
+        "area_lat": 37.478808,
+        "area_lng": 138.872341
+    },
+    {
+        "area_city_code": 15202,
+        "area_city_name": "長岡市",
+        "area_town_code": "152020628003",
+        "area_town_name": "稲保南三丁目",
+        "area_lat": 37.477459,
+        "area_lng": 138.868502
     },
     {
         "area_city_code": 15202,
@@ -36404,8 +36428,8 @@
         "area_city_name": "燕市",
         "area_town_code": "152130057000",
         "area_town_name": "雀森",
-        "area_lat": 37.703459,
-        "area_lng": 138.918945
+        "area_lat": 37.701228,
+        "area_lng": 138.91829
     },
     {
         "area_city_code": 15213,
@@ -38660,8 +38684,8 @@
         "area_city_name": "糸魚川市",
         "area_town_code": "152160133000",
         "area_town_name": "大字大和川",
-        "area_lat": 37.04315,
-        "area_lng": 137.899762
+        "area_lat": 37.046463,
+        "area_lng": 137.896625
     },
     {
         "area_city_code": 15216,
@@ -39038,6 +39062,38 @@
         "area_town_name": "蓮台寺二丁目",
         "area_lat": 37.038508,
         "area_lng": 137.87309
+    },
+    {
+        "area_city_code": 15216,
+        "area_city_name": "糸魚川市",
+        "area_town_code": "152160158000",
+        "area_town_name": "岩野",
+        "area_lat": 37.037034,
+        "area_lng": 137.895007
+    },
+    {
+        "area_city_code": 15216,
+        "area_city_name": "糸魚川市",
+        "area_town_code": "152160159000",
+        "area_town_name": "小畑",
+        "area_lat": 37.047111,
+        "area_lng": 137.894769
+    },
+    {
+        "area_city_code": 15216,
+        "area_city_name": "糸魚川市",
+        "area_town_code": "152160160000",
+        "area_town_name": "大原",
+        "area_lat": 37.036173,
+        "area_lng": 137.89725
+    },
+    {
+        "area_city_code": 15216,
+        "area_city_name": "糸魚川市",
+        "area_town_code": "152160161000",
+        "area_town_name": "中原",
+        "area_lat": 37.041668,
+        "area_lng": 137.895772
     },
     {
         "area_city_code": 15217,
@@ -40620,8 +40676,8 @@
         "area_city_name": "五泉市",
         "area_town_code": "152180020000",
         "area_town_name": "大口",
-        "area_lat": 37.679109,
-        "area_lng": 139.17497
+        "area_lat": 37.679905,
+        "area_lng": 139.179834
     },
     {
         "area_city_code": 15218,
@@ -41380,8 +41436,8 @@
         "area_city_name": "五泉市",
         "area_town_code": "152180104000",
         "area_town_name": "別所",
-        "area_lat": 37.674086,
-        "area_lng": 139.170494
+        "area_lat": 37.672176,
+        "area_lng": 139.171034
     },
     {
         "area_city_code": 15218,
@@ -41476,8 +41532,8 @@
         "area_city_name": "五泉市",
         "area_town_code": "152180111000",
         "area_town_name": "美郷",
-        "area_lat": 37.684962,
-        "area_lng": 139.161902
+        "area_lat": 37.686441,
+        "area_lng": 139.163831
     },
     {
         "area_city_code": 15218,
@@ -41752,6 +41808,14 @@
         "area_lng": 139.187574
     },
     {
+        "area_city_code": 15218,
+        "area_city_name": "五泉市",
+        "area_town_code": "152180138000",
+        "area_town_name": "別所東",
+        "area_lat": 37.680987,
+        "area_lng": 139.168407
+    },
+    {
         "area_city_code": 15222,
         "area_city_name": "上越市",
         "area_town_code": "152220001000",
@@ -41924,8 +41988,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220021000",
         "area_town_name": "板倉区沢田",
-        "area_lat": 37.057196,
-        "area_lng": 138.310076
+        "area_lat": 37.057224,
+        "area_lng": 138.309944
     },
     {
         "area_city_code": 15222,
@@ -41956,8 +42020,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220025000",
         "area_town_name": "板倉区関根",
-        "area_lat": 37.058446,
-        "area_lng": 138.292063
+        "area_lat": 37.058068,
+        "area_lng": 138.292679
     },
     {
         "area_city_code": 15222,
@@ -41980,8 +42044,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220028000",
         "area_town_name": "板倉区高野",
-        "area_lat": 37.063548,
-        "area_lng": 138.295725
+        "area_lat": 37.060342,
+        "area_lng": 138.296891
     },
     {
         "area_city_code": 15222,
@@ -42012,8 +42076,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220032000",
         "area_town_name": "板倉区戸狩",
-        "area_lat": 37.073641,
-        "area_lng": 138.296485
+        "area_lat": 37.073419,
+        "area_lng": 138.293044
     },
     {
         "area_city_code": 15222,
@@ -42036,8 +42100,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220035000",
         "area_town_name": "板倉区長嶺",
-        "area_lat": 37.065604,
-        "area_lng": 138.301571
+        "area_lat": 37.064153,
+        "area_lng": 138.303862
     },
     {
         "area_city_code": 15222,
@@ -42060,8 +42124,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220038000",
         "area_town_name": "板倉区針",
-        "area_lat": 37.049944,
-        "area_lng": 138.296546
+        "area_lat": 37.05309,
+        "area_lng": 138.297982
     },
     {
         "area_city_code": 15222,
@@ -42124,8 +42188,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220046000",
         "area_town_name": "板倉区宮島",
-        "area_lat": 37.048451,
-        "area_lng": 138.311125
+        "area_lat": 37.049892,
+        "area_lng": 138.308999
     },
     {
         "area_city_code": 15222,
@@ -42556,8 +42620,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220097000",
         "area_town_name": "大字飯田",
-        "area_lat": 37.097827,
-        "area_lng": 138.334942
+        "area_lat": 37.092028,
+        "area_lng": 138.32699
     },
     {
         "area_city_code": 15222,
@@ -42620,8 +42684,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220105000",
         "area_town_name": "大字稲谷",
-        "area_lat": 37.087351,
-        "area_lng": 138.31947
+        "area_lat": 37.087134,
+        "area_lng": 138.321225
     },
     {
         "area_city_code": 15222,
@@ -42964,8 +43028,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220148000",
         "area_town_name": "大字木島",
-        "area_lat": 37.068942,
-        "area_lng": 138.271014
+        "area_lat": 37.068498,
+        "area_lng": 138.274125
     },
     {
         "area_city_code": 15222,
@@ -43228,8 +43292,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220181000",
         "area_town_name": "大字島田上新田",
-        "area_lat": 37.073448,
-        "area_lng": 138.27693
+        "area_lat": 37.073818,
+        "area_lng": 138.275446
     },
     {
         "area_city_code": 15222,
@@ -43316,8 +43380,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220192000",
         "area_town_name": "大字下曽根",
-        "area_lat": 37.091531,
-        "area_lng": 138.312453
+        "area_lat": 37.091472,
+        "area_lng": 138.325916
     },
     {
         "area_city_code": 15222,
@@ -43540,8 +43604,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220220000",
         "area_town_name": "大字高津",
-        "area_lat": 37.094476,
-        "area_lng": 138.327272
+        "area_lat": 37.094783,
+        "area_lng": 138.326601
     },
     {
         "area_city_code": 15222,
@@ -43948,8 +44012,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220271000",
         "area_town_name": "大字東京田",
-        "area_lat": 37.089123,
-        "area_lng": 138.334089
+        "area_lat": 37.087624,
+        "area_lng": 138.335102
     },
     {
         "area_city_code": 15222,
@@ -45356,8 +45420,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220423003",
         "area_town_name": "北本町三丁目",
-        "area_lat": 37.125298,
-        "area_lng": 138.243083
+        "area_lat": 37.127175,
+        "area_lng": 138.242762
     },
     {
         "area_city_code": 15222,
@@ -45420,8 +45484,8 @@
         "area_city_name": "上越市",
         "area_town_code": "152220430000",
         "area_town_name": "清里区岡野町",
-        "area_lat": 37.08494,
-        "area_lng": 138.329801
+        "area_lat": 37.086596,
+        "area_lng": 138.329485
     },
     {
         "area_city_code": 15222,
@@ -48724,16 +48788,16 @@
         "area_city_name": "上越市",
         "area_town_code": "152220782000",
         "area_town_name": "大字土橋",
-        "area_lat": 37.129821,
-        "area_lng": 138.244328
+        "area_lat": 37.130962,
+        "area_lng": 138.2427
     },
     {
         "area_city_code": 15222,
         "area_city_name": "上越市",
         "area_town_code": "152220783000",
         "area_town_name": "土橋",
-        "area_lat": 37.127998,
-        "area_lng": 138.24388
+        "area_lat": 37.128048,
+        "area_lng": 138.242189
     },
     {
         "area_city_code": 15222,
@@ -48814,6 +48878,38 @@
         "area_town_name": "二",
         "area_lat": 37.130357,
         "area_lng": 138.305147
+    },
+    {
+        "area_city_code": 15222,
+        "area_city_name": "上越市",
+        "area_town_code": "152220794000",
+        "area_town_name": "大字上曾根",
+        "area_lat": 37.090222,
+        "area_lng": 138.317015
+    },
+    {
+        "area_city_code": 15222,
+        "area_city_name": "上越市",
+        "area_town_code": "152220795000",
+        "area_town_name": "島田",
+        "area_lat": 37.074521,
+        "area_lng": 138.268208
+    },
+    {
+        "area_city_code": 15222,
+        "area_city_name": "上越市",
+        "area_town_code": "152220796000",
+        "area_town_name": "島田上新田",
+        "area_lat": 37.072483,
+        "area_lng": 138.276881
+    },
+    {
+        "area_city_code": 15222,
+        "area_city_name": "上越市",
+        "area_town_code": "152220797000",
+        "area_town_name": "木島",
+        "area_lat": 37.069246,
+        "area_lng": 138.271833
     },
     {
         "area_city_code": 15223,
@@ -49252,8 +49348,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230055000",
         "area_town_name": "境新",
-        "area_lat": 37.808069,
-        "area_lng": 139.238564
+        "area_lat": 37.809259,
+        "area_lng": 139.239206
     },
     {
         "area_city_code": 15223,
@@ -49308,8 +49404,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230062000",
         "area_town_name": "七石",
-        "area_lat": 37.814068,
-        "area_lng": 139.238499
+        "area_lat": 37.813429,
+        "area_lng": 139.240343
     },
     {
         "area_city_code": 15223,
@@ -49380,8 +49476,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230071000",
         "area_town_name": "庄ケ宮",
-        "area_lat": 37.822019,
-        "area_lng": 139.234173
+        "area_lat": 37.818238,
+        "area_lng": 139.232324
     },
     {
         "area_city_code": 15223,
@@ -49716,8 +49812,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230112000",
         "area_town_name": "牧島",
-        "area_lat": 37.811672,
-        "area_lng": 139.233325
+        "area_lat": 37.810558,
+        "area_lng": 139.232709
     },
     {
         "area_city_code": 15223,
@@ -49820,16 +49916,16 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230125000",
         "area_town_name": "保田",
-        "area_lat": 37.772725,
-        "area_lng": 139.275809
+        "area_lat": 37.769495,
+        "area_lng": 139.225574
     },
     {
         "area_city_code": 15223,
         "area_city_name": "阿賀野市",
         "area_town_code": "152230126000",
         "area_town_name": "野地城",
-        "area_lat": 37.816553,
-        "area_lng": 139.230357
+        "area_lat": 37.816892,
+        "area_lng": 139.227812
     },
     {
         "area_city_code": 15223,
@@ -50468,8 +50564,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230205000",
         "area_town_name": "上江端",
-        "area_lat": 37.796164,
-        "area_lng": 139.211418
+        "area_lat": 37.797162,
+        "area_lng": 139.210732
     },
     {
         "area_city_code": 15223,
@@ -50484,8 +50580,8 @@
         "area_city_name": "阿賀野市",
         "area_town_code": "152230207000",
         "area_town_name": "東町",
-        "area_lat": 37.798084,
-        "area_lng": 139.204927
+        "area_lat": 37.800249,
+        "area_lng": 139.206672
     },
     {
         "area_city_code": 15223,
@@ -50494,6 +50590,30 @@
         "area_town_name": "分田",
         "area_lat": 37.794452,
         "area_lng": 139.193986
+    },
+    {
+        "area_city_code": 15223,
+        "area_city_name": "阿賀野市",
+        "area_town_code": "152230209000",
+        "area_town_name": "砂山",
+        "area_lat": 37.768776,
+        "area_lng": 139.227659
+    },
+    {
+        "area_city_code": 15223,
+        "area_city_name": "阿賀野市",
+        "area_town_code": "152230210000",
+        "area_town_name": "堀越東",
+        "area_lat": 37.814261,
+        "area_lng": 139.232173
+    },
+    {
+        "area_city_code": 15223,
+        "area_city_name": "阿賀野市",
+        "area_town_code": "152230211000",
+        "area_town_name": "堀耕東",
+        "area_lat": 37.814238,
+        "area_lng": 139.232153
     },
     {
         "area_city_code": 15224,
@@ -51356,8 +51476,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240108000",
         "area_town_name": "大倉谷",
-        "area_lat": 37.92034,
-        "area_lng": 138.299953
+        "area_lat": 37.919091,
+        "area_lng": 138.301086
     },
     {
         "area_city_code": 15224,
@@ -51380,8 +51500,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240111000",
         "area_town_name": "多田",
-        "area_lat": 37.90703,
-        "area_lng": 138.475104
+        "area_lat": 37.911298,
+        "area_lng": 138.478218
     },
     {
         "area_city_code": 15224,
@@ -51508,8 +51628,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240127000",
         "area_town_name": "潟端",
-        "area_lat": 38.052423,
-        "area_lng": 138.427821
+        "area_lat": 38.052089,
+        "area_lng": 138.426687
     },
     {
         "area_city_code": 15224,
@@ -51788,8 +51908,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240162000",
         "area_town_name": "三瀬川",
-        "area_lat": 38.051464,
-        "area_lng": 138.398547
+        "area_lat": 38.052916,
+        "area_lng": 138.398843
     },
     {
         "area_city_code": 15224,
@@ -51940,8 +52060,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240181000",
         "area_town_name": "大小",
-        "area_lat": 37.930241,
-        "area_lng": 138.31125
+        "area_lat": 37.926872,
+        "area_lng": 138.319276
     },
     {
         "area_city_code": 15224,
@@ -52620,8 +52740,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240266000",
         "area_town_name": "水渡田",
-        "area_lat": 38.044721,
-        "area_lng": 138.404862
+        "area_lat": 38.047465,
+        "area_lng": 138.408954
     },
     {
         "area_city_code": 15224,
@@ -52884,8 +53004,8 @@
         "area_city_name": "佐渡市",
         "area_town_code": "152240297000",
         "area_town_name": "松ケ崎",
-        "area_lat": 37.929665,
-        "area_lng": 138.48462
+        "area_lat": 37.920456,
+        "area_lng": 138.483161
     },
     {
         "area_city_code": 15225,
@@ -53116,8 +53236,8 @@
         "area_city_name": "魚沼市",
         "area_town_code": "152250029000",
         "area_town_name": "親柄",
-        "area_lat": 37.283358,
-        "area_lng": 138.982001
+        "area_lat": 37.281327,
+        "area_lng": 138.981632
     },
     {
         "area_city_code": 15225,
@@ -53228,8 +53348,8 @@
         "area_city_name": "魚沼市",
         "area_town_code": "152250043000",
         "area_town_name": "下田",
-        "area_lat": 37.28199,
-        "area_lng": 138.986183
+        "area_lat": 37.282641,
+        "area_lng": 138.987013
     },
     {
         "area_city_code": 15225,
@@ -53364,8 +53484,8 @@
         "area_city_name": "魚沼市",
         "area_town_code": "152250060000",
         "area_town_name": "長堀新田",
-        "area_lat": 37.282471,
-        "area_lng": 138.989301
+        "area_lat": 37.28034,
+        "area_lng": 138.989777
     },
     {
         "area_city_code": 15225,
@@ -53724,8 +53844,8 @@
         "area_city_name": "魚沼市",
         "area_town_code": "152250102000",
         "area_town_name": "和田",
-        "area_lat": 37.278327,
-        "area_lng": 138.979126
+        "area_lat": 37.277299,
+        "area_lng": 138.980998
     },
     {
         "area_city_code": 15225,
@@ -53804,8 +53924,8 @@
         "area_city_name": "魚沼市",
         "area_town_code": "152250112000",
         "area_town_name": "横瀬",
-        "area_lat": 37.275704,
-        "area_lng": 138.987143
+        "area_lat": 37.276376,
+        "area_lng": 138.98721
     },
     {
         "area_city_code": 15225,
@@ -54988,8 +55108,8 @@
         "area_city_name": "南魚沼市",
         "area_town_code": "152260142000",
         "area_town_name": "六日町",
-        "area_lat": 37.061811,
-        "area_lng": 138.873295
+        "area_lat": 37.069581,
+        "area_lng": 138.879048
     },
     {
         "area_city_code": 15226,
@@ -55052,8 +55172,8 @@
         "area_city_name": "南魚沼市",
         "area_town_code": "152260150000",
         "area_town_name": "八幡",
-        "area_lat": 37.070057,
-        "area_lng": 138.882656
+        "area_lat": 37.071037,
+        "area_lng": 138.880966
     },
     {
         "area_city_code": 15226,

@@ -4868,8 +4868,8 @@
         "area_city_name": "能代市",
         "area_town_code": "52020101000",
         "area_town_name": "落合",
-        "area_lat": 40.23143,
-        "area_lng": 140.025942
+        "area_lat": 40.233968,
+        "area_lng": 140.041911
     },
     {
         "area_city_code": 5202,
@@ -5012,8 +5012,8 @@
         "area_city_name": "能代市",
         "area_town_code": "52020119000",
         "area_town_name": "竹生",
-        "area_lat": 40.247991,
-        "area_lng": 140.042646
+        "area_lat": 40.235693,
+        "area_lng": 140.048882
     },
     {
         "area_city_code": 5202,
@@ -5324,8 +5324,8 @@
         "area_city_name": "能代市",
         "area_town_code": "52020157000",
         "area_town_name": "真壁地",
-        "area_lat": 40.220574,
-        "area_lng": 140.053926
+        "area_lat": 40.228882,
+        "area_lng": 140.053138
     },
     {
         "area_city_code": 5202,
@@ -5356,8 +5356,8 @@
         "area_city_name": "能代市",
         "area_town_code": "52020161000",
         "area_town_name": "向能代",
-        "area_lat": 40.222958,
-        "area_lng": 140.043277
+        "area_lat": 40.229371,
+        "area_lng": 140.045913
     },
     {
         "area_city_code": 5202,
@@ -7172,8 +7172,8 @@
         "area_city_name": "大館市",
         "area_town_code": "52040060000",
         "area_town_name": "池内",
-        "area_lat": 40.248085,
-        "area_lng": 140.565544
+        "area_lat": 40.249314,
+        "area_lng": 140.56737
     },
     {
         "area_city_code": 5204,
@@ -7372,8 +7372,8 @@
         "area_city_name": "大館市",
         "area_town_code": "52040080000",
         "area_town_name": "小館花",
-        "area_lat": 40.257243,
-        "area_lng": 140.556413
+        "area_lat": 40.256775,
+        "area_lng": 140.555454
     },
     {
         "area_city_code": 5204,
@@ -7604,16 +7604,16 @@
         "area_city_name": "大館市",
         "area_town_code": "52040103000",
         "area_town_name": "中山",
-        "area_lat": 40.235935,
-        "area_lng": 140.621238
+        "area_lat": 40.228958,
+        "area_lng": 140.604474
     },
     {
         "area_city_code": 5204,
         "area_city_name": "大館市",
         "area_town_code": "52040104000",
         "area_town_name": "二井田",
-        "area_lat": 40.241642,
-        "area_lng": 140.553797
+        "area_lat": 40.241812,
+        "area_lng": 140.547266
     },
     {
         "area_city_code": 5204,
@@ -7628,8 +7628,8 @@
         "area_city_name": "大館市",
         "area_town_code": "52040106000",
         "area_town_name": "根下戸",
-        "area_lat": 40.263829,
-        "area_lng": 140.538276
+        "area_lat": 40.262647,
+        "area_lng": 140.542936
     },
     {
         "area_city_code": 5204,
@@ -7940,8 +7940,8 @@
         "area_city_name": "大館市",
         "area_town_code": "52040138000",
         "area_town_name": "山館",
-        "area_lat": 40.2492,
-        "area_lng": 140.608861
+        "area_lat": 40.248987,
+        "area_lng": 140.611672
     },
     {
         "area_city_code": 5204,
@@ -7964,8 +7964,8 @@
         "area_city_name": "男鹿市",
         "area_town_code": "52060001000",
         "area_town_name": "五里合神谷",
-        "area_lat": 39.981958,
-        "area_lng": 139.871828
+        "area_lat": 39.980252,
+        "area_lng": 139.878746
     },
     {
         "area_city_code": 5206,
@@ -7980,24 +7980,24 @@
         "area_city_name": "男鹿市",
         "area_town_code": "52060003000",
         "area_town_name": "五里合鮪川",
-        "area_lat": 39.961202,
-        "area_lng": 139.886063
+        "area_lat": 39.967693,
+        "area_lng": 139.882177
     },
     {
         "area_city_code": 5206,
         "area_city_name": "男鹿市",
         "area_town_code": "52060004000",
         "area_town_name": "五里合中石",
-        "area_lat": 39.986209,
-        "area_lng": 139.891852
+        "area_lat": 39.974792,
+        "area_lng": 139.88796
     },
     {
         "area_city_code": 5206,
         "area_city_name": "男鹿市",
         "area_town_code": "52060005000",
         "area_town_name": "五里合箱井",
-        "area_lat": 39.955644,
-        "area_lng": 139.874655
+        "area_lat": 39.975213,
+        "area_lng": 139.878401
     },
     {
         "area_city_code": 5206,
@@ -8366,6 +8366,14 @@
         "area_town_name": "脇本脇本",
         "area_lat": 39.909166,
         "area_lng": 139.906639
+    },
+    {
+        "area_city_code": 5206,
+        "area_city_name": "男鹿市",
+        "area_town_code": "52060052000",
+        "area_town_name": "五里合石",
+        "area_lat": 39.984327,
+        "area_lng": 139.883026
     },
     {
         "area_city_code": 5207,
@@ -9468,8 +9476,8 @@
         "area_city_name": "湯沢市",
         "area_town_code": "52070122000",
         "area_town_name": "関口",
-        "area_lat": 39.124726,
-        "area_lng": 140.519234
+        "area_lat": 39.139123,
+        "area_lng": 140.489287
     },
     {
         "area_city_code": 5207,
@@ -13372,8 +13380,8 @@
         "area_city_name": "北秋田市",
         "area_town_code": "52130069000",
         "area_town_name": "脇神",
-        "area_lat": 40.202565,
-        "area_lng": 140.374503
+        "area_lat": 40.207048,
+        "area_lng": 140.376204
     },
     {
         "area_city_code": 5214,

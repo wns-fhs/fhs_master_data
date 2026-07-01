@@ -3748,40 +3748,40 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030021001",
         "area_town_name": "上飯田東町一丁目",
-        "area_lat": 35.2008,
-        "area_lng": 136.938943
+        "area_lat": 35.200865,
+        "area_lng": 136.938755
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030021002",
         "area_town_name": "上飯田東町二丁目",
-        "area_lat": 35.204421,
-        "area_lng": 136.937923
+        "area_lat": 35.20437,
+        "area_lng": 136.937825
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030021003",
         "area_town_name": "上飯田東町三丁目",
-        "area_lat": 35.203069,
-        "area_lng": 136.937395
+        "area_lat": 35.202853,
+        "area_lng": 136.937296
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030021004",
         "area_town_name": "上飯田東町四丁目",
-        "area_lat": 35.203402,
-        "area_lng": 136.936156
+        "area_lat": 35.203363,
+        "area_lng": 136.936105
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030021005",
         "area_town_name": "上飯田東町五丁目",
-        "area_lat": 35.205463,
-        "area_lng": 136.935807
+        "area_lat": 35.204734,
+        "area_lng": 136.935619
     },
     {
         "area_city_code": 23103,
@@ -3812,8 +3812,8 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030022004",
         "area_town_name": "上飯田南町四丁目",
-        "area_lat": 35.200791,
-        "area_lng": 136.936412
+        "area_lat": 35.20043,
+        "area_lng": 136.936545
     },
     {
         "area_city_code": 23103,
@@ -5316,16 +5316,16 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030093002",
         "area_town_name": "福徳町二丁目",
-        "area_lat": 35.211424,
-        "area_lng": 136.897681
+        "area_lat": 35.211274,
+        "area_lng": 136.897757
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030093003",
         "area_town_name": "福徳町三丁目",
-        "area_lat": 35.211796,
-        "area_lng": 136.899062
+        "area_lat": 35.211274,
+        "area_lng": 136.899229
     },
     {
         "area_city_code": 23103,
@@ -5340,24 +5340,24 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030093005",
         "area_town_name": "福徳町五丁目",
-        "area_lat": 35.212823,
-        "area_lng": 136.902105
+        "area_lat": 35.212066,
+        "area_lng": 136.901916
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030093006",
         "area_town_name": "福徳町六丁目",
-        "area_lat": 35.213424,
-        "area_lng": 136.903265
+        "area_lat": 35.213226,
+        "area_lng": 136.903386
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030093007",
         "area_town_name": "福徳町七丁目",
-        "area_lat": 35.214353,
-        "area_lng": 136.904288
+        "area_lat": 35.213956,
+        "area_lng": 136.904626
     },
     {
         "area_city_code": 23103,
@@ -5628,32 +5628,40 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030108002",
         "area_town_name": "山田二丁目",
-        "area_lat": 35.196758,
-        "area_lng": 136.935243
+        "area_lat": 35.197348,
+        "area_lng": 136.936084
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030108003",
         "area_town_name": "山田三丁目",
-        "area_lat": 35.198047,
-        "area_lng": 136.939809
+        "area_lat": 35.197191,
+        "area_lng": 136.938801
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030108004",
         "area_town_name": "山田四丁目",
-        "area_lat": 35.198951,
-        "area_lng": 136.941296
+        "area_lat": 35.19958,
+        "area_lng": 136.940879
+    },
+    {
+        "area_city_code": 23103,
+        "area_city_name": "名古屋市北区",
+        "area_town_code": "231030108005",
+        "area_town_name": "山田五丁目",
+        "area_lat": 35.20336,
+        "area_lng": 136.939421
     },
     {
         "area_city_code": 23103,
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030109001",
         "area_town_name": "山田北町一丁目",
-        "area_lat": 35.201504,
-        "area_lng": 136.940912
+        "area_lat": 35.202015,
+        "area_lng": 136.940053
     },
     {
         "area_city_code": 23103,
@@ -5676,8 +5684,8 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030110004",
         "area_town_name": "山田町四丁目",
-        "area_lat": 35.198315,
-        "area_lng": 136.938334
+        "area_lat": 35.197258,
+        "area_lng": 136.939467
     },
     {
         "area_city_code": 23103,
@@ -5692,8 +5700,8 @@
         "area_city_name": "名古屋市北区",
         "area_town_code": "231030111003",
         "area_town_name": "山田西町三丁目",
-        "area_lat": 35.197928,
-        "area_lng": 136.936525
+        "area_lat": 35.197104,
+        "area_lng": 136.935718
     },
     {
         "area_city_code": 23103,
@@ -18708,8 +18716,8 @@
         "area_city_name": "名古屋市中川区",
         "area_town_code": "231100097000",
         "area_town_name": "富田町大字千音寺",
-        "area_lat": 35.160588,
-        "area_lng": 136.809918
+        "area_lat": 35.162036,
+        "area_lng": 136.810481
     },
     {
         "area_city_code": 23110,
@@ -19388,8 +19396,8 @@
         "area_city_name": "名古屋市中川区",
         "area_town_code": "231100131005",
         "area_town_name": "服部五丁目",
-        "area_lat": 35.150783,
-        "area_lng": 136.809924
+        "area_lat": 35.150913,
+        "area_lng": 136.809911
     },
     {
         "area_city_code": 23110,
@@ -20766,6 +20774,70 @@
         "area_town_name": "若山町四丁目",
         "area_lat": 35.132112,
         "area_lng": 136.860888
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100192001",
+        "area_town_name": "赤星一丁目",
+        "area_lat": 35.166334,
+        "area_lng": 136.807495
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100192002",
+        "area_town_name": "赤星二丁目",
+        "area_lat": 35.164299,
+        "area_lng": 136.804253
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100192003",
+        "area_town_name": "赤星三丁目",
+        "area_lat": 35.161137,
+        "area_lng": 136.806362
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100193001",
+        "area_town_name": "千音寺一丁目",
+        "area_lat": 35.166722,
+        "area_lng": 136.812138
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100193002",
+        "area_town_name": "千音寺二丁目",
+        "area_lat": 35.16117,
+        "area_lng": 136.812403
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100193003",
+        "area_town_name": "千音寺三丁目",
+        "area_lat": 35.161127,
+        "area_lng": 136.815823
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100193004",
+        "area_town_name": "千音寺四丁目",
+        "area_lat": 35.155911,
+        "area_lng": 136.815364
+    },
+    {
+        "area_city_code": 23110,
+        "area_city_name": "名古屋市中川区",
+        "area_town_code": "231100193005",
+        "area_town_name": "千音寺五丁目",
+        "area_lat": 35.155282,
+        "area_lng": 136.81164
     },
     {
         "area_city_code": 23111,
@@ -31588,8 +31660,8 @@
         "area_city_name": "名古屋市天白区",
         "area_town_code": "231160038000",
         "area_town_name": "天白町大字平針",
-        "area_lat": 35.113657,
-        "area_lng": 137.01065
+        "area_lat": 35.104918,
+        "area_lng": 137.004846
     },
     {
         "area_city_code": 23116,
@@ -31860,8 +31932,8 @@
         "area_city_name": "名古屋市天白区",
         "area_town_code": "231160051001",
         "area_town_name": "平針台一丁目",
-        "area_lat": 35.105029,
-        "area_lng": 137.002329
+        "area_lat": 35.104121,
+        "area_lng": 137.003216
     },
     {
         "area_city_code": 23116,
@@ -41828,8 +41900,8 @@
         "area_city_name": "瀬戸市",
         "area_town_code": "232040048000",
         "area_town_name": "川合町",
-        "area_lat": 35.215048,
-        "area_lng": 137.113999
+        "area_lat": 35.214834,
+        "area_lng": 137.112694
     },
     {
         "area_city_code": 23204,
@@ -42252,8 +42324,40 @@
         "area_city_name": "瀬戸市",
         "area_town_code": "232040077000",
         "area_town_name": "塩草町",
-        "area_lat": 35.210793,
-        "area_lng": 137.116979
+        "area_lat": 35.212153,
+        "area_lng": 137.118671
+    },
+    {
+        "area_city_code": 23204,
+        "area_city_name": "瀬戸市",
+        "area_town_code": "232040077001",
+        "area_town_name": "塩草が丘1丁目",
+        "area_lat": 35.211605,
+        "area_lng": 137.113962
+    },
+    {
+        "area_city_code": 23204,
+        "area_city_name": "瀬戸市",
+        "area_town_code": "232040077002",
+        "area_town_name": "塩草が丘2丁目",
+        "area_lat": 35.208644,
+        "area_lng": 137.113653
+    },
+    {
+        "area_city_code": 23204,
+        "area_city_name": "瀬戸市",
+        "area_town_code": "232040077003",
+        "area_town_name": "塩草が丘4丁目",
+        "area_lat": 35.209477,
+        "area_lng": 137.119296
+    },
+    {
+        "area_city_code": 23204,
+        "area_city_name": "瀬戸市",
+        "area_town_code": "232040077004",
+        "area_town_name": "塩草が丘四丁目",
+        "area_lat": 35.209471,
+        "area_lng": 137.119306
     },
     {
         "area_city_code": 23204,
@@ -44364,8 +44468,8 @@
         "area_city_name": "瀬戸市",
         "area_town_code": "232040246001",
         "area_town_name": "若宮町一丁目",
-        "area_lat": 35.207183,
-        "area_lng": 137.111879
+        "area_lat": 35.208375,
+        "area_lng": 137.110338
     },
     {
         "area_city_code": 23204,
@@ -53212,8 +53316,8 @@
         "area_city_name": "豊川市",
         "area_town_code": "232070011000",
         "area_town_name": "伊奈町",
-        "area_lat": 34.800497,
-        "area_lng": 137.34638
+        "area_lat": 34.804137,
+        "area_lng": 137.356871
     },
     {
         "area_city_code": 23207,
@@ -53940,8 +54044,8 @@
         "area_city_name": "豊川市",
         "area_town_code": "232070061000",
         "area_town_name": "宿町",
-        "area_lat": 34.807714,
-        "area_lng": 137.361532
+        "area_lat": 34.804419,
+        "area_lng": 137.358462
     },
     {
         "area_city_code": 23207,
@@ -75796,8 +75900,8 @@
         "area_city_name": "安城市",
         "area_town_code": "232120025000",
         "area_town_name": "桜井町",
-        "area_lat": 34.923887,
-        "area_lng": 137.08424
+        "area_lat": 34.924581,
+        "area_lng": 137.094264
     },
     {
         "area_city_code": 23212,
@@ -76268,8 +76372,8 @@
         "area_city_name": "安城市",
         "area_town_code": "232120064000",
         "area_town_name": "姫小川町",
-        "area_lat": 34.914534,
-        "area_lng": 137.087629
+        "area_lat": 34.914294,
+        "area_lng": 137.091149
     },
     {
         "area_city_code": 23212,
@@ -76518,6 +76622,102 @@
         "area_town_name": "横山町",
         "area_lat": 34.957224,
         "area_lng": 137.073766
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120088000",
+        "area_town_name": "桜井",
+        "area_lat": 34.917382,
+        "area_lng": 137.089249
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120089000",
+        "area_town_name": "三日三升",
+        "area_lat": 34.90931,
+        "area_lng": 137.088338
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120090000",
+        "area_town_name": "小川町金政",
+        "area_lat": 34.910152,
+        "area_lng": 137.086305
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120091001",
+        "area_town_name": "桜西一丁目",
+        "area_lat": 34.917154,
+        "area_lng": 137.08688
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120091002",
+        "area_town_name": "桜西二丁目",
+        "area_lat": 34.916763,
+        "area_lng": 137.084459
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120091003",
+        "area_town_name": "桜西三丁目",
+        "area_lat": 34.916085,
+        "area_lng": 137.08141
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120092001",
+        "area_town_name": "城向一丁目",
+        "area_lat": 34.92046,
+        "area_lng": 137.090316
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120092002",
+        "area_town_name": "城向二丁目",
+        "area_lat": 34.920982,
+        "area_lng": 137.08759
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120092003",
+        "area_town_name": "城向三丁目",
+        "area_lat": 34.920787,
+        "area_lng": 137.085292
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120093001",
+        "area_town_name": "姫西一丁目",
+        "area_lat": 34.913271,
+        "area_lng": 137.08689
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120093002",
+        "area_town_name": "姫西二丁目",
+        "area_lat": 34.913754,
+        "area_lng": 137.08422
+    },
+    {
+        "area_city_code": 23212,
+        "area_city_name": "安城市",
+        "area_town_code": "232120093003",
+        "area_town_name": "姫西三丁目",
+        "area_lat": 34.91423,
+        "area_lng": 137.080008
     },
     {
         "area_city_code": 23213,
@@ -77044,8 +77244,8 @@
         "area_city_name": "西尾市",
         "area_town_code": "232130043000",
         "area_town_name": "上矢田町",
-        "area_lat": 34.851021,
-        "area_lng": 137.028608
+        "area_lat": 34.852045,
+        "area_lng": 137.034134
     },
     {
         "area_city_code": 23213,
@@ -77132,8 +77332,24 @@
         "area_city_name": "西尾市",
         "area_town_code": "232130054000",
         "area_town_name": "国森町",
-        "area_lat": 34.854857,
-        "area_lng": 137.034295
+        "area_lat": 34.854705,
+        "area_lng": 137.035571
+    },
+    {
+        "area_city_code": 23213,
+        "area_city_name": "西尾市",
+        "area_town_code": "232130054001",
+        "area_town_name": "国森町一丁目",
+        "area_lat": 34.855422,
+        "area_lng": 137.034232
+    },
+    {
+        "area_city_code": 23213,
+        "area_city_name": "西尾市",
+        "area_town_code": "232130054002",
+        "area_town_name": "国森町二丁目",
+        "area_lat": 34.854218,
+        "area_lng": 137.033416
     },
     {
         "area_city_code": 23213,
@@ -79036,8 +79252,8 @@
         "area_city_name": "蒲郡市",
         "area_town_code": "232140006000",
         "area_town_name": "大塚町",
-        "area_lat": 34.816733,
-        "area_lng": 137.280214
+        "area_lat": 34.813256,
+        "area_lng": 137.287203
     },
     {
         "area_city_code": 23214,
@@ -79060,8 +79276,8 @@
         "area_city_name": "蒲郡市",
         "area_town_code": "232140007003",
         "area_town_name": "海陽町三丁目",
-        "area_lat": 34.808092,
-        "area_lng": 137.288847
+        "area_lat": 34.808318,
+        "area_lng": 137.287282
     },
     {
         "area_city_code": 23214,
@@ -85644,8 +85860,8 @@
         "area_city_name": "江南市",
         "area_town_code": "232170055000",
         "area_town_name": "小郷町手保ノ木",
-        "area_lat": 35.315066,
-        "area_lng": 136.869275
+        "area_lat": 35.315339,
+        "area_lng": 136.86922
     },
     {
         "area_city_code": 23217,
@@ -87172,8 +87388,8 @@
         "area_city_name": "江南市",
         "area_town_code": "232170240000",
         "area_town_name": "布袋下山町北",
-        "area_lat": 35.316756,
-        "area_lng": 136.86948
+        "area_lat": 35.317307,
+        "area_lng": 136.870156
     },
     {
         "area_city_code": 23217,
@@ -87188,16 +87404,16 @@
         "area_city_name": "江南市",
         "area_town_code": "232170242000",
         "area_town_name": "布袋下山町東",
-        "area_lat": 35.316006,
-        "area_lng": 136.872078
+        "area_lat": 35.316015,
+        "area_lng": 136.872005
     },
     {
         "area_city_code": 23217,
         "area_city_name": "江南市",
         "area_town_code": "232170243000",
         "area_town_name": "布袋下山町南",
-        "area_lat": 35.315083,
-        "area_lng": 136.870901
+        "area_lat": 35.315683,
+        "area_lng": 136.870127
     },
     {
         "area_city_code": 23217,
@@ -87228,8 +87444,8 @@
         "area_city_name": "江南市",
         "area_town_code": "232170247000",
         "area_town_name": "布袋町西布",
-        "area_lat": 35.318765,
-        "area_lng": 136.872517
+        "area_lat": 35.318404,
+        "area_lng": 136.872186
     },
     {
         "area_city_code": 23217,
@@ -93876,8 +94092,8 @@
         "area_city_name": "稲沢市",
         "area_town_code": "232200353000",
         "area_town_name": "目比町",
-        "area_lat": 35.210499,
-        "area_lng": 136.766365
+        "area_lat": 35.210051,
+        "area_lng": 136.76658
     },
     {
         "area_city_code": 23220,
@@ -94398,6 +94614,14 @@
         "area_town_name": "島新田町",
         "area_lat": 35.266457,
         "area_lng": 136.802603
+    },
+    {
+        "area_city_code": 23220,
+        "area_city_name": "稲沢市",
+        "area_town_code": "232200388000",
+        "area_town_name": "日比町",
+        "area_lat": 35.210744,
+        "area_lng": 136.761968
     },
     {
         "area_city_code": 23221,
@@ -95476,8 +95700,8 @@
         "area_city_name": "東海市",
         "area_town_code": "232220003000",
         "area_town_name": "大田町",
-        "area_lat": 35.018963,
-        "area_lng": 136.896771
+        "area_lat": 35.017355,
+        "area_lng": 136.894338
     },
     {
         "area_city_code": 23222,
@@ -95516,8 +95740,8 @@
         "area_city_name": "東海市",
         "area_town_code": "232220007000",
         "area_town_name": "高横須賀町",
-        "area_lat": 35.006318,
-        "area_lng": 136.894651
+        "area_lat": 35.016102,
+        "area_lng": 136.889035
     },
     {
         "area_city_code": 23222,
@@ -105556,8 +105780,8 @@
         "area_city_name": "清須市",
         "area_town_code": "232330143000",
         "area_town_name": "春日午",
-        "area_lat": 35.238321,
-        "area_lng": 136.834578
+        "area_lat": 35.237722,
+        "area_lng": 136.833926
     },
     {
         "area_city_code": 23233,
@@ -105812,8 +106036,8 @@
         "area_city_name": "清須市",
         "area_town_code": "232330175000",
         "area_town_name": "春日下中割",
-        "area_lat": 35.238177,
-        "area_lng": 136.833063
+        "area_lat": 35.238449,
+        "area_lng": 136.833009
     },
     {
         "area_city_code": 23233,
@@ -106020,8 +106244,8 @@
         "area_city_name": "清須市",
         "area_town_code": "232330201000",
         "area_town_name": "春日寺廻り",
-        "area_lat": 35.240476,
-        "area_lng": 136.833884
+        "area_lat": 35.241393,
+        "area_lng": 136.833793
     },
     {
         "area_city_code": 23233,
@@ -106486,6 +106710,30 @@
         "area_town_name": "春日夢の森三丁目",
         "area_lat": 35.236724,
         "area_lng": 136.837062
+    },
+    {
+        "area_city_code": 23233,
+        "area_city_name": "清須市",
+        "area_town_code": "232330258001",
+        "area_town_name": "春日さくら一丁目",
+        "area_lat": 35.237974,
+        "area_lng": 136.834928
+    },
+    {
+        "area_city_code": 23233,
+        "area_city_name": "清須市",
+        "area_town_code": "232330258002",
+        "area_town_name": "春日さくら二丁目",
+        "area_lat": 35.238914,
+        "area_lng": 136.834391
+    },
+    {
+        "area_city_code": 23233,
+        "area_city_name": "清須市",
+        "area_town_code": "232330258003",
+        "area_town_name": "春日さくら三丁目",
+        "area_lat": 35.2404,
+        "area_lng": 136.83394
     },
     {
         "area_city_code": 23234,
@@ -109484,16 +109732,16 @@
         "area_city_name": "みよし市",
         "area_town_code": "232360022003",
         "area_town_name": "三好丘緑三丁目",
-        "area_lat": 35.109295,
-        "area_lng": 137.114967
+        "area_lat": 35.108829,
+        "area_lng": 137.114592
     },
     {
         "area_city_code": 23236,
         "area_city_name": "みよし市",
         "area_town_code": "232360022004",
         "area_town_name": "三好丘緑四丁目",
-        "area_lat": 35.109465,
-        "area_lng": 137.117653
+        "area_lat": 35.107758,
+        "area_lng": 137.116247
     },
     {
         "area_city_code": 23236,
@@ -109502,6 +109750,14 @@
         "area_town_name": "三好丘緑五丁目",
         "area_lat": 35.113255,
         "area_lng": 137.119207
+    },
+    {
+        "area_city_code": 23236,
+        "area_city_name": "みよし市",
+        "area_town_code": "232360022006",
+        "area_town_name": "三好丘緑六丁目",
+        "area_lat": 35.105207,
+        "area_lng": 137.114443
     },
     {
         "area_city_code": 23236,
@@ -109516,8 +109772,8 @@
         "area_city_name": "みよし市",
         "area_town_code": "232360024000",
         "area_town_name": "莇生町",
-        "area_lat": 35.10181,
-        "area_lng": 137.100743
+        "area_lat": 35.104621,
+        "area_lng": 137.108005
     },
     {
         "area_city_code": 23236,
@@ -110364,8 +110620,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380005000",
         "area_town_name": "石場",
-        "area_lat": 35.172463,
-        "area_lng": 137.08056
+        "area_lat": 35.17265,
+        "area_lng": 137.080479
     },
     {
         "area_city_code": 23238,
@@ -110396,8 +110652,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380007000",
         "area_town_name": "茨ケ廻間",
-        "area_lat": 35.179595,
-        "area_lng": 137.085818
+        "area_lat": 35.174642,
+        "area_lng": 137.089735
     },
     {
         "area_city_code": 23238,
@@ -110492,8 +110748,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380018000",
         "area_town_name": "蛭子",
-        "area_lat": 35.176776,
-        "area_lng": 137.072962
+        "area_lat": 35.177207,
+        "area_lng": 137.072675
     },
     {
         "area_city_code": 23238,
@@ -110732,8 +110988,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380046000",
         "area_town_name": "下山",
-        "area_lat": 35.187795,
-        "area_lng": 137.022555
+        "area_lat": 35.187812,
+        "area_lng": 137.021736
     },
     {
         "area_city_code": 23238,
@@ -110780,8 +111036,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380052000",
         "area_town_name": "神門前",
-        "area_lat": 35.176233,
-        "area_lng": 137.076134
+        "area_lat": 35.175934,
+        "area_lng": 137.076017
     },
     {
         "area_city_code": 23238,
@@ -110820,8 +111076,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380057000",
         "area_town_name": "大日",
-        "area_lat": 35.178321,
-        "area_lng": 137.073318
+        "area_lat": 35.178334,
+        "area_lng": 137.073387
     },
     {
         "area_city_code": 23238,
@@ -111140,8 +111396,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380095000",
         "area_town_name": "前熊一ノ井",
-        "area_lat": 35.169073,
-        "area_lng": 137.077362
+        "area_lat": 35.168967,
+        "area_lng": 137.077086
     },
     {
         "area_city_code": 23238,
@@ -111164,16 +111420,16 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380098000",
         "area_town_name": "前熊寺田",
-        "area_lat": 35.1738,
-        "area_lng": 137.071761
+        "area_lat": 35.174576,
+        "area_lng": 137.072406
     },
     {
         "area_city_code": 23238,
         "area_city_name": "長久手市",
         "area_town_code": "232380099000",
         "area_town_name": "前熊中井",
-        "area_lat": 35.177537,
-        "area_lng": 137.071268
+        "area_lat": 35.177731,
+        "area_lng": 137.071174
     },
     {
         "area_city_code": 23238,
@@ -111884,8 +112140,8 @@
         "area_city_name": "長久手市",
         "area_town_code": "232380188000",
         "area_town_name": "櫨木",
-        "area_lat": 35.188687,
-        "area_lng": 137.019831
+        "area_lat": 35.189087,
+        "area_lng": 137.020253
     },
     {
         "area_city_code": 23238,
@@ -116476,8 +116732,8 @@
         "area_city_name": "額田郡幸田町",
         "area_town_code": "235010014000",
         "area_town_name": "大字六栗",
-        "area_lat": 34.857349,
-        "area_lng": 137.155904
+        "area_lat": 34.856097,
+        "area_lng": 137.156567
     },
     {
         "area_city_code": 23501,

@@ -47,6 +47,10 @@
         "company_cd": 2,
         "line_name": "JR東金線"
     },
+    "11344": {
+        "company_cd": 100,
+        "line_name": "ディズニーリゾートライン"
+    },
     "21004": {
         "company_cd": 11,
         "line_name": "東武アーバンパークライン（東武野田線）"
@@ -96,8 +100,8 @@
         "line_name": "小湊鉄道線"
     },
     "99329": {
-        "company_cd": 142,
-        "line_name": "新京成線"
+        "company_cd": 13,
+        "line_name": "京成松戸線"
     },
     "99331": {
         "company_cd": 144,

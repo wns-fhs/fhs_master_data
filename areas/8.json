@@ -4380,8 +4380,8 @@
         "area_city_name": "土浦市",
         "area_town_code": "82030035001",
         "area_town_name": "神立中央一丁目",
-        "area_lat": 36.119478,
-        "area_lng": 140.24596
+        "area_lat": 36.119803,
+        "area_lng": 140.246236
     },
     {
         "area_city_code": 8203,
@@ -7604,8 +7604,8 @@
         "area_city_name": "結城市",
         "area_town_code": "82070028000",
         "area_town_name": "大字結城",
-        "area_lat": 36.297339,
-        "area_lng": 139.872216
+        "area_lat": 36.29734,
+        "area_lng": 139.872217
     },
     {
         "area_city_code": 8207,
@@ -7798,6 +7798,14 @@
         "area_town_name": "若宮西",
         "area_lat": 36.270237,
         "area_lng": 139.863609
+    },
+    {
+        "area_city_code": 8207,
+        "area_city_name": "結城市",
+        "area_town_code": "82070044000",
+        "area_town_name": "小田林",
+        "area_lat": 36.29111,
+        "area_lng": 139.855329
     },
     {
         "area_city_code": 8208,
@@ -9540,8 +9548,8 @@
         "area_city_name": "下妻市",
         "area_town_code": "82100080000",
         "area_town_name": "堀篭",
-        "area_lat": 36.189028,
-        "area_lng": 139.985815
+        "area_lat": 36.193892,
+        "area_lng": 139.989331
     },
     {
         "area_city_code": 8210,
@@ -9550,6 +9558,14 @@
         "area_town_name": "横根",
         "area_lat": 36.199983,
         "area_lng": 139.985434
+    },
+    {
+        "area_city_code": 8210,
+        "area_city_name": "下妻市",
+        "area_town_code": "82100082000",
+        "area_town_name": "中央工業団地",
+        "area_lat": 36.184005,
+        "area_lng": 139.985453
     },
     {
         "area_city_code": 8211,
@@ -17692,8 +17708,8 @@
         "area_city_name": "ひたちなか市",
         "area_town_code": "82210106000",
         "area_town_name": "大字長砂",
-        "area_lat": 36.420171,
-        "area_lng": 140.59122
+        "area_lat": 36.421343,
+        "area_lng": 140.612438
     },
     {
         "area_city_code": 8222,
@@ -20524,8 +20540,8 @@
         "area_city_name": "筑西市",
         "area_town_code": "82270021000",
         "area_town_name": "内淀",
-        "area_lat": 36.27863,
-        "area_lng": 140.032181
+        "area_lat": 36.278338,
+        "area_lng": 140.035451
     },
     {
         "area_city_code": 8227,
@@ -21148,8 +21164,8 @@
         "area_city_name": "筑西市",
         "area_town_code": "82270095000",
         "area_town_name": "田宿",
-        "area_lat": 36.265186,
-        "area_lng": 140.043708
+        "area_lat": 36.268238,
+        "area_lng": 140.043144
     },
     {
         "area_city_code": 8227,
@@ -21372,8 +21388,8 @@
         "area_city_name": "筑西市",
         "area_town_code": "82270123000",
         "area_town_name": "猫島",
-        "area_lat": 36.278408,
-        "area_lng": 140.044577
+        "area_lat": 36.278328,
+        "area_lng": 140.045561
     },
     {
         "area_city_code": 8227,
@@ -21796,8 +21812,8 @@
         "area_city_name": "坂東市",
         "area_town_code": "82280003000",
         "area_town_name": "生子",
-        "area_lat": 36.101329,
-        "area_lng": 139.856562
+        "area_lat": 36.10155,
+        "area_lng": 139.856462
     },
     {
         "area_city_code": 8228,
@@ -21980,8 +21996,8 @@
         "area_city_name": "坂東市",
         "area_town_code": "82280026000",
         "area_town_name": "逆井",
-        "area_lat": 36.136807,
-        "area_lng": 139.853398
+        "area_lat": 36.140113,
+        "area_lng": 139.852079
     },
     {
         "area_city_code": 8228,
@@ -22012,8 +22028,8 @@
         "area_city_name": "坂東市",
         "area_town_code": "82280030000",
         "area_town_name": "菅谷",
-        "area_lat": 36.113845,
-        "area_lng": 139.850849
+        "area_lat": 36.115954,
+        "area_lng": 139.851224
     },
     {
         "area_city_code": 8228,
@@ -22148,8 +22164,8 @@
         "area_city_name": "坂東市",
         "area_town_code": "82280047000",
         "area_town_name": "山",
-        "area_lat": 36.124192,
-        "area_lng": 139.877717
+        "area_lat": 36.124225,
+        "area_lng": 139.87781
     },
     {
         "area_city_code": 8228,
@@ -22182,6 +22198,14 @@
         "area_town_name": "緑の里",
         "area_lat": 36.108525,
         "area_lng": 139.878282
+    },
+    {
+        "area_city_code": 8228,
+        "area_city_name": "坂東市",
+        "area_town_code": "82280052000",
+        "area_town_name": "さしま台",
+        "area_lat": 36.125197,
+        "area_lng": 139.864506
     },
     {
         "area_city_code": 8229,
@@ -23013,7 +23037,7 @@
         "area_town_code": "82300008002",
         "area_town_name": "稲吉二丁目",
         "area_lat": 36.123155,
-        "area_lng": 140.24837
+        "area_lng": 140.248029
     },
     {
         "area_city_code": 8230,
@@ -25068,8 +25092,8 @@
         "area_city_name": "行方市",
         "area_town_code": "82330011000",
         "area_town_name": "内宿",
-        "area_lat": 36.09974,
-        "area_lng": 140.505304
+        "area_lat": 36.104759,
+        "area_lng": 140.500951
     },
     {
         "area_city_code": 8233,
@@ -25260,8 +25284,8 @@
         "area_city_name": "行方市",
         "area_town_code": "82330035000",
         "area_town_name": "長野江",
-        "area_lat": 36.122907,
-        "area_lng": 140.500408
+        "area_lat": 36.123408,
+        "area_lng": 140.506001
     },
     {
         "area_city_code": 8233,
@@ -25284,8 +25308,8 @@
         "area_city_name": "行方市",
         "area_town_code": "82330038000",
         "area_town_name": "成田",
-        "area_lat": 36.103114,
-        "area_lng": 140.512896
+        "area_lat": 36.104404,
+        "area_lng": 140.511708
     },
     {
         "area_city_code": 8233,
@@ -25380,8 +25404,8 @@
         "area_city_name": "行方市",
         "area_town_code": "82330050000",
         "area_town_name": "三和",
-        "area_lat": 36.110132,
-        "area_lng": 140.518299
+        "area_lat": 36.117245,
+        "area_lng": 140.516262
     },
     {
         "area_city_code": 8233,
@@ -25446,6 +25470,14 @@
         "area_town_name": "若海",
         "area_lat": 36.124733,
         "area_lng": 140.428407
+    },
+    {
+        "area_city_code": 8233,
+        "area_city_name": "行方市",
+        "area_town_code": "82330059000",
+        "area_town_name": "北浦",
+        "area_lat": 36.113036,
+        "area_lng": 140.50937
     },
     {
         "area_city_code": 8234,
@@ -28102,6 +28134,14 @@
         "area_town_name": "大山台二丁目",
         "area_lat": 36.470552,
         "area_lng": 140.560055
+    },
+    {
+        "area_city_code": 8341,
+        "area_city_name": "那珂郡東海村",
+        "area_town_code": "83410019000",
+        "area_town_name": "照沼",
+        "area_lat": 36.437556,
+        "area_lng": 140.620878
     },
     {
         "area_city_code": 8364,

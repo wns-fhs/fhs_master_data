@@ -8852,8 +8852,8 @@
         "area_city_name": "八代市",
         "area_town_code": "432020179000",
         "area_town_name": "港町",
-        "area_lat": 32.51245,
-        "area_lng": 130.549926
+        "area_lat": 32.504821,
+        "area_lng": 130.56691
     },
     {
         "area_city_code": 43202,
@@ -10988,16 +10988,16 @@
         "area_city_name": "玉名市",
         "area_town_code": "432060026000",
         "area_town_name": "岱明町扇崎",
-        "area_lat": 32.916001,
-        "area_lng": 130.489543
+        "area_lat": 32.916769,
+        "area_lng": 130.491364
     },
     {
         "area_city_code": 43206,
         "area_city_name": "玉名市",
         "area_town_code": "432060027000",
         "area_town_name": "岱明町大野下",
-        "area_lat": 32.916148,
-        "area_lng": 130.502253
+        "area_lat": 32.917269,
+        "area_lng": 130.501525
     },
     {
         "area_city_code": 43206,

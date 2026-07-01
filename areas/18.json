@@ -2020,8 +2020,8 @@
         "area_city_name": "福井市",
         "area_town_code": "182010184000",
         "area_town_name": "河増町",
-        "area_lat": 36.0609,
-        "area_lng": 136.25626
+        "area_lat": 36.062071,
+        "area_lng": 136.257221
     },
     {
         "area_city_code": 18201,
@@ -5808,6 +5808,22 @@
         "area_lng": 136.278311
     },
     {
+        "area_city_code": 18201,
+        "area_city_name": "福井市",
+        "area_town_code": "182010525001",
+        "area_town_name": "フェア河増1丁目",
+        "area_lat": 36.058514,
+        "area_lng": 136.256254
+    },
+    {
+        "area_city_code": 18201,
+        "area_city_name": "福井市",
+        "area_town_code": "182010525002",
+        "area_town_name": "フェア河増２丁目",
+        "area_lat": 36.057606,
+        "area_lng": 136.256337
+    },
+    {
         "area_city_code": 18202,
         "area_city_name": "敦賀市",
         "area_town_code": "182020001000",
@@ -5980,8 +5996,8 @@
         "area_city_name": "敦賀市",
         "area_town_code": "182020021001",
         "area_town_name": "岡山町一丁目",
-        "area_lat": 35.630986,
-        "area_lng": 136.070854
+        "area_lat": 35.631948,
+        "area_lng": 136.069522
     },
     {
         "area_city_code": 18202,
@@ -6084,8 +6100,8 @@
         "area_city_name": "敦賀市",
         "area_town_code": "182020031000",
         "area_town_name": "金ケ崎町",
-        "area_lat": 35.663744,
-        "area_lng": 136.073797
+        "area_lat": 35.666048,
+        "area_lng": 136.066354
     },
     {
         "area_city_code": 18202,
@@ -6244,8 +6260,8 @@
         "area_city_name": "敦賀市",
         "area_town_code": "182020049000",
         "area_town_name": "古田刈",
-        "area_lat": 35.630171,
-        "area_lng": 136.065194
+        "area_lat": 35.630628,
+        "area_lng": 136.065301
     },
     {
         "area_city_code": 18202,
@@ -6268,8 +6284,8 @@
         "area_city_name": "敦賀市",
         "area_town_code": "182020052000",
         "area_town_name": "坂下",
-        "area_lat": 35.630485,
-        "area_lng": 136.077045
+        "area_lat": 35.631835,
+        "area_lng": 136.077471
     },
     {
         "area_city_code": 18202,
@@ -6588,8 +6604,8 @@
         "area_city_name": "敦賀市",
         "area_town_code": "182020086000",
         "area_town_name": "長沢",
-        "area_lat": 35.634911,
-        "area_lng": 136.069579
+        "area_lat": 35.635339,
+        "area_lng": 136.068849
     },
     {
         "area_city_code": 18202,
@@ -7030,6 +7046,14 @@
         "area_town_name": "赤崎",
         "area_lat": 35.68791,
         "area_lng": 136.0938
+    },
+    {
+        "area_city_code": 18202,
+        "area_city_name": "敦賀市",
+        "area_town_code": "182020137000",
+        "area_town_name": "岡山町",
+        "area_lat": 35.628658,
+        "area_lng": 136.071218
     },
     {
         "area_city_code": 18204,
@@ -20412,8 +20436,8 @@
         "area_city_name": "三方郡美浜町",
         "area_town_code": "184420027000",
         "area_town_name": "山上",
-        "area_lat": 35.613615,
-        "area_lng": 135.97237
+        "area_lat": 35.625806,
+        "area_lng": 135.980728
     },
     {
         "area_city_code": 18442,
@@ -20454,6 +20478,14 @@
         "area_town_name": "新庄",
         "area_lat": 35.5451,
         "area_lng": 135.987399
+    },
+    {
+        "area_city_code": 18442,
+        "area_city_name": "三方郡美浜町",
+        "area_town_code": "184420033000",
+        "area_town_name": "美し野",
+        "area_lat": 35.625485,
+        "area_lng": 135.980077
     },
     {
         "area_city_code": 18481,

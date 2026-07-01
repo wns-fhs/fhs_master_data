@@ -8852,8 +8852,8 @@
         "area_city_name": "熊谷市",
         "area_town_code": "112020093000",
         "area_town_name": "池上",
-        "area_lat": 36.152527,
-        "area_lng": 139.428474
+        "area_lat": 36.153777,
+        "area_lng": 139.426345
     },
     {
         "area_city_code": 11202,
@@ -9588,40 +9588,40 @@
         "area_city_name": "川口市",
         "area_town_code": "112030012001",
         "area_town_name": "戸塚南一丁目",
-        "area_lat": 35.860182,
-        "area_lng": 139.749937
+        "area_lat": 35.860536,
+        "area_lng": 139.749852
     },
     {
         "area_city_code": 11203,
         "area_city_name": "川口市",
         "area_town_code": "112030012002",
         "area_town_name": "戸塚南二丁目",
-        "area_lat": 35.862569,
-        "area_lng": 139.751648
+        "area_lat": 35.8626,
+        "area_lng": 139.751749
     },
     {
         "area_city_code": 11203,
         "area_city_name": "川口市",
         "area_town_code": "112030012003",
         "area_town_name": "戸塚南三丁目",
-        "area_lat": 35.862743,
-        "area_lng": 139.747899
+        "area_lat": 35.862661,
+        "area_lng": 139.747797
     },
     {
         "area_city_code": 11203,
         "area_city_name": "川口市",
         "area_town_code": "112030012004",
         "area_town_name": "戸塚南四丁目",
-        "area_lat": 35.863406,
-        "area_lng": 139.744086
+        "area_lat": 35.863606,
+        "area_lng": 139.744033
     },
     {
         "area_city_code": 11203,
         "area_city_name": "川口市",
         "area_town_code": "112030012005",
         "area_town_name": "戸塚南五丁目",
-        "area_lat": 35.863807,
-        "area_lng": 139.741623
+        "area_lat": 35.863708,
+        "area_lng": 139.741518
     },
     {
         "area_city_code": 11203,
@@ -10140,8 +10140,8 @@
         "area_city_name": "川口市",
         "area_town_code": "112030032006",
         "area_town_name": "戸塚六丁目",
-        "area_lat": 35.863062,
-        "area_lng": 139.754174
+        "area_lat": 35.863018,
+        "area_lng": 139.75443
     },
     {
         "area_city_code": 11203,
@@ -11292,8 +11292,8 @@
         "area_city_name": "川口市",
         "area_town_code": "112030099000",
         "area_town_name": "大字西立野",
-        "area_lat": 35.858427,
-        "area_lng": 139.748676
+        "area_lat": 35.858019,
+        "area_lng": 139.747594
     },
     {
         "area_city_code": 11203,
@@ -11478,6 +11478,14 @@
         "area_town_name": "大字辻",
         "area_lat": 35.825396,
         "area_lng": 139.730117
+    },
+    {
+        "area_city_code": 11203,
+        "area_city_name": "川口市",
+        "area_town_code": "112030120000",
+        "area_town_name": "大字",
+        "area_lat": 35.862205,
+        "area_lng": 139.741091
     },
     {
         "area_city_code": 11206,
@@ -17020,8 +17028,8 @@
         "area_city_name": "東松山市",
         "area_town_code": "112120002001",
         "area_town_name": "あずま町一丁目",
-        "area_lat": 36.007283,
-        "area_lng": 139.406852
+        "area_lat": 36.007379,
+        "area_lng": 139.406886
     },
     {
         "area_city_code": 11212,
@@ -17452,8 +17460,8 @@
         "area_city_name": "東松山市",
         "area_town_code": "112120041000",
         "area_town_name": "大字高坂",
-        "area_lat": 36.005251,
-        "area_lng": 139.400467
+        "area_lat": 36.006916,
+        "area_lng": 139.39678
     },
     {
         "area_city_code": 11212,
@@ -17598,6 +17606,62 @@
         "area_town_name": "大字大谷",
         "area_lat": 36.081419,
         "area_lng": 139.391636
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060001",
+        "area_town_name": "高坂一丁目",
+        "area_lat": 36.006858,
+        "area_lng": 139.399221
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060002",
+        "area_town_name": "高坂二丁目",
+        "area_lat": 36.004814,
+        "area_lng": 139.400289
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060003",
+        "area_town_name": "高坂三丁目",
+        "area_lat": 36.002407,
+        "area_lng": 139.401768
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060004",
+        "area_town_name": "高坂四丁目",
+        "area_lat": 36.000093,
+        "area_lng": 139.400583
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060005",
+        "area_town_name": "高坂五丁目",
+        "area_lat": 35.998119,
+        "area_lng": 139.401021
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060006",
+        "area_town_name": "高坂六丁目",
+        "area_lat": 35.995038,
+        "area_lng": 139.400755
+    },
+    {
+        "area_city_code": 11212,
+        "area_city_name": "東松山市",
+        "area_town_code": "112120060007",
+        "area_town_name": "高坂七丁目",
+        "area_lat": 35.995623,
+        "area_lng": 139.402369
     },
     {
         "area_city_code": 11214,
@@ -21740,8 +21804,8 @@
         "area_city_name": "深谷市",
         "area_town_code": "112180079000",
         "area_town_name": "永田",
-        "area_lat": 36.137531,
-        "area_lng": 139.253437
+        "area_lat": 36.137668,
+        "area_lng": 139.254849
     },
     {
         "area_city_code": 11218,
@@ -21772,8 +21836,8 @@
         "area_city_name": "深谷市",
         "area_town_code": "112180083000",
         "area_town_name": "黒田",
-        "area_lat": 36.125998,
-        "area_lng": 139.251724
+        "area_lat": 36.128423,
+        "area_lng": 139.252648
     },
     {
         "area_city_code": 11218,
@@ -21982,6 +22046,14 @@
         "area_town_name": "岡二丁目",
         "area_lat": 36.210775,
         "area_lng": 139.238078
+    },
+    {
+        "area_city_code": 11218,
+        "area_city_name": "深谷市",
+        "area_town_code": "112180109000",
+        "area_town_name": "花園",
+        "area_lat": 36.133285,
+        "area_lng": 139.248158
     },
     {
         "area_city_code": 11219,
@@ -23082,7 +23154,7 @@
     {
         "area_city_code": 11219,
         "area_city_name": "上尾市",
-        "area_town_code": "112190065001",
+        "area_town_code": "112190065000",
         "area_town_name": "壱丁目西",
         "area_lat": 35.957232,
         "area_lng": 139.567195
@@ -23090,7 +23162,7 @@
     {
         "area_city_code": 11219,
         "area_city_name": "上尾市",
-        "area_town_code": "112190065002",
+        "area_town_code": "112190066000",
         "area_town_name": "壱丁目東",
         "area_lat": 35.957399,
         "area_lng": 139.572853
@@ -23098,7 +23170,7 @@
     {
         "area_city_code": 11219,
         "area_city_name": "上尾市",
-        "area_town_code": "112190065003",
+        "area_town_code": "112190067000",
         "area_town_name": "壱丁目南",
         "area_lat": 35.954816,
         "area_lng": 139.569317
@@ -23106,7 +23178,7 @@
     {
         "area_city_code": 11219,
         "area_city_name": "上尾市",
-        "area_town_code": "112190065004",
+        "area_town_code": "112190068000",
         "area_town_name": "壱丁目北",
         "area_lat": 35.959563,
         "area_lng": 139.569485
@@ -35348,8 +35420,8 @@
         "area_city_name": "鶴ヶ島市",
         "area_town_code": "112410009001",
         "area_town_name": "富士見一丁目",
-        "area_lat": 35.948162,
-        "area_lng": 139.412159
+        "area_lat": 35.947617,
+        "area_lng": 139.410896
     },
     {
         "area_city_code": 11241,
@@ -35452,8 +35524,8 @@
         "area_city_name": "鶴ヶ島市",
         "area_town_code": "112410012000",
         "area_town_name": "大字中新田",
-        "area_lat": 35.938548,
-        "area_lng": 139.368978
+        "area_lat": 35.940795,
+        "area_lng": 139.371467
     },
     {
         "area_city_code": 11241,
@@ -35492,16 +35564,16 @@
         "area_city_name": "鶴ヶ島市",
         "area_town_code": "112410017000",
         "area_town_name": "大字下新田",
-        "area_lat": 35.944247,
-        "area_lng": 139.38139
+        "area_lat": 35.941449,
+        "area_lng": 139.372659
     },
     {
         "area_city_code": 11241,
         "area_city_name": "鶴ヶ島市",
         "area_town_code": "112410018000",
         "area_town_name": "大字上広谷",
-        "area_lat": 35.94081,
-        "area_lng": 139.417668
+        "area_lat": 35.943757,
+        "area_lng": 139.411245
     },
     {
         "area_city_code": 11241,
@@ -35524,8 +35596,8 @@
         "area_city_name": "鶴ヶ島市",
         "area_town_code": "112410021000",
         "area_town_name": "大字藤金",
-        "area_lat": 35.94039,
-        "area_lng": 139.406052
+        "area_lat": 35.944363,
+        "area_lng": 139.407896
     },
     {
         "area_city_code": 11241,
@@ -35542,6 +35614,22 @@
         "area_town_name": "大字高倉",
         "area_lat": 35.930306,
         "area_lng": 139.380203
+    },
+    {
+        "area_city_code": 11241,
+        "area_city_name": "鶴ヶ島市",
+        "area_town_code": "112410024001",
+        "area_town_name": "若葉一丁目",
+        "area_lat": 35.947942,
+        "area_lng": 139.407202
+    },
+    {
+        "area_city_code": 11241,
+        "area_city_name": "鶴ヶ島市",
+        "area_town_code": "112410024002",
+        "area_town_name": "若葉二丁目",
+        "area_lat": 35.946124,
+        "area_lng": 139.409468
     },
     {
         "area_city_code": 11242,
@@ -35966,6 +36054,38 @@
         "area_town_name": "大字高萩",
         "area_lat": 35.900997,
         "area_lng": 139.376946
+    },
+    {
+        "area_city_code": 11242,
+        "area_city_name": "日高市",
+        "area_town_code": "112420042001",
+        "area_town_name": "武蔵高萩一丁目",
+        "area_lat": 35.903531,
+        "area_lng": 139.372968
+    },
+    {
+        "area_city_code": 11242,
+        "area_city_name": "日高市",
+        "area_town_code": "112420042002",
+        "area_town_name": "武蔵高萩二丁目",
+        "area_lat": 35.9032,
+        "area_lng": 139.369191
+    },
+    {
+        "area_city_code": 11242,
+        "area_city_name": "日高市",
+        "area_town_code": "112420042003",
+        "area_town_name": "武蔵高萩三丁目",
+        "area_lat": 35.905957,
+        "area_lng": 139.368621
+    },
+    {
+        "area_city_code": 11242,
+        "area_city_name": "日高市",
+        "area_town_code": "112420042004",
+        "area_town_name": "武蔵高萩四丁目",
+        "area_lat": 35.906676,
+        "area_lng": 139.371661
     },
     {
         "area_city_code": 11243,

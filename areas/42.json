@@ -684,8 +684,8 @@
         "area_city_name": "長崎市",
         "area_town_code": "422010070000",
         "area_town_name": "御船蔵町",
-        "area_lat": 32.757584,
-        "area_lng": 129.871492
+        "area_lat": 32.75744,
+        "area_lng": 129.87161
     },
     {
         "area_city_code": 42201,
@@ -2044,8 +2044,8 @@
         "area_city_name": "長崎市",
         "area_town_code": "422010193000",
         "area_town_name": "宝町",
-        "area_lat": 32.758776,
-        "area_lng": 129.867507
+        "area_lat": 32.758753,
+        "area_lng": 129.867549
     },
     {
         "area_city_code": 42201,
@@ -2284,8 +2284,8 @@
         "area_city_name": "長崎市",
         "area_town_code": "422010214000",
         "area_town_name": "天神町",
-        "area_lat": 32.759262,
-        "area_lng": 129.86941
+        "area_lat": 32.759588,
+        "area_lng": 129.869744
     },
     {
         "area_city_code": 42201,
@@ -3060,8 +3060,8 @@
         "area_city_name": "長崎市",
         "area_town_code": "422010282005",
         "area_town_name": "深堀町五丁目",
-        "area_lat": 32.685644,
-        "area_lng": 129.822287
+        "area_lat": 32.683128,
+        "area_lng": 129.79989
     },
     {
         "area_city_code": 42201,
@@ -4284,8 +4284,8 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020059000",
         "area_town_name": "小野町",
-        "area_lat": 33.185551,
-        "area_lng": 129.690948
+        "area_lat": 33.187155,
+        "area_lng": 129.678623
     },
     {
         "area_city_code": 42202,
@@ -4988,8 +4988,8 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020147000",
         "area_town_name": "新田町",
-        "area_lat": 33.191212,
-        "area_lng": 129.673933
+        "area_lat": 33.186837,
+        "area_lng": 129.674998
     },
     {
         "area_city_code": 42202,
@@ -5436,8 +5436,8 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020196000",
         "area_town_name": "長畑町",
-        "area_lat": 33.080785,
-        "area_lng": 129.813465
+        "area_lat": 33.081673,
+        "area_lng": 129.810054
     },
     {
         "area_city_code": 42202,
@@ -5572,16 +5572,16 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020209003",
         "area_town_name": "花高三丁目",
-        "area_lat": 33.141665,
-        "area_lng": 129.811097
+        "area_lat": 33.142664,
+        "area_lng": 129.813286
     },
     {
         "area_city_code": 42202,
         "area_city_name": "佐世保市",
         "area_town_code": "422020209004",
         "area_town_name": "花高四丁目",
-        "area_lat": 33.138964,
-        "area_lng": 129.813108
+        "area_lat": 33.141675,
+        "area_lng": 129.814549
     },
     {
         "area_city_code": 42202,
@@ -5780,8 +5780,8 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020231000",
         "area_town_name": "母ヶ浦町",
-        "area_lat": 33.180786,
-        "area_lng": 129.681908
+        "area_lat": 33.184715,
+        "area_lng": 129.674155
     },
     {
         "area_city_code": 42202,
@@ -5940,8 +5940,8 @@
         "area_city_name": "佐世保市",
         "area_town_code": "422020251000",
         "area_town_name": "宮津町",
-        "area_lat": 33.07489,
-        "area_lng": 129.810497
+        "area_lat": 33.075764,
+        "area_lng": 129.806077
     },
     {
         "area_city_code": 42202,
@@ -8420,8 +8420,8 @@
         "area_city_name": "諫早市",
         "area_town_code": "422040118000",
         "area_town_name": "天神町",
-        "area_lat": 32.799655,
-        "area_lng": 130.060213
+        "area_lat": 32.800867,
+        "area_lng": 130.05995
     },
     {
         "area_city_code": 42204,
@@ -8484,8 +8484,8 @@
         "area_city_name": "諫早市",
         "area_town_code": "422040126000",
         "area_town_name": "中通町",
-        "area_lat": 32.800111,
-        "area_lng": 130.073732
+        "area_lat": 32.799482,
+        "area_lng": 130.072801
     },
     {
         "area_city_code": 42204,
@@ -8548,8 +8548,8 @@
         "area_city_name": "諫早市",
         "area_town_code": "422040134000",
         "area_town_name": "早見町",
-        "area_lat": 32.787904,
-        "area_lng": 130.058345
+        "area_lat": 32.788309,
+        "area_lng": 130.058545
     },
     {
         "area_city_code": 42204,
@@ -13300,8 +13300,8 @@
         "area_city_name": "西海市",
         "area_town_code": "422120001000",
         "area_town_name": "大島町",
-        "area_lat": 33.044388,
-        "area_lng": 129.608218
+        "area_lat": 33.042406,
+        "area_lng": 129.625552
     },
     {
         "area_city_code": 42212,
@@ -15076,8 +15076,8 @@
         "area_city_name": "東彼杵郡川棚町",
         "area_town_code": "423220011000",
         "area_town_name": "白石郷",
-        "area_lat": 33.06748,
-        "area_lng": 129.845235
+        "area_lat": 33.062346,
+        "area_lng": 129.848208
     },
     {
         "area_city_code": 42322,

@@ -5292,40 +5292,40 @@
         "area_city_name": "今治市",
         "area_town_code": "382020001000",
         "area_town_name": "阿方",
-        "area_lat": 34.067445,
-        "area_lng": 132.966444
+        "area_lat": 34.068497,
+        "area_lng": 132.967103
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020002000",
         "area_town_name": "朝倉上",
-        "area_lat": 33.971933,
-        "area_lng": 133.008027
+        "area_lat": 33.973869,
+        "area_lng": 133.005666
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020003000",
         "area_town_name": "朝倉北",
-        "area_lat": 33.993194,
-        "area_lng": 133.014454
+        "area_lat": 33.993122,
+        "area_lng": 133.022097
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020004000",
         "area_town_name": "朝倉下",
-        "area_lat": 34.001753,
-        "area_lng": 133.014371
+        "area_lat": 34.002857,
+        "area_lng": 133.016325
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020005000",
         "area_town_name": "朝倉南",
-        "area_lat": 33.989148,
-        "area_lng": 133.03035
+        "area_lat": 33.992565,
+        "area_lng": 133.023884
     },
     {
         "area_city_code": 38202,
@@ -5372,16 +5372,16 @@
         "area_city_name": "今治市",
         "area_town_code": "382020007000",
         "area_town_name": "五十嵐",
-        "area_lat": 34.030621,
-        "area_lng": 132.983636
+        "area_lat": 34.030489,
+        "area_lng": 132.982048
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020008000",
         "area_town_name": "いこいの丘",
-        "area_lat": 34.070253,
-        "area_lng": 132.978572
+        "area_lat": 34.070245,
+        "area_lng": 132.978761
     },
     {
         "area_city_code": 38202,
@@ -5460,8 +5460,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020012000",
         "area_town_name": "今治村",
-        "area_lat": 34.022239,
-        "area_lng": 133.093952
+        "area_lat": 34.06576,
+        "area_lng": 133.024969
     },
     {
         "area_city_code": 38202,
@@ -5492,8 +5492,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020014000",
         "area_town_name": "馬越",
-        "area_lat": 34.062119,
-        "area_lng": 132.98112
+        "area_lat": 34.062153,
+        "area_lng": 132.981517
     },
     {
         "area_city_code": 38202,
@@ -5532,8 +5532,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020016000",
         "area_town_name": "馬島",
-        "area_lat": 34.117553,
-        "area_lng": 132.992708
+        "area_lat": 34.117361,
+        "area_lng": 132.992965
     },
     {
         "area_city_code": 38202,
@@ -5588,8 +5588,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020019000",
         "area_town_name": "延喜",
-        "area_lat": 34.07329,
-        "area_lng": 132.958493
+        "area_lat": 34.074394,
+        "area_lng": 132.958677
     },
     {
         "area_city_code": 38202,
@@ -5636,72 +5636,72 @@
         "area_city_name": "今治市",
         "area_town_code": "382020021000",
         "area_town_name": "大西町大井浜",
-        "area_lat": 34.0635,
-        "area_lng": 132.923462
+        "area_lat": 34.064531,
+        "area_lng": 132.92178
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020022000",
         "area_town_name": "大西町九王",
-        "area_lat": 34.084067,
-        "area_lng": 132.926907
+        "area_lat": 34.081719,
+        "area_lng": 132.928579
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020023000",
         "area_town_name": "大西町紺原",
-        "area_lat": 34.067114,
-        "area_lng": 132.938228
+        "area_lat": 34.066909,
+        "area_lng": 132.93723
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020024000",
         "area_town_name": "大西町新町",
-        "area_lat": 34.065189,
-        "area_lng": 132.93073
+        "area_lat": 34.066731,
+        "area_lng": 132.927971
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020025000",
         "area_town_name": "大西町別府",
-        "area_lat": 34.058588,
-        "area_lng": 132.895185
+        "area_lat": 34.058655,
+        "area_lng": 132.897013
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020026000",
         "area_town_name": "大西町星浦",
-        "area_lat": 34.049739,
-        "area_lng": 132.901623
+        "area_lat": 34.049012,
+        "area_lng": 132.903482
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020027000",
         "area_town_name": "大西町宮脇",
-        "area_lat": 34.052585,
-        "area_lng": 132.929187
+        "area_lat": 34.052326,
+        "area_lng": 132.929718
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020028000",
         "area_town_name": "大西町山之内",
-        "area_lat": 34.035657,
-        "area_lng": 132.909219
+        "area_lat": 34.036572,
+        "area_lng": 132.911661
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020029000",
         "area_town_name": "大西町脇",
-        "area_lat": 34.055476,
-        "area_lng": 132.915426
+        "area_lat": 34.05499,
+        "area_lng": 132.915257
     },
     {
         "area_city_code": 38202,
@@ -5732,72 +5732,72 @@
         "area_city_name": "今治市",
         "area_town_code": "382020031000",
         "area_town_name": "大三島町明日",
-        "area_lat": 34.260029,
-        "area_lng": 133.007765
+        "area_lat": 34.259093,
+        "area_lng": 133.00584
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020032000",
         "area_town_name": "大三島町台",
-        "area_lat": 34.229008,
-        "area_lng": 133.005092
+        "area_lat": 34.231039,
+        "area_lng": 133.003871
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020033000",
         "area_town_name": "大三島町浦戸",
-        "area_lat": 34.217697,
-        "area_lng": 132.958711
+        "area_lat": 34.216946,
+        "area_lng": 132.958013
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020034000",
         "area_town_name": "大三島町大見",
-        "area_lat": 34.264114,
-        "area_lng": 132.989086
+        "area_lat": 34.262346,
+        "area_lng": 132.987324
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020035000",
         "area_town_name": "大三島町口総",
-        "area_lat": 34.216005,
-        "area_lng": 132.971626
+        "area_lat": 34.221263,
+        "area_lng": 132.969062
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020036000",
         "area_town_name": "大三島町野々江",
-        "area_lat": 34.21503,
-        "area_lng": 132.997318
+        "area_lat": 34.212923,
+        "area_lng": 132.991699
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020037000",
         "area_town_name": "大三島町肥海",
-        "area_lat": 34.273994,
-        "area_lng": 132.998095
+        "area_lat": 34.275886,
+        "area_lng": 132.996114
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020038000",
         "area_town_name": "大三島町宮浦",
-        "area_lat": 34.239033,
-        "area_lng": 133.025373
+        "area_lat": 34.238622,
+        "area_lng": 133.017419
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020039000",
         "area_town_name": "大三島町宗方",
-        "area_lat": 34.201649,
-        "area_lng": 132.95964
+        "area_lat": 34.201738,
+        "area_lng": 132.956317
     },
     {
         "area_city_code": 38202,
@@ -5948,40 +5948,40 @@
         "area_city_name": "今治市",
         "area_town_code": "382020045000",
         "area_town_name": "上浦町甘崎",
-        "area_lat": 34.242044,
-        "area_lng": 133.041052
+        "area_lat": 34.242573,
+        "area_lng": 133.043289
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020046000",
         "area_town_name": "上浦町井口",
-        "area_lat": 34.262214,
-        "area_lng": 133.032107
+        "area_lat": 34.26227,
+        "area_lng": 133.032791
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020047000",
         "area_town_name": "上浦町盛",
-        "area_lat": 34.288275,
-        "area_lng": 133.015129
+        "area_lat": 34.288585,
+        "area_lng": 133.016992
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020048000",
         "area_town_name": "上浦町瀬戸",
-        "area_lat": 34.221949,
-        "area_lng": 133.047066
+        "area_lat": 34.2212,
+        "area_lng": 133.039813
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020049000",
         "area_town_name": "上徳",
-        "area_lat": 34.036732,
-        "area_lng": 133.014342
+        "area_lat": 34.036994,
+        "area_lng": 133.01418
     },
     {
         "area_city_code": 38202,
@@ -6044,8 +6044,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020053000",
         "area_town_name": "神宮",
-        "area_lat": 34.051169,
-        "area_lng": 132.954931
+        "area_lat": 34.050296,
+        "area_lng": 132.952644
     },
     {
         "area_city_code": 38202,
@@ -6076,96 +6076,96 @@
         "area_city_name": "今治市",
         "area_town_code": "382020055000",
         "area_town_name": "菊間町池原",
-        "area_lat": 34.036049,
-        "area_lng": 132.862892
+        "area_lat": 34.034436,
+        "area_lng": 132.862773
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020056000",
         "area_town_name": "菊間町川上",
-        "area_lat": 34.011936,
-        "area_lng": 132.866332
+        "area_lat": 34.012884,
+        "area_lng": 132.864072
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020057000",
         "area_town_name": "菊間町河之内",
-        "area_lat": 34.012666,
-        "area_lng": 132.881883
+        "area_lat": 34.013875,
+        "area_lng": 132.885684
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020058000",
         "area_town_name": "菊間町高田",
-        "area_lat": 34.019424,
-        "area_lng": 132.846243
+        "area_lat": 34.019528,
+        "area_lng": 132.848673
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020059000",
         "area_town_name": "菊間町佐方",
-        "area_lat": 34.047604,
-        "area_lng": 132.886606
+        "area_lat": 34.048006,
+        "area_lng": 132.885215
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020060000",
         "area_town_name": "菊間町種",
-        "area_lat": 34.041023,
-        "area_lng": 132.871958
+        "area_lat": 34.039481,
+        "area_lng": 132.877155
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020061000",
         "area_town_name": "菊間町田之尻",
-        "area_lat": 34.018543,
-        "area_lng": 132.815362
+        "area_lat": 34.018507,
+        "area_lng": 132.819393
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020062000",
         "area_town_name": "菊間町長坂",
-        "area_lat": 34.024155,
-        "area_lng": 132.834506
+        "area_lat": 34.024509,
+        "area_lng": 132.83678
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020063000",
         "area_town_name": "菊間町中川",
-        "area_lat": 34.003824,
-        "area_lng": 132.858575
+        "area_lat": 34.003261,
+        "area_lng": 132.860049
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020064000",
         "area_town_name": "菊間町西山",
-        "area_lat": 34.008269,
-        "area_lng": 132.832451
+        "area_lat": 34.00848,
+        "area_lng": 132.831455
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020065000",
         "area_town_name": "菊間町浜",
-        "area_lat": 34.036417,
-        "area_lng": 132.847936
+        "area_lat": 34.036061,
+        "area_lng": 132.845032
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020066000",
         "area_town_name": "菊間町松尾",
-        "area_lat": 34.020776,
-        "area_lng": 132.8697
+        "area_lat": 34.02156,
+        "area_lng": 132.872441
     },
     {
         "area_city_code": 38202,
@@ -6244,8 +6244,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020069000",
         "area_town_name": "北浜町",
-        "area_lat": 34.077674,
-        "area_lng": 132.997974
+        "area_lat": 34.078228,
+        "area_lng": 132.99802
     },
     {
         "area_city_code": 38202,
@@ -6308,8 +6308,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020072000",
         "area_town_name": "喜田村",
-        "area_lat": 34.039383,
-        "area_lng": 133.018398
+        "area_lat": 34.039541,
+        "area_lng": 133.018213
     },
     {
         "area_city_code": 38202,
@@ -6468,16 +6468,16 @@
         "area_city_name": "今治市",
         "area_town_code": "382020077000",
         "area_town_name": "クリエイティブヒルズ",
-        "area_lat": 34.049244,
-        "area_lng": 132.967167
+        "area_lat": 34.049472,
+        "area_lng": 132.967468
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020078000",
         "area_town_name": "来島",
-        "area_lat": 34.125389,
-        "area_lng": 132.979247
+        "area_lat": 34.12511,
+        "area_lng": 132.978461
     },
     {
         "area_city_code": 38202,
@@ -6764,8 +6764,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020089000",
         "area_town_name": "国分",
-        "area_lat": 34.029098,
-        "area_lng": 133.015824
+        "area_lat": 34.029905,
+        "area_lng": 133.016455
     },
     {
         "area_city_code": 38202,
@@ -6860,8 +6860,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020092000",
         "area_town_name": "古谷",
-        "area_lat": 34.004965,
-        "area_lng": 132.990102
+        "area_lat": 34.003563,
+        "area_lng": 132.994346
     },
     {
         "area_city_code": 38202,
@@ -6900,8 +6900,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020094000",
         "area_town_name": "桜井",
-        "area_lat": 34.004348,
-        "area_lng": 133.049499
+        "area_lat": 34.003193,
+        "area_lng": 133.049241
     },
     {
         "area_city_code": 38202,
@@ -7044,16 +7044,16 @@
         "area_city_name": "今治市",
         "area_town_code": "382020098000",
         "area_town_name": "しまなみの杜",
-        "area_lat": 34.071585,
-        "area_lng": 132.971549
+        "area_lat": 34.071924,
+        "area_lng": 132.971554
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020099000",
         "area_town_name": "しまなみヒルズ",
-        "area_lat": 34.069274,
-        "area_lng": 132.971902
+        "area_lat": 34.069277,
+        "area_lng": 132.971915
     },
     {
         "area_city_code": 38202,
@@ -7092,24 +7092,24 @@
         "area_city_name": "今治市",
         "area_town_code": "382020101000",
         "area_town_name": "関前大下",
-        "area_lat": 34.192192,
-        "area_lng": 132.925127
+        "area_lat": 34.191221,
+        "area_lng": 132.925339
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020102000",
         "area_town_name": "関前岡村",
-        "area_lat": 34.187489,
-        "area_lng": 132.877259
+        "area_lat": 34.187597,
+        "area_lng": 132.878488
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020103000",
         "area_town_name": "関前小大下",
-        "area_lat": 34.189904,
-        "area_lng": 132.901628
+        "area_lat": 34.189736,
+        "area_lng": 132.902078
     },
     {
         "area_city_code": 38202,
@@ -7132,8 +7132,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020105000",
         "area_town_name": "杣田",
-        "area_lat": 34.09065,
-        "area_lng": 132.956483
+        "area_lat": 34.088598,
+        "area_lng": 132.957185
     },
     {
         "area_city_code": 38202,
@@ -7196,40 +7196,40 @@
         "area_city_name": "今治市",
         "area_town_code": "382020107000",
         "area_town_name": "高市",
-        "area_lat": 34.025404,
-        "area_lng": 133.00985
+        "area_lat": 34.025824,
+        "area_lng": 133.009684
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020108000",
         "area_town_name": "高橋",
-        "area_lat": 34.036697,
-        "area_lng": 132.967233
+        "area_lat": 34.037362,
+        "area_lng": 132.965205
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020109000",
         "area_town_name": "高橋ふれあいの丘",
-        "area_lat": 34.040843,
-        "area_lng": 132.958921
+        "area_lat": 34.040486,
+        "area_lng": 132.958646
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020110000",
         "area_town_name": "高部",
-        "area_lat": 34.095635,
-        "area_lng": 132.969063
+        "area_lat": 34.094521,
+        "area_lng": 132.969633
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020111000",
         "area_town_name": "宅間",
-        "area_lat": 34.077466,
-        "area_lng": 132.942137
+        "area_lat": 34.077673,
+        "area_lng": 132.943814
     },
     {
         "area_city_code": 38202,
@@ -7268,152 +7268,152 @@
         "area_city_name": "今治市",
         "area_town_code": "382020113000",
         "area_town_name": "玉川町大野",
-        "area_lat": 34.022825,
-        "area_lng": 132.943507
+        "area_lat": 34.023255,
+        "area_lng": 132.943329
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020114000",
         "area_town_name": "玉川町鬼原",
-        "area_lat": 33.997617,
-        "area_lng": 132.943899
+        "area_lat": 33.997135,
+        "area_lng": 132.944652
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020115000",
         "area_town_name": "玉川町葛谷",
-        "area_lat": 34.00818,
-        "area_lng": 132.89886
+        "area_lat": 34.009123,
+        "area_lng": 132.899381
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020116000",
         "area_town_name": "玉川町桂",
-        "area_lat": 34.010437,
-        "area_lng": 132.927383
+        "area_lat": 34.014329,
+        "area_lng": 132.926143
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020117000",
         "area_town_name": "玉川町木地",
-        "area_lat": 33.936752,
-        "area_lng": 132.960744
+        "area_lat": 33.942685,
+        "area_lng": 132.955449
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020118000",
         "area_town_name": "玉川町高野",
-        "area_lat": 34.012162,
-        "area_lng": 132.947799
+        "area_lat": 34.012116,
+        "area_lng": 132.948227
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020119000",
         "area_town_name": "玉川町小鴨部",
-        "area_lat": 34.014087,
-        "area_lng": 132.966533
+        "area_lat": 34.011769,
+        "area_lng": 132.969276
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020120000",
         "area_town_name": "玉川町三反地",
-        "area_lat": 34.017599,
-        "area_lng": 132.939696
+        "area_lat": 34.017293,
+        "area_lng": 132.939645
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020121000",
         "area_town_name": "玉川町摺木",
-        "area_lat": 34.029166,
-        "area_lng": 132.938857
+        "area_lat": 34.029,
+        "area_lng": 132.939065
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020122000",
         "area_town_name": "玉川町長谷",
-        "area_lat": 34.004702,
-        "area_lng": 132.93343
+        "area_lat": 34.003203,
+        "area_lng": 132.934183
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020123000",
         "area_town_name": "玉川町中村",
-        "area_lat": 34.020335,
-        "area_lng": 132.953072
+        "area_lat": 34.02049,
+        "area_lng": 132.955215
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020124000",
         "area_town_name": "玉川町鍋地",
-        "area_lat": 34.023914,
-        "area_lng": 132.919267
+        "area_lat": 34.023253,
+        "area_lng": 132.920371
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020125000",
         "area_town_name": "玉川町鈍川",
-        "area_lat": 33.978095,
-        "area_lng": 132.948289
+        "area_lat": 33.980949,
+        "area_lng": 132.957305
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020126000",
         "area_town_name": "玉川町畑寺",
-        "area_lat": 34.001107,
-        "area_lng": 132.955412
+        "area_lat": 34.000734,
+        "area_lng": 132.955588
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020127000",
         "area_town_name": "玉川町別所",
-        "area_lat": 34.017358,
-        "area_lng": 132.975659
+        "area_lat": 34.020296,
+        "area_lng": 132.974689
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020128000",
         "area_town_name": "玉川町法界寺",
-        "area_lat": 34.032688,
-        "area_lng": 132.949432
+        "area_lat": 34.031588,
+        "area_lng": 132.950344
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020129000",
         "area_town_name": "玉川町御厩",
-        "area_lat": 34.012718,
-        "area_lng": 132.912474
+        "area_lat": 34.011239,
+        "area_lng": 132.914992
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020130000",
         "area_town_name": "玉川町八幡",
-        "area_lat": 34.02794,
-        "area_lng": 132.977714
+        "area_lat": 34.026851,
+        "area_lng": 132.977047
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020131000",
         "area_town_name": "玉川町與和木",
-        "area_lat": 34.033293,
-        "area_lng": 132.92785
+        "area_lat": 34.03312,
+        "area_lng": 132.929861
     },
     {
         "area_city_code": 38202,
@@ -7436,8 +7436,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020134000",
         "area_town_name": "旦",
-        "area_lat": 34.015021,
-        "area_lng": 133.026161
+        "area_lat": 34.014579,
+        "area_lng": 133.025581
     },
     {
         "area_city_code": 38202,
@@ -7668,8 +7668,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020141000",
         "area_town_name": "徳重",
-        "area_lat": 34.036394,
-        "area_lng": 132.985403
+        "area_lat": 34.03645,
+        "area_lng": 132.985665
     },
     {
         "area_city_code": 38202,
@@ -7692,16 +7692,16 @@
         "area_city_name": "今治市",
         "area_town_code": "382020143000",
         "area_town_name": "長沢",
-        "area_lat": 33.999056,
-        "area_lng": 133.039937
+        "area_lat": 33.99856,
+        "area_lng": 133.03963
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020144000",
         "area_town_name": "中寺",
-        "area_lat": 34.037716,
-        "area_lng": 132.991148
+        "area_lat": 34.037466,
+        "area_lng": 132.991548
     },
     {
         "area_city_code": 38202,
@@ -7796,136 +7796,136 @@
         "area_city_name": "今治市",
         "area_town_code": "382020148000",
         "area_town_name": "波方町大浦",
-        "area_lat": 34.113951,
-        "area_lng": 132.963879
+        "area_lat": 34.113308,
+        "area_lng": 132.96395
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020149000",
         "area_town_name": "波方町岡",
-        "area_lat": 34.110418,
-        "area_lng": 132.930705
+        "area_lat": 34.110447,
+        "area_lng": 132.930083
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020150000",
         "area_town_name": "波方町小部",
-        "area_lat": 34.102454,
-        "area_lng": 132.929789
+        "area_lat": 34.103058,
+        "area_lng": 132.93064
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020151000",
         "area_town_name": "波方町郷",
-        "area_lat": 34.108409,
-        "area_lng": 132.960254
+        "area_lat": 34.107958,
+        "area_lng": 132.959673
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020152000",
         "area_town_name": "波方町波方",
-        "area_lat": 34.124868,
-        "area_lng": 132.948135
+        "area_lat": 34.120248,
+        "area_lng": 132.951565
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020153000",
         "area_town_name": "波方町西浦",
-        "area_lat": 34.129969,
-        "area_lng": 132.941307
+        "area_lat": 34.127347,
+        "area_lng": 132.940385
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020154000",
         "area_town_name": "波方町樋口",
-        "area_lat": 34.096523,
-        "area_lng": 132.943191
+        "area_lat": 34.097025,
+        "area_lng": 132.944407
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020155000",
         "area_town_name": "波方町馬刀潟",
-        "area_lat": 34.114599,
-        "area_lng": 132.922625
+        "area_lat": 34.116359,
+        "area_lng": 132.922083
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020156000",
         "area_town_name": "波方町宮崎",
-        "area_lat": 34.115241,
-        "area_lng": 132.904989
+        "area_lat": 34.115594,
+        "area_lng": 132.905431
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020157000",
         "area_town_name": "波方町森上",
-        "area_lat": 34.119077,
-        "area_lng": 132.932931
+        "area_lat": 34.118604,
+        "area_lng": 132.933186
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020158000",
         "area_town_name": "波方町養老",
-        "area_lat": 34.108913,
-        "area_lng": 132.943133
+        "area_lat": 34.109237,
+        "area_lng": 132.942804
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020159000",
         "area_town_name": "にぎわい広場",
-        "area_lat": 34.044275,
-        "area_lng": 132.962099
+        "area_lat": 34.043587,
+        "area_lng": 132.96173
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020160000",
         "area_town_name": "新谷",
-        "area_lat": 34.020049,
-        "area_lng": 132.988614
+        "area_lat": 34.019828,
+        "area_lng": 132.988912
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020161000",
         "area_town_name": "登畑",
-        "area_lat": 34.01972,
-        "area_lng": 133.016694
+        "area_lat": 34.018841,
+        "area_lng": 133.016649
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020162000",
         "area_town_name": "野間",
-        "area_lat": 34.056388,
-        "area_lng": 132.944093
+        "area_lat": 34.057004,
+        "area_lng": 132.944847
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020163000",
         "area_town_name": "拝志",
-        "area_lat": 34.040737,
-        "area_lng": 133.026185
+        "area_lat": 34.040908,
+        "area_lng": 133.025788
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020164000",
         "area_town_name": "伯方町有津",
-        "area_lat": 34.203033,
-        "area_lng": 133.088204
+        "area_lat": 34.204479,
+        "area_lng": 133.091177
     },
     {
         "area_city_code": 38202,
@@ -7933,39 +7933,39 @@
         "area_town_code": "382020165000",
         "area_town_name": "伯方町伊方",
         "area_lat": 34.221683,
-        "area_lng": 133.07466
+        "area_lng": 133.069829
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020166000",
         "area_town_name": "伯方町叶浦",
-        "area_lat": 34.208379,
-        "area_lng": 133.079126
+        "area_lat": 34.208509,
+        "area_lng": 133.079275
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020167000",
         "area_town_name": "伯方町北浦",
-        "area_lat": 34.227039,
-        "area_lng": 133.097078
+        "area_lat": 34.225359,
+        "area_lng": 133.096121
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020168000",
         "area_town_name": "伯方町木浦",
-        "area_lat": 34.206212,
-        "area_lng": 133.111833
+        "area_lat": 34.20746,
+        "area_lng": 133.115086
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020169000",
         "area_town_name": "波止浜",
-        "area_lat": 34.103644,
-        "area_lng": 132.971287
+        "area_lat": 34.102609,
+        "area_lng": 132.971545
     },
     {
         "area_city_code": 38202,
@@ -8132,8 +8132,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020174000",
         "area_town_name": "東村",
-        "area_lat": 34.038185,
-        "area_lng": 133.019991
+        "area_lat": 34.038162,
+        "area_lng": 133.020174
     },
     {
         "area_city_code": 38202,
@@ -8340,8 +8340,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020180000",
         "area_town_name": "別名",
-        "area_lat": 34.044394,
-        "area_lng": 132.974477
+        "area_lat": 34.044077,
+        "area_lng": 132.974441
     },
     {
         "area_city_code": 38202,
@@ -8404,24 +8404,24 @@
         "area_city_name": "今治市",
         "area_town_code": "382020182000",
         "area_town_name": "孫兵衛作",
-        "area_lat": 33.986108,
-        "area_lng": 133.050179
+        "area_lat": 33.986071,
+        "area_lng": 133.050021
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020183000",
         "area_town_name": "町谷",
-        "area_lat": 34.019203,
-        "area_lng": 133.001519
+        "area_lat": 34.019852,
+        "area_lng": 133.0041
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020184000",
         "area_town_name": "松木",
-        "area_lat": 34.031383,
-        "area_lng": 133.003467
+        "area_lat": 34.031294,
+        "area_lng": 133.003591
     },
     {
         "area_city_code": 38202,
@@ -8692,40 +8692,40 @@
         "area_city_name": "今治市",
         "area_town_code": "382020195000",
         "area_town_name": "宮窪町四阪島",
-        "area_lat": 34.107576,
-        "area_lng": 133.187313
+        "area_lat": 34.113981,
+        "area_lng": 133.179222
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020196000",
         "area_town_name": "宮窪町友浦",
-        "area_lat": 34.160669,
-        "area_lng": 133.086398
+        "area_lat": 34.158652,
+        "area_lng": 133.087602
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020197000",
         "area_town_name": "宮窪町早川",
-        "area_lat": 34.187983,
-        "area_lng": 133.04194
+        "area_lat": 34.188384,
+        "area_lng": 133.041069
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020198000",
         "area_town_name": "宮窪町宮窪",
-        "area_lat": 34.169471,
-        "area_lng": 133.070385
+        "area_lat": 34.172736,
+        "area_lng": 133.074665
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020199000",
         "area_town_name": "宮窪町余所国",
-        "area_lat": 34.185449,
-        "area_lng": 133.057805
+        "area_lat": 34.185787,
+        "area_lng": 133.057454
     },
     {
         "area_city_code": 38202,
@@ -8812,8 +8812,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020202000",
         "area_town_name": "矢田",
-        "area_lat": 34.050479,
-        "area_lng": 132.963303
+        "area_lat": 34.050904,
+        "area_lng": 132.96291
     },
     {
         "area_city_code": 38202,
@@ -8836,16 +8836,16 @@
         "area_city_name": "今治市",
         "area_town_code": "382020204000",
         "area_town_name": "山口",
-        "area_lat": 34.002614,
-        "area_lng": 133.002218
+        "area_lat": 34.006779,
+        "area_lng": 133.006768
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020205000",
         "area_town_name": "山路",
-        "area_lat": 34.060421,
-        "area_lng": 132.975967
+        "area_lat": 34.059886,
+        "area_lng": 132.975522
     },
     {
         "area_city_code": 38202,
@@ -8860,8 +8860,8 @@
         "area_city_name": "今治市",
         "area_town_code": "382020207000",
         "area_town_name": "湯ノ浦",
-        "area_lat": 33.995589,
-        "area_lng": 133.052914
+        "area_lat": 33.995561,
+        "area_lng": 133.053677
     },
     {
         "area_city_code": 38202,
@@ -8900,120 +8900,120 @@
         "area_city_name": "今治市",
         "area_town_code": "382020209000",
         "area_town_name": "吉海町幸新田",
-        "area_lat": 34.145972,
-        "area_lng": 133.039805
+        "area_lat": 34.146124,
+        "area_lng": 133.039308
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020210000",
         "area_town_name": "吉海町正味",
-        "area_lat": 34.114799,
-        "area_lng": 133.017708
+        "area_lat": 34.114512,
+        "area_lng": 133.018229
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020211000",
         "area_town_name": "吉海町田浦",
-        "area_lat": 34.185814,
-        "area_lng": 133.031858
+        "area_lat": 34.183861,
+        "area_lng": 133.03008
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020212000",
         "area_town_name": "吉海町津島",
-        "area_lat": 34.152985,
-        "area_lng": 133.000623
+        "area_lat": 34.152339,
+        "area_lng": 133.0001
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020213000",
         "area_town_name": "吉海町泊",
-        "area_lat": 34.172208,
-        "area_lng": 133.041672
+        "area_lat": 34.173196,
+        "area_lng": 133.040427
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020214000",
         "area_town_name": "吉海町名駒",
-        "area_lat": 34.112473,
-        "area_lng": 133.026209
+        "area_lat": 34.111815,
+        "area_lng": 133.023886
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020215000",
         "area_town_name": "吉海町仁江",
-        "area_lat": 34.147059,
-        "area_lng": 133.059687
+        "area_lat": 34.147626,
+        "area_lng": 133.061491
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020216000",
         "area_town_name": "吉海町福田",
-        "area_lat": 34.156853,
-        "area_lng": 133.047325
+        "area_lat": 34.157564,
+        "area_lng": 133.047774
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020217000",
         "area_town_name": "吉海町臥間",
-        "area_lat": 34.129776,
-        "area_lng": 133.021537
+        "area_lat": 34.130072,
+        "area_lng": 133.021755
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020218000",
         "area_town_name": "吉海町南浦",
-        "area_lat": 34.115056,
-        "area_lng": 133.03771
+        "area_lat": 34.115338,
+        "area_lng": 133.037338
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020219000",
         "area_town_name": "吉海町名",
-        "area_lat": 34.127746,
-        "area_lng": 133.039263
+        "area_lat": 34.128021,
+        "area_lng": 133.039526
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020220000",
         "area_town_name": "吉海町椋名",
-        "area_lat": 34.136702,
-        "area_lng": 133.022445
+        "area_lat": 34.135927,
+        "area_lng": 133.018843
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020221000",
         "area_town_name": "吉海町八幡",
-        "area_lat": 34.144023,
-        "area_lng": 133.044017
+        "area_lat": 34.144032,
+        "area_lng": 133.044697
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020222000",
         "area_town_name": "四村",
-        "area_lat": 34.034855,
-        "area_lng": 132.981697
+        "area_lat": 34.035083,
+        "area_lng": 132.982939
     },
     {
         "area_city_code": 38202,
         "area_city_name": "今治市",
         "area_town_code": "382020223000",
         "area_town_name": "吉海町本庄",
-        "area_lat": 34.145938,
-        "area_lng": 133.029357
+        "area_lat": 34.145049,
+        "area_lng": 133.031017
     },
     {
         "area_city_code": 38202,
@@ -11412,8 +11412,8 @@
         "area_city_name": "八幡浜市",
         "area_town_code": "382040051000",
         "area_town_name": "愛宕",
-        "area_lat": 33.460086,
-        "area_lng": 132.428279
+        "area_lat": 33.459472,
+        "area_lng": 132.428096
     },
     {
         "area_city_code": 38204,
@@ -11434,10 +11434,18 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
+        "area_town_code": "382040054001",
+        "area_town_name": "駅前一丁目",
+        "area_lat": 33.458739,
+        "area_lng": 132.434597
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
         "area_town_code": "382040054002",
         "area_town_name": "駅前二丁目",
-        "area_lat": 33.459702,
-        "area_lng": 132.434755
+        "area_lat": 33.459412,
+        "area_lng": 132.434925
     },
     {
         "area_city_code": 38204,
@@ -11460,8 +11468,8 @@
         "area_city_name": "八幡浜市",
         "area_town_code": "382040057000",
         "area_town_name": "神宮",
-        "area_lat": 33.462374,
-        "area_lng": 132.432863
+        "area_lat": 33.461286,
+        "area_lng": 132.433183
     },
     {
         "area_city_code": 38204,
@@ -11476,24 +11484,24 @@
         "area_city_name": "八幡浜市",
         "area_town_code": "382040059001",
         "area_town_name": "桧谷一丁目",
-        "area_lat": 33.46081,
-        "area_lng": 132.437531
+        "area_lat": 33.460742,
+        "area_lng": 132.437576
     },
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
         "area_town_code": "382040059002",
         "area_town_name": "桧谷二丁目",
-        "area_lat": 33.460282,
-        "area_lng": 132.436753
+        "area_lat": 33.460201,
+        "area_lng": 132.437132
     },
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
         "area_town_code": "382040059003",
         "area_town_name": "桧谷三丁目",
-        "area_lat": 33.459897,
-        "area_lng": 132.435494
+        "area_lat": 33.459541,
+        "area_lng": 132.436152
     },
     {
         "area_city_code": 38204,
@@ -11508,8 +11516,8 @@
         "area_city_name": "八幡浜市",
         "area_town_code": "382040060000",
         "area_town_name": "松蔭町",
-        "area_lat": 33.459609,
-        "area_lng": 132.430416
+        "area_lat": 33.459459,
+        "area_lng": 132.430271
     },
     {
         "area_city_code": 38204,
@@ -11650,7 +11658,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040935001",
+        "area_town_code": "382040077001",
         "area_town_name": "新町一丁目",
         "area_lat": 33.458153,
         "area_lng": 132.424305
@@ -11658,7 +11666,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040935002",
+        "area_town_code": "382040077002",
         "area_town_name": "新町二丁目",
         "area_lat": 33.459217,
         "area_lng": 132.424292
@@ -11666,7 +11674,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040935003",
+        "area_town_code": "382040077003",
         "area_town_name": "新町三丁目",
         "area_lat": 33.460021,
         "area_lng": 132.424153
@@ -11674,7 +11682,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040935004",
+        "area_town_code": "382040077004",
         "area_town_name": "新町四丁目",
         "area_lat": 33.460819,
         "area_lng": 132.424314
@@ -11682,7 +11690,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040935005",
+        "area_town_code": "382040077005",
         "area_town_name": "新町五丁目",
         "area_lat": 33.461793,
         "area_lng": 132.424215
@@ -11690,15 +11698,23 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040936000",
-        "area_town_name": "（大字なし）",
-        "area_lat": 33.45874,
-        "area_lng": 132.439356
+        "area_town_code": "382040078001",
+        "area_town_name": "神宮通一丁目",
+        "area_lat": 33.460224,
+        "area_lng": 132.433034
     },
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040937000",
+        "area_town_code": "382040078002",
+        "area_town_name": "神宮通二丁目",
+        "area_lat": 33.460017,
+        "area_lng": 132.431962
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040079000",
         "area_town_name": "千代田町",
         "area_lat": 33.45816,
         "area_lng": 132.423523
@@ -11706,7 +11722,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040938000",
+        "area_town_code": "382040080000",
         "area_town_name": "船場通",
         "area_lat": 33.459796,
         "area_lng": 132.42354
@@ -11714,7 +11730,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040939000",
+        "area_town_code": "382040081000",
         "area_town_name": "中央",
         "area_lat": 33.458482,
         "area_lng": 132.425207
@@ -11722,7 +11738,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040940000",
+        "area_town_code": "382040082000",
         "area_town_name": "浜之町",
         "area_lat": 33.459228,
         "area_lng": 132.425136
@@ -11730,7 +11746,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382040941000",
+        "area_town_code": "382040083000",
         "area_town_name": "片山町",
         "area_lat": 33.458755,
         "area_lng": 132.426858
@@ -11738,7 +11754,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041494001",
+        "area_town_code": "382040084001",
         "area_town_name": "須崎一丁目",
         "area_lat": 33.456983,
         "area_lng": 132.424793
@@ -11746,7 +11762,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041494002",
+        "area_town_code": "382040084002",
         "area_town_name": "須崎二丁目",
         "area_lat": 33.457009,
         "area_lng": 132.42556
@@ -11754,15 +11770,31 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041495001",
+        "area_town_code": "382040085001",
         "area_town_name": "浜田町一丁目",
-        "area_lat": 33.45716,
-        "area_lng": 132.426317
+        "area_lat": 33.456977,
+        "area_lng": 132.426369
     },
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041496001",
+        "area_town_code": "382040085002",
+        "area_town_name": "浜田町二丁目",
+        "area_lat": 33.45723,
+        "area_lng": 132.428128
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040085003",
+        "area_town_name": "浜田町三丁目",
+        "area_lat": 33.456901,
+        "area_lng": 132.42754
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040086001",
         "area_town_name": "本町一丁目",
         "area_lat": 33.458493,
         "area_lng": 132.426082
@@ -11770,7 +11802,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041496002",
+        "area_town_code": "382040086002",
         "area_town_name": "本町二丁目",
         "area_lat": 33.459831,
         "area_lng": 132.425991
@@ -11778,7 +11810,39 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041497005",
+        "area_town_code": "382040087001",
+        "area_town_name": "矢野町一丁目",
+        "area_lat": 33.458591,
+        "area_lng": 132.431731
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040087002",
+        "area_town_name": "矢野町二丁目",
+        "area_lat": 33.458333,
+        "area_lng": 132.430408
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040087003",
+        "area_town_name": "矢野町三丁目",
+        "area_lat": 33.458191,
+        "area_lng": 132.429108
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040087004",
+        "area_town_name": "矢野町四丁目",
+        "area_lat": 33.45779,
+        "area_lng": 132.427667
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040087005",
         "area_town_name": "矢野町五丁目",
         "area_lat": 33.457451,
         "area_lng": 132.426214
@@ -11786,7 +11850,7 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041497006",
+        "area_town_code": "382040087006",
         "area_town_name": "矢野町六丁目",
         "area_lat": 33.457668,
         "area_lng": 132.42536
@@ -11794,10 +11858,50 @@
     {
         "area_city_code": 38204,
         "area_city_name": "八幡浜市",
-        "area_town_code": "382041497007",
+        "area_town_code": "382040087007",
         "area_town_name": "矢野町七丁目",
         "area_lat": 33.457462,
         "area_lng": 132.424251
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040088000",
+        "area_town_name": "清水町花小路",
+        "area_lat": 33.458604,
+        "area_lng": 132.428084
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040089000",
+        "area_town_name": "大正町",
+        "area_lat": 33.457126,
+        "area_lng": 132.429245
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040090000",
+        "area_town_name": "東新川",
+        "area_lat": 33.457213,
+        "area_lng": 132.430737
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040091000",
+        "area_town_name": "神宮前",
+        "area_lat": 33.459684,
+        "area_lng": 132.433594
+    },
+    {
+        "area_city_code": 38204,
+        "area_city_name": "八幡浜市",
+        "area_town_code": "382040092000",
+        "area_town_name": "東矢野町",
+        "area_lat": 33.458892,
+        "area_lng": 132.433022
     },
     {
         "area_city_code": 38205,
@@ -13628,16 +13732,16 @@
         "area_city_name": "西条市",
         "area_town_code": "382060035000",
         "area_town_name": "小松町北川",
-        "area_lat": 33.900683,
-        "area_lng": 133.090509
+        "area_lat": 33.900343,
+        "area_lng": 133.091518
     },
     {
         "area_city_code": 38206,
         "area_city_name": "西条市",
         "area_town_code": "382060036000",
         "area_town_name": "小松町新屋敷",
-        "area_lat": 33.887324,
-        "area_lng": 133.111905
+        "area_lat": 33.886608,
+        "area_lng": 133.112464
     },
     {
         "area_city_code": 38206,
@@ -13844,8 +13948,8 @@
         "area_city_name": "西条市",
         "area_town_code": "382060062000",
         "area_town_name": "玉之江",
-        "area_lat": 33.909894,
-        "area_lng": 133.101669
+        "area_lat": 33.909188,
+        "area_lng": 133.103212
     },
     {
         "area_city_code": 38206,
@@ -13868,8 +13972,8 @@
         "area_city_name": "西条市",
         "area_town_code": "382060065000",
         "area_town_name": "丹原町池田",
-        "area_lat": 33.912892,
-        "area_lng": 133.059078
+        "area_lat": 33.907512,
+        "area_lng": 133.05094
     },
     {
         "area_city_code": 38206,
@@ -13884,8 +13988,8 @@
         "area_city_name": "西条市",
         "area_town_code": "382060067000",
         "area_town_name": "丹原町今井",
-        "area_lat": 33.900233,
-        "area_lng": 133.056765
+        "area_lat": 33.898993,
+        "area_lng": 133.052743
     },
     {
         "area_city_code": 38206,
@@ -13924,8 +14028,8 @@
         "area_city_name": "西条市",
         "area_town_code": "382060072000",
         "area_town_name": "丹原町久妙寺",
-        "area_lat": 33.90216,
-        "area_lng": 133.047214
+        "area_lat": 33.901966,
+        "area_lng": 133.046181
     },
     {
         "area_city_code": 38206,
@@ -14332,8 +14436,8 @@
         "area_city_name": "西条市",
         "area_town_code": "382060124000",
         "area_town_name": "氷見乙",
-        "area_lat": 33.901696,
-        "area_lng": 133.125045
+        "area_lat": 33.903319,
+        "area_lng": 133.122787
     },
     {
         "area_city_code": 38206,
@@ -14646,6 +14750,22 @@
         "area_town_name": "丹原町願連寺",
         "area_lat": 33.912347,
         "area_lng": 133.067128
+    },
+    {
+        "area_city_code": 38206,
+        "area_city_name": "西条市",
+        "area_town_code": "382060164000",
+        "area_town_name": "丹原町吉田",
+        "area_lat": 33.905101,
+        "area_lng": 133.043356
+    },
+    {
+        "area_city_code": 38206,
+        "area_city_name": "西条市",
+        "area_town_code": "382060165000",
+        "area_town_name": "小松町新宮",
+        "area_lat": 33.901757,
+        "area_lng": 133.100851
     },
     {
         "area_city_code": 38207,

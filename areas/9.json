@@ -604,8 +604,8 @@
         "area_city_name": "宇都宮市",
         "area_town_code": "92010039001",
         "area_town_name": "小幡一丁目",
-        "area_lat": 36.563276,
-        "area_lng": 139.875779
+        "area_lat": 36.563319,
+        "area_lng": 139.875755
     },
     {
         "area_city_code": 9201,
@@ -2756,8 +2756,8 @@
         "area_city_name": "宇都宮市",
         "area_town_code": "92010212000",
         "area_town_name": "平松本町",
-        "area_lat": 36.542613,
-        "area_lng": 139.910526
+        "area_lat": 36.542996,
+        "area_lng": 139.909225
     },
     {
         "area_city_code": 9201,
@@ -3196,8 +3196,8 @@
         "area_city_name": "宇都宮市",
         "area_town_code": "92010242000",
         "area_town_name": "峰町",
-        "area_lat": 36.547296,
-        "area_lng": 139.917198
+        "area_lat": 36.547765,
+        "area_lng": 139.917337
     },
     {
         "area_city_code": 9201,
@@ -3926,6 +3926,54 @@
         "area_town_name": "鶴田町",
         "area_lat": 36.555013,
         "area_lng": 139.855103
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010282001",
+        "area_town_name": "東峰一丁目",
+        "area_lat": 36.542579,
+        "area_lng": 139.919454
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010282002",
+        "area_town_name": "東峰二丁目",
+        "area_lat": 36.544482,
+        "area_lng": 139.921175
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010283001",
+        "area_town_name": "平松一丁目",
+        "area_lat": 36.540343,
+        "area_lng": 139.912709
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010283002",
+        "area_town_name": "平松三丁目",
+        "area_lat": 36.53865,
+        "area_lng": 139.914067
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010283003",
+        "area_town_name": "平松四丁目",
+        "area_lat": 36.541096,
+        "area_lng": 139.917028
+    },
+    {
+        "area_city_code": 9201,
+        "area_city_name": "宇都宮市",
+        "area_town_code": "92010283004",
+        "area_town_name": "平松二丁目",
+        "area_lat": 36.542768,
+        "area_lng": 139.915603
     },
     {
         "area_city_code": 9202,
@@ -8692,8 +8740,8 @@
         "area_city_name": "日光市",
         "area_town_code": "92060044000",
         "area_town_name": "吉沢",
-        "area_lat": 36.712053,
-        "area_lng": 139.706291
+        "area_lat": 36.712433,
+        "area_lng": 139.70597
     },
     {
         "area_city_code": 9206,
@@ -9092,8 +9140,8 @@
         "area_city_name": "日光市",
         "area_town_code": "92060091000",
         "area_town_name": "土沢",
-        "area_lat": 36.697617,
-        "area_lng": 139.72934
+        "area_lat": 36.698282,
+        "area_lng": 139.728017
     },
     {
         "area_city_code": 9206,
@@ -10996,8 +11044,8 @@
         "area_city_name": "真岡市",
         "area_town_code": "92090007002",
         "area_town_name": "荒町二丁目",
-        "area_lat": 36.446694,
-        "area_lng": 140.012303
+        "area_lat": 36.448501,
+        "area_lng": 140.013676
     },
     {
         "area_city_code": 9209,
@@ -11212,24 +11260,24 @@
         "area_city_name": "真岡市",
         "area_town_code": "92090030000",
         "area_town_name": "亀山",
-        "area_lat": 36.459253,
-        "area_lng": 139.982932
+        "area_lat": 36.459161,
+        "area_lng": 139.987004
     },
     {
         "area_city_code": 9209,
         "area_city_name": "真岡市",
         "area_town_code": "92090031001",
         "area_town_name": "亀山一丁目",
-        "area_lat": 36.451435,
-        "area_lng": 139.986619
+        "area_lat": 36.453321,
+        "area_lng": 139.984693
     },
     {
         "area_city_code": 9209,
         "area_city_name": "真岡市",
         "area_town_code": "92090031002",
         "area_town_name": "亀山二丁目",
-        "area_lat": 36.453428,
-        "area_lng": 139.988023
+        "area_lat": 36.457379,
+        "area_lng": 139.989992
     },
     {
         "area_city_code": 9209,
@@ -11372,8 +11420,8 @@
         "area_city_name": "真岡市",
         "area_town_code": "92090040000",
         "area_town_name": "熊倉町",
-        "area_lat": 36.451668,
-        "area_lng": 139.993803
+        "area_lat": 36.45409,
+        "area_lng": 139.991847
     },
     {
         "area_city_code": 9209,
@@ -11538,10 +11586,18 @@
     {
         "area_city_code": 9209,
         "area_city_name": "真岡市",
+        "area_town_code": "92090056001",
+        "area_town_name": "下鶯谷一丁目",
+        "area_lat": 36.461381,
+        "area_lng": 139.992992
+    },
+    {
+        "area_city_code": 9209,
+        "area_city_name": "真岡市",
         "area_town_code": "92090057000",
         "area_town_name": "下鷺谷",
-        "area_lat": 36.467318,
-        "area_lng": 139.994128
+        "area_lat": 36.464604,
+        "area_lng": 139.994487
     },
     {
         "area_city_code": 9209,
@@ -11692,8 +11748,8 @@
         "area_city_name": "真岡市",
         "area_town_code": "92090072000",
         "area_town_name": "中郷",
-        "area_lat": 36.454136,
-        "area_lng": 140.016484
+        "area_lat": 36.453598,
+        "area_lng": 140.017567
     },
     {
         "area_city_code": 9209,
@@ -11804,8 +11860,8 @@
         "area_city_name": "真岡市",
         "area_town_code": "92090079000",
         "area_town_name": "西郷",
-        "area_lat": 36.45697,
-        "area_lng": 140.006633
+        "area_lat": 36.452738,
+        "area_lng": 140.002314
     },
     {
         "area_city_code": 9209,
@@ -12038,6 +12094,30 @@
         "area_town_name": "下大沼二丁目",
         "area_lat": 36.432324,
         "area_lng": 139.956267
+    },
+    {
+        "area_city_code": 9209,
+        "area_city_name": "真岡市",
+        "area_town_code": "92090107001",
+        "area_town_name": "下鷺谷一丁目",
+        "area_lat": 36.462012,
+        "area_lng": 139.992611
+    },
+    {
+        "area_city_code": 9209,
+        "area_city_name": "真岡市",
+        "area_town_code": "92090108001",
+        "area_town_name": "中萩一丁目",
+        "area_lat": 36.45067,
+        "area_lng": 140.014688
+    },
+    {
+        "area_city_code": 9209,
+        "area_city_name": "真岡市",
+        "area_town_code": "92090108002",
+        "area_town_name": "中萩二丁目",
+        "area_lat": 36.450613,
+        "area_lng": 140.012038
     },
     {
         "area_city_code": 9210,
@@ -13052,8 +13132,8 @@
         "area_city_name": "矢板市",
         "area_town_code": "92110016000",
         "area_town_name": "倉掛",
-        "area_lat": 36.787255,
-        "area_lng": 139.883341
+        "area_lat": 36.780553,
+        "area_lng": 139.879369
     },
     {
         "area_city_code": 9211,
@@ -13132,8 +13212,8 @@
         "area_city_name": "矢板市",
         "area_town_code": "92110026000",
         "area_town_name": "高塩",
-        "area_lat": 36.77906,
-        "area_lng": 139.904441
+        "area_lat": 36.775743,
+        "area_lng": 139.898203
     },
     {
         "area_city_code": 9211,
@@ -14828,8 +14908,8 @@
         "area_city_name": "さくら市",
         "area_town_code": "92140001000",
         "area_town_name": "氏家",
-        "area_lat": 36.686776,
-        "area_lng": 139.966872
+        "area_lat": 36.686928,
+        "area_lng": 139.966377
     },
     {
         "area_city_code": 9214,
@@ -14972,8 +15052,8 @@
         "area_city_name": "さくら市",
         "area_town_code": "92140015000",
         "area_town_name": "上阿久津",
-        "area_lat": 36.651274,
-        "area_lng": 139.960741
+        "area_lat": 36.654456,
+        "area_lng": 139.959326
     },
     {
         "area_city_code": 9214,
@@ -15198,6 +15278,46 @@
         "area_town_name": "鷲宿",
         "area_lat": 36.750863,
         "area_lng": 139.987274
+    },
+    {
+        "area_city_code": 9214,
+        "area_city_name": "さくら市",
+        "area_town_code": "92140037001",
+        "area_town_name": "きぬの里一丁目",
+        "area_lat": 36.662101,
+        "area_lng": 139.960734
+    },
+    {
+        "area_city_code": 9214,
+        "area_city_name": "さくら市",
+        "area_town_code": "92140037002",
+        "area_town_name": "きぬの里二丁目",
+        "area_lat": 36.659064,
+        "area_lng": 139.965887
+    },
+    {
+        "area_city_code": 9214,
+        "area_city_name": "さくら市",
+        "area_town_code": "92140037003",
+        "area_town_name": "きぬの里三丁目",
+        "area_lat": 36.658942,
+        "area_lng": 139.962413
+    },
+    {
+        "area_city_code": 9214,
+        "area_city_name": "さくら市",
+        "area_town_code": "92140037004",
+        "area_town_name": "きぬの里四丁目",
+        "area_lat": 36.658768,
+        "area_lng": 139.959086
+    },
+    {
+        "area_city_code": 9214,
+        "area_city_name": "さくら市",
+        "area_town_code": "92140037005",
+        "area_town_name": "きぬの里五丁目",
+        "area_lat": 36.655949,
+        "area_lng": 139.963855
     },
     {
         "area_city_code": 9215,
@@ -15884,8 +16004,8 @@
         "area_city_name": "下野市",
         "area_town_code": "92160015000",
         "area_town_name": "絹板",
-        "area_lat": 36.355876,
-        "area_lng": 139.884996
+        "area_lat": 36.360492,
+        "area_lng": 139.88226
     },
     {
         "area_city_code": 9216,
@@ -16028,8 +16148,8 @@
         "area_city_name": "下野市",
         "area_town_code": "92160026000",
         "area_town_name": "下坪山",
-        "area_lat": 36.365216,
-        "area_lng": 139.876145
+        "area_lat": 36.364669,
+        "area_lng": 139.8723
     },
     {
         "area_city_code": 9216,
@@ -16556,8 +16676,8 @@
         "area_city_name": "芳賀郡益子町",
         "area_town_code": "93420004000",
         "area_town_name": "大字大沢",
-        "area_lat": 36.486785,
-        "area_lng": 140.121883
+        "area_lat": 36.487678,
+        "area_lng": 140.121629
     },
     {
         "area_city_code": 9342,
@@ -16660,8 +16780,8 @@
         "area_city_name": "芳賀郡益子町",
         "area_town_code": "93420017000",
         "area_town_name": "大字前沢",
-        "area_lat": 36.433775,
-        "area_lng": 140.091197
+        "area_lat": 36.433463,
+        "area_lng": 140.091157
     },
     {
         "area_city_code": 9342,

@@ -60,8 +60,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010003003",
         "area_town_name": "浅岸三丁目",
-        "area_lat": 39.712412,
-        "area_lng": 141.181911
+        "area_lat": 39.71203,
+        "area_lng": 141.18267
     },
     {
         "area_city_code": 3201,
@@ -948,8 +948,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010097003",
         "area_town_name": "北飯岡三丁目",
-        "area_lat": 39.670332,
-        "area_lng": 141.13658
+        "area_lat": 39.670213,
+        "area_lng": 141.136674
     },
     {
         "area_city_code": 3201,
@@ -1532,8 +1532,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010147000",
         "area_town_name": "芋田",
-        "area_lat": 39.864613,
-        "area_lng": 141.187198
+        "area_lat": 39.858256,
+        "area_lng": 141.175923
     },
     {
         "area_city_code": 3201,
@@ -1572,8 +1572,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010152000",
         "area_town_name": "渋民",
-        "area_lat": 39.84366,
-        "area_lng": 141.182201
+        "area_lat": 39.846893,
+        "area_lng": 141.168356
     },
     {
         "area_city_code": 3201,
@@ -1876,8 +1876,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010178000",
         "area_town_name": "中太田泉田",
-        "area_lat": 39.69934,
-        "area_lng": 141.109199
+        "area_lat": 39.698845,
+        "area_lng": 141.109206
     },
     {
         "area_city_code": 3201,
@@ -1908,8 +1908,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010182000",
         "area_town_name": "中太田新田",
-        "area_lat": 39.704038,
-        "area_lng": 141.108692
+        "area_lat": 39.704226,
+        "area_lng": 141.111674
     },
     {
         "area_city_code": 3201,
@@ -2652,8 +2652,8 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010233000",
         "area_town_name": "向中野",
-        "area_lat": 39.672415,
-        "area_lng": 141.143331
+        "area_lat": 39.671824,
+        "area_lng": 141.145337
     },
     {
         "area_city_code": 3201,
@@ -2700,16 +2700,24 @@
         "area_city_name": "盛岡市",
         "area_town_code": "32010234006",
         "area_town_name": "向中野六丁目",
-        "area_lat": 39.676025,
-        "area_lng": 141.145536
+        "area_lat": 39.675289,
+        "area_lng": 141.14483
     },
     {
         "area_city_code": 3201,
         "area_city_name": "盛岡市",
         "area_town_code": "32010234007",
         "area_town_name": "向中野七丁目",
-        "area_lat": 39.67483,
-        "area_lng": 141.137583
+        "area_lat": 39.674494,
+        "area_lng": 141.138844
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010234008",
+        "area_town_name": "向中野八丁目",
+        "area_lat": 39.669908,
+        "area_lng": 141.140386
     },
     {
         "area_city_code": 3201,
@@ -3230,6 +3238,70 @@
         "area_town_name": "上鹿妻飯ノ森",
         "area_lat": 39.663985,
         "area_lng": 141.077681
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283001",
+        "area_town_name": "太田一丁目",
+        "area_lat": 39.69708,
+        "area_lng": 141.121606
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283002",
+        "area_town_name": "太田二丁目",
+        "area_lat": 39.700321,
+        "area_lng": 141.11851
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283003",
+        "area_town_name": "太田三丁目",
+        "area_lat": 39.697311,
+        "area_lng": 141.118331
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283004",
+        "area_town_name": "太田四丁目",
+        "area_lat": 39.702692,
+        "area_lng": 141.114161
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283005",
+        "area_town_name": "太田五丁目",
+        "area_lat": 39.700914,
+        "area_lng": 141.114523
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283006",
+        "area_town_name": "太田六丁目",
+        "area_lat": 39.698975,
+        "area_lng": 141.114083
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283007",
+        "area_town_name": "太田七丁目",
+        "area_lat": 39.696922,
+        "area_lng": 141.114742
+    },
+    {
+        "area_city_code": 3201,
+        "area_city_name": "盛岡市",
+        "area_town_code": "32010283008",
+        "area_town_name": "太田八丁目",
+        "area_lat": 39.702565,
+        "area_lng": 141.110299
     },
     {
         "area_city_code": 3202,
@@ -9684,8 +9756,8 @@
         "area_city_name": "釜石市",
         "area_town_code": "32110038000",
         "area_town_name": "両石町",
-        "area_lat": 39.292803,
-        "area_lng": 141.865639
+        "area_lat": 39.288256,
+        "area_lng": 141.877961
     },
     {
         "area_city_code": 3211,

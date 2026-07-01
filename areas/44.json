@@ -372,8 +372,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010015002",
         "area_town_name": "上野丘二丁目",
-        "area_lat": 33.222447,
-        "area_lng": 131.610636
+        "area_lat": 33.221688,
+        "area_lng": 131.606754
     },
     {
         "area_city_code": 44201,
@@ -596,8 +596,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010042000",
         "area_town_name": "大字荏隈",
-        "area_lat": 33.216781,
-        "area_lng": 131.575692
+        "area_lat": 33.219995,
+        "area_lng": 131.570794
     },
     {
         "area_city_code": 44201,
@@ -1156,8 +1156,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010112000",
         "area_town_name": "大字中尾",
-        "area_lat": 33.205293,
-        "area_lng": 131.552376
+        "area_lat": 33.20523,
+        "area_lng": 131.549894
     },
     {
         "area_city_code": 44201,
@@ -1356,8 +1356,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010137000",
         "area_town_name": "大字古国府",
-        "area_lat": 33.21971,
-        "area_lng": 131.612902
+        "area_lat": 33.219966,
+        "area_lng": 131.607185
     },
     {
         "area_city_code": 44201,
@@ -1420,8 +1420,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010145000",
         "area_town_name": "大字光吉",
-        "area_lat": 33.191502,
-        "area_lng": 131.600506
+        "area_lat": 33.191504,
+        "area_lng": 131.600534
     },
     {
         "area_city_code": 44201,
@@ -1548,8 +1548,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010161000",
         "area_town_name": "大字永興",
-        "area_lat": 33.220796,
-        "area_lng": 131.590803
+        "area_lat": 33.219524,
+        "area_lng": 131.5871
     },
     {
         "area_city_code": 44201,
@@ -4540,8 +4540,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010323002",
         "area_town_name": "松が丘二丁目",
-        "area_lat": 33.200194,
-        "area_lng": 131.573449
+        "area_lat": 33.198451,
+        "area_lng": 131.572906
     },
     {
         "area_city_code": 44201,
@@ -4564,8 +4564,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010324000",
         "area_town_name": "大字上宗方",
-        "area_lat": 33.200106,
-        "area_lng": 131.580675
+        "area_lat": 33.200037,
+        "area_lng": 131.580726
     },
     {
         "area_city_code": 44201,
@@ -4780,16 +4780,16 @@
         "area_city_name": "大分市",
         "area_town_code": "442010338001",
         "area_town_name": "椿が丘一丁目",
-        "area_lat": 33.194237,
-        "area_lng": 131.57045
+        "area_lat": 33.196142,
+        "area_lng": 131.572654
     },
     {
         "area_city_code": 44201,
         "area_city_name": "大分市",
         "area_town_code": "442010338002",
         "area_town_name": "椿が丘二丁目",
-        "area_lat": 33.194502,
-        "area_lng": 131.572262
+        "area_lat": 33.195552,
+        "area_lng": 131.573542
     },
     {
         "area_city_code": 44201,
@@ -4812,8 +4812,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010340001",
         "area_town_name": "上宗方南一丁目",
-        "area_lat": 33.196002,
-        "area_lng": 131.576889
+        "area_lat": 33.195942,
+        "area_lng": 131.575805
     },
     {
         "area_city_code": 44201,
@@ -5316,8 +5316,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010465000",
         "area_town_name": "上野",
-        "area_lat": 33.222462,
-        "area_lng": 131.605767
+        "area_lat": 33.224383,
+        "area_lng": 131.605726
     },
     {
         "area_city_code": 44201,
@@ -5580,8 +5580,8 @@
         "area_city_name": "大分市",
         "area_town_code": "442010480002",
         "area_town_name": "城南西二丁目",
-        "area_lat": 33.217991,
-        "area_lng": 131.579272
+        "area_lat": 33.217993,
+        "area_lng": 131.579273
     },
     {
         "area_city_code": 44201,
@@ -5680,6 +5680,54 @@
         "area_lng": 131.683099
     },
     {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010488000",
+        "area_town_name": "宗方台西",
+        "area_lat": 33.197286,
+        "area_lng": 131.574164
+    },
+    {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010489000",
+        "area_town_name": "宗方台東",
+        "area_lat": 33.197862,
+        "area_lng": 131.577133
+    },
+    {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010490000",
+        "area_town_name": "宗方台北",
+        "area_lat": 33.200162,
+        "area_lng": 131.576647
+    },
+    {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010491001",
+        "area_town_name": "深河内一丁目",
+        "area_lat": 33.216238,
+        "area_lng": 131.578833
+    },
+    {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010491002",
+        "area_town_name": "深河内二丁目",
+        "area_lat": 33.215737,
+        "area_lng": 131.578006
+    },
+    {
+        "area_city_code": 44201,
+        "area_city_name": "大分市",
+        "area_town_code": "442010491003",
+        "area_town_name": "深河内三丁目",
+        "area_lat": 33.21547,
+        "area_lng": 131.576874
+    },
+    {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020001000",
@@ -5708,32 +5756,32 @@
         "area_city_name": "別府市",
         "area_town_code": "442020004000",
         "area_town_name": "朝日ケ丘町",
-        "area_lat": 33.306963,
-        "area_lng": 131.471208
+        "area_lat": 33.306976,
+        "area_lng": 131.471428
     },
     {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020005001",
         "area_town_name": "朝見一丁目",
-        "area_lat": 33.269988,
-        "area_lng": 131.499368
+        "area_lat": 33.270002,
+        "area_lng": 131.499304
     },
     {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020005002",
         "area_town_name": "朝見二丁目",
-        "area_lat": 33.271062,
-        "area_lng": 131.493557
+        "area_lat": 33.266878,
+        "area_lng": 131.491112
     },
     {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020005003",
         "area_town_name": "朝見三丁目",
-        "area_lat": 33.272549,
-        "area_lng": 131.491204
+        "area_lat": 33.272421,
+        "area_lng": 131.491631
     },
     {
         "area_city_code": 44202,
@@ -5924,8 +5972,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020011000",
         "area_town_name": "浦田",
-        "area_lat": 33.268517,
-        "area_lng": 131.504081
+        "area_lat": 33.268275,
+        "area_lng": 131.503282
     },
     {
         "area_city_code": 44202,
@@ -5988,16 +6036,16 @@
         "area_city_name": "別府市",
         "area_town_code": "442020019000",
         "area_town_name": "大字鶴見",
-        "area_lat": 33.299999,
-        "area_lng": 131.477378
+        "area_lat": 33.301829,
+        "area_lng": 131.485149
     },
     {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020020000",
         "area_town_name": "大字浜脇",
-        "area_lat": 33.259439,
-        "area_lng": 131.490216
+        "area_lat": 33.257051,
+        "area_lng": 131.50225
     },
     {
         "area_city_code": 44202,
@@ -6028,8 +6076,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020024000",
         "area_town_name": "小倉",
-        "area_lat": 33.308313,
-        "area_lng": 131.460841
+        "area_lat": 33.312304,
+        "area_lng": 131.455452
     },
     {
         "area_city_code": 44202,
@@ -6172,8 +6220,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020040003",
         "area_town_name": "北浜三丁目",
-        "area_lat": 33.281735,
-        "area_lng": 131.505174
+        "area_lat": 33.281411,
+        "area_lng": 131.507442
     },
     {
         "area_city_code": 44202,
@@ -6372,8 +6420,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020065000",
         "area_town_name": "竹の内",
-        "area_lat": 33.303912,
-        "area_lng": 131.465473
+        "area_lat": 33.303853,
+        "area_lng": 131.465596
     },
     {
         "area_city_code": 44202,
@@ -6428,8 +6476,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020072000",
         "area_town_name": "鶴見園町",
-        "area_lat": 33.286299,
-        "area_lng": 131.478017
+        "area_lat": 33.28645,
+        "area_lng": 131.477695
     },
     {
         "area_city_code": 44202,
@@ -6556,16 +6604,16 @@
         "area_city_name": "別府市",
         "area_town_code": "442020086000",
         "area_town_name": "原町",
-        "area_lat": 33.275556,
-        "area_lng": 131.487775
+        "area_lat": 33.275449,
+        "area_lng": 131.48582
     },
     {
         "area_city_code": 44202,
         "area_city_name": "別府市",
         "area_town_code": "442020087000",
         "area_town_name": "春木",
-        "area_lat": 33.30691,
-        "area_lng": 131.489453
+        "area_lat": 33.307615,
+        "area_lng": 131.490583
     },
     {
         "area_city_code": 44202,
@@ -6574,6 +6622,22 @@
         "area_town_name": "東荘園",
         "area_lat": 33.294761,
         "area_lng": 131.486154
+    },
+    {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020088008",
+        "area_town_name": "東荘園八丁目",
+        "area_lat": 33.297412,
+        "area_lng": 131.485762
+    },
+    {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020088009",
+        "area_town_name": "東荘園九丁目",
+        "area_lat": 33.299188,
+        "area_lng": 131.483182
     },
     {
         "area_city_code": 44202,
@@ -6628,8 +6692,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020095000",
         "area_town_name": "火売",
-        "area_lat": 33.311085,
-        "area_lng": 131.470963
+        "area_lat": 33.310629,
+        "area_lng": 131.472005
     },
     {
         "area_city_code": 44202,
@@ -6652,8 +6716,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020098000",
         "area_town_name": "緑丘町",
-        "area_lat": 33.296794,
-        "area_lng": 131.489413
+        "area_lat": 33.296655,
+        "area_lng": 131.487888
     },
     {
         "area_city_code": 44202,
@@ -6668,8 +6732,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020100000",
         "area_town_name": "南荘園町",
-        "area_lat": 33.289192,
-        "area_lng": 131.480083
+        "area_lat": 33.289047,
+        "area_lng": 131.479154
     },
     {
         "area_city_code": 44202,
@@ -6684,8 +6748,8 @@
         "area_city_name": "別府市",
         "area_town_code": "442020102000",
         "area_town_name": "南的ケ浜町",
-        "area_lat": 33.283183,
-        "area_lng": 131.504099
+        "area_lat": 33.283271,
+        "area_lng": 131.504485
     },
     {
         "area_city_code": 44202,
@@ -6800,12 +6864,44 @@
         "area_lng": 131.481432
     },
     {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020117000",
+        "area_town_name": "春木町",
+        "area_lat": 33.306585,
+        "area_lng": 131.48916
+    },
+    {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020118000",
+        "area_town_name": "小倉町",
+        "area_lat": 33.309241,
+        "area_lng": 131.460894
+    },
+    {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020119000",
+        "area_town_name": "南須賀町",
+        "area_lat": 33.302418,
+        "area_lng": 131.490205
+    },
+    {
+        "area_city_code": 44202,
+        "area_city_name": "別府市",
+        "area_town_code": "442020120000",
+        "area_town_name": "南立石板地町",
+        "area_lat": 33.288537,
+        "area_lng": 131.470423
+    },
+    {
         "area_city_code": 44203,
         "area_city_name": "中津市",
         "area_town_code": "442030001000",
         "area_town_name": "字小祝",
-        "area_lat": 33.611226,
-        "area_lng": 131.186295
+        "area_lat": 33.61244,
+        "area_lng": 131.186603
     },
     {
         "area_city_code": 44203,
@@ -7712,6 +7808,14 @@
         "area_lng": 131.192752
     },
     {
+        "area_city_code": 44203,
+        "area_city_name": "中津市",
+        "area_town_code": "442030110000",
+        "area_town_name": "小祝",
+        "area_lat": 33.618039,
+        "area_lng": 131.192718
+    },
+    {
         "area_city_code": 44204,
         "area_city_name": "日田市",
         "area_town_code": "442040001000",
@@ -8388,8 +8492,8 @@
         "area_city_name": "佐伯市",
         "area_town_code": "442050001000",
         "area_town_name": "池船町",
-        "area_lat": 32.95134,
-        "area_lng": 131.894765
+        "area_lat": 32.951357,
+        "area_lng": 131.894456
     },
     {
         "area_city_code": 44205,
@@ -9520,6 +9624,62 @@
         "area_lng": 131.989417
     },
     {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050128000",
+        "area_town_name": "（大字なし）",
+        "area_lat": 32.98005,
+        "area_lng": 131.89636
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050128001",
+        "area_town_name": "女島一丁目",
+        "area_lat": 32.956593,
+        "area_lng": 131.913109
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050128002",
+        "area_town_name": "女島二丁目",
+        "area_lat": 32.960509,
+        "area_lng": 131.915256
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050128003",
+        "area_town_name": "女島三丁目",
+        "area_lat": 32.959508,
+        "area_lng": 131.920581
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050128004",
+        "area_town_name": "女島四丁目",
+        "area_lat": 32.954585,
+        "area_lng": 131.917119
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050129001",
+        "area_town_name": "新女島一丁目",
+        "area_lat": 32.950561,
+        "area_lng": 131.906299
+    },
+    {
+        "area_city_code": 44205,
+        "area_city_name": "佐伯市",
+        "area_town_code": "442050129002",
+        "area_town_name": "新女島二丁目",
+        "area_lat": 32.952171,
+        "area_lng": 131.911345
+    },
+    {
         "area_city_code": 44206,
         "area_city_name": "臼杵市",
         "area_town_code": "442060001000",
@@ -9532,8 +9692,8 @@
         "area_city_name": "臼杵市",
         "area_town_code": "442060002000",
         "area_town_name": "大字板知屋",
-        "area_lat": 33.119954,
-        "area_lng": 131.821926
+        "area_lat": 33.11984,
+        "area_lng": 131.823195
     },
     {
         "area_city_code": 44206,

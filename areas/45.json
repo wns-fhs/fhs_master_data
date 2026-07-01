@@ -332,8 +332,8 @@
         "area_city_name": "宮崎市",
         "area_town_code": "452010024000",
         "area_town_name": "大字内海",
-        "area_lat": 31.748421,
-        "area_lng": 131.439376
+        "area_lat": 31.742336,
+        "area_lng": 131.4719
     },
     {
         "area_city_code": 45201,
@@ -4228,8 +4228,8 @@
         "area_city_name": "延岡市",
         "area_town_code": "452030023000",
         "area_town_name": "岡富町",
-        "area_lat": 32.588215,
-        "area_lng": 131.659929
+        "area_lat": 32.588455,
+        "area_lng": 131.658304
     },
     {
         "area_city_code": 45203,
@@ -5660,8 +5660,8 @@
         "area_city_name": "延岡市",
         "area_town_code": "452030138000",
         "area_town_name": "古川町",
-        "area_lat": 32.588396,
-        "area_lng": 131.649324
+        "area_lat": 32.58918,
+        "area_lng": 131.649649
     },
     {
         "area_city_code": 45203,
@@ -7492,8 +7492,8 @@
         "area_city_name": "日向市",
         "area_town_code": "452060010000",
         "area_town_name": "大字日知屋",
-        "area_lat": 32.433071,
-        "area_lng": 131.644903
+        "area_lat": 32.442869,
+        "area_lng": 131.669898
     },
     {
         "area_city_code": 45206,
@@ -7780,8 +7780,8 @@
         "area_city_name": "日向市",
         "area_town_code": "452060025000",
         "area_town_name": "竹島町",
-        "area_lat": 32.44035,
-        "area_lng": 131.65808
+        "area_lat": 32.44105,
+        "area_lng": 131.661839
     },
     {
         "area_city_code": 45206,

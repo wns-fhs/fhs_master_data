@@ -1428,8 +1428,8 @@
         "area_city_name": "中央区",
         "area_town_code": "131020019001",
         "area_town_name": "八重洲一丁目",
-        "area_lat": 35.682265,
-        "area_lng": 139.770922
+        "area_lat": 35.682252,
+        "area_lng": 139.770967
     },
     {
         "area_city_code": 13102,
@@ -10060,8 +10060,8 @@
         "area_city_name": "大田区",
         "area_town_code": "131110032005",
         "area_town_name": "蒲田五丁目",
-        "area_lat": 35.561768,
-        "area_lng": 139.718337
+        "area_lat": 35.561566,
+        "area_lng": 139.717637
     },
     {
         "area_city_code": 13111,
@@ -15780,8 +15780,8 @@
         "area_city_name": "豊島区",
         "area_town_code": "131160009002",
         "area_town_name": "南池袋二丁目",
-        "area_lat": 35.726524,
-        "area_lng": 139.715008
+        "area_lat": 35.726339,
+        "area_lng": 139.715604
     },
     {
         "area_city_code": 13116,
@@ -30716,24 +30716,24 @@
         "area_city_name": "昭島市",
         "area_town_code": "132070005001",
         "area_town_name": "つつじが丘一丁目",
-        "area_lat": 35.721189,
-        "area_lng": 139.369645
+        "area_lat": 35.721075,
+        "area_lng": 139.369756
     },
     {
         "area_city_code": 13207,
         "area_city_name": "昭島市",
         "area_town_code": "132070005002",
         "area_town_name": "つつじが丘二丁目",
-        "area_lat": 35.715972,
-        "area_lng": 139.36854
+        "area_lat": 35.716003,
+        "area_lng": 139.36632
     },
     {
         "area_city_code": 13207,
         "area_city_name": "昭島市",
         "area_town_code": "132070005003",
         "area_town_name": "つつじが丘三丁目",
-        "area_lat": 35.712629,
-        "area_lng": 139.367704
+        "area_lat": 35.712908,
+        "area_lng": 139.368067
     },
     {
         "area_city_code": 13207,
@@ -30924,24 +30924,24 @@
         "area_city_name": "昭島市",
         "area_town_code": "132070014000",
         "area_town_name": "田中町",
-        "area_lat": 35.715215,
-        "area_lng": 139.363077
+        "area_lat": 35.715013,
+        "area_lng": 139.362719
     },
     {
         "area_city_code": 13207,
         "area_city_name": "昭島市",
         "area_town_code": "132070015001",
         "area_town_name": "昭和町一丁目",
-        "area_lat": 35.711028,
-        "area_lng": 139.366494
+        "area_lat": 35.711152,
+        "area_lng": 139.36632
     },
     {
         "area_city_code": 13207,
         "area_city_name": "昭島市",
         "area_town_code": "132070015002",
         "area_town_name": "昭和町二丁目",
-        "area_lat": 35.713042,
-        "area_lng": 139.360387
+        "area_lat": 35.713085,
+        "area_lng": 139.360537
     },
     {
         "area_city_code": 13207,
@@ -31028,16 +31028,16 @@
         "area_city_name": "昭島市",
         "area_town_code": "132070018001",
         "area_town_name": "美堀町一丁目",
-        "area_lat": 35.724503,
-        "area_lng": 139.366208
+        "area_lat": 35.723673,
+        "area_lng": 139.36587
     },
     {
         "area_city_code": 13207,
         "area_city_name": "昭島市",
         "area_town_code": "132070018002",
         "area_town_name": "美堀町二丁目",
-        "area_lat": 35.723084,
-        "area_lng": 139.36104
+        "area_lat": 35.722885,
+        "area_lng": 139.362258
     },
     {
         "area_city_code": 13207,
@@ -31052,8 +31052,8 @@
         "area_city_name": "昭島市",
         "area_town_code": "132070018004",
         "area_town_name": "美堀町四丁目",
-        "area_lat": 35.718485,
-        "area_lng": 139.352611
+        "area_lat": 35.718197,
+        "area_lng": 139.35287
     },
     {
         "area_city_code": 13207,
@@ -31254,6 +31254,30 @@
         "area_town_name": "中神町",
         "area_lat": 35.712393,
         "area_lng": 139.379577
+    },
+    {
+        "area_city_code": 13207,
+        "area_city_name": "昭島市",
+        "area_town_code": "132070027001",
+        "area_town_name": "代官山一丁目",
+        "area_lat": 35.719911,
+        "area_lng": 139.360681
+    },
+    {
+        "area_city_code": 13207,
+        "area_city_name": "昭島市",
+        "area_town_code": "132070027002",
+        "area_town_name": "代官山二丁目",
+        "area_lat": 35.715513,
+        "area_lng": 139.36236
+    },
+    {
+        "area_city_code": 13207,
+        "area_city_name": "昭島市",
+        "area_town_code": "132070027003",
+        "area_town_name": "代官山三丁目",
+        "area_lat": 35.716089,
+        "area_lng": 139.356783
     },
     {
         "area_city_code": 13208,
@@ -32204,8 +32228,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090002003",
         "area_town_name": "西成瀬三丁目",
-        "area_lat": 35.550798,
-        "area_lng": 139.468935
+        "area_lat": 35.550466,
+        "area_lng": 139.468849
     },
     {
         "area_city_code": 13209,
@@ -32228,16 +32252,16 @@
         "area_city_name": "町田市",
         "area_town_code": "132090003003",
         "area_town_name": "高ヶ坂三丁目",
-        "area_lat": 35.546517,
-        "area_lng": 139.460143
+        "area_lat": 35.546728,
+        "area_lng": 139.459522
     },
     {
         "area_city_code": 13209,
         "area_city_name": "町田市",
         "area_town_code": "132090003004",
         "area_town_name": "高ヶ坂四丁目",
-        "area_lat": 35.54696,
-        "area_lng": 139.464684
+        "area_lat": 35.547142,
+        "area_lng": 139.464821
     },
     {
         "area_city_code": 13209,
@@ -32300,8 +32324,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090004005",
         "area_town_name": "原町田五丁目",
-        "area_lat": 35.546276,
-        "area_lng": 139.450603
+        "area_lat": 35.546247,
+        "area_lng": 139.450408
     },
     {
         "area_city_code": 13209,
@@ -32316,8 +32340,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090005000",
         "area_town_name": "南大谷",
-        "area_lat": 35.552943,
-        "area_lng": 139.459474
+        "area_lat": 35.55572,
+        "area_lng": 139.453492
     },
     {
         "area_city_code": 13209,
@@ -33180,24 +33204,24 @@
         "area_city_name": "町田市",
         "area_town_code": "132090035003",
         "area_town_name": "東玉川学園三丁目",
-        "area_lat": 35.553962,
-        "area_lng": 139.469971
+        "area_lat": 35.553824,
+        "area_lng": 139.470021
     },
     {
         "area_city_code": 13209,
         "area_city_name": "町田市",
         "area_town_code": "132090035004",
         "area_town_name": "東玉川学園四丁目",
-        "area_lat": 35.557714,
-        "area_lng": 139.467822
+        "area_lat": 35.557462,
+        "area_lng": 139.468202
     },
     {
         "area_city_code": 13209,
         "area_city_name": "町田市",
         "area_town_code": "132090036001",
         "area_town_name": "玉川学園一丁目",
-        "area_lat": 35.55819,
-        "area_lng": 139.459247
+        "area_lat": 35.558542,
+        "area_lng": 139.458755
     },
     {
         "area_city_code": 13209,
@@ -33252,8 +33276,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090036008",
         "area_town_name": "玉川学園八丁目",
-        "area_lat": 35.557892,
-        "area_lng": 139.463837
+        "area_lat": 35.558109,
+        "area_lng": 139.463943
     },
     {
         "area_city_code": 13209,
@@ -33276,8 +33300,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090037003",
         "area_town_name": "中町三丁目",
-        "area_lat": 35.550827,
-        "area_lng": 139.449682
+        "area_lat": 35.550969,
+        "area_lng": 139.449748
     },
     {
         "area_city_code": 13209,
@@ -33324,8 +33348,8 @@
         "area_city_name": "町田市",
         "area_town_code": "132090040000",
         "area_town_name": "本町田",
-        "area_lat": 35.565021,
-        "area_lng": 139.443574
+        "area_lat": 35.565038,
+        "area_lng": 139.443545
     },
     {
         "area_city_code": 13209,
@@ -33638,6 +33662,62 @@
         "area_town_name": "藤の台三丁目",
         "area_lat": 35.572667,
         "area_lng": 139.450763
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055001",
+        "area_town_name": "南大谷一丁目",
+        "area_lat": 35.549625,
+        "area_lng": 139.456438
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055002",
+        "area_town_name": "南大谷二丁目",
+        "area_lat": 35.55152,
+        "area_lng": 139.456039
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055003",
+        "area_town_name": "南大谷三丁目",
+        "area_lat": 35.553691,
+        "area_lng": 139.454287
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055004",
+        "area_town_name": "南大谷四丁目",
+        "area_lat": 35.555864,
+        "area_lng": 139.45753
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055005",
+        "area_town_name": "南大谷五丁目",
+        "area_lat": 35.554979,
+        "area_lng": 139.465624
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055006",
+        "area_town_name": "南大谷六丁目",
+        "area_lat": 35.552286,
+        "area_lng": 139.463678
+    },
+    {
+        "area_city_code": 13209,
+        "area_city_name": "町田市",
+        "area_town_code": "132090055007",
+        "area_town_name": "南大谷七丁目",
+        "area_lat": 35.550168,
+        "area_lng": 139.461275
     },
     {
         "area_city_code": 13210,
@@ -37204,8 +37284,8 @@
         "area_city_name": "狛江市",
         "area_town_code": "132190011002",
         "area_town_name": "西和泉二丁目",
-        "area_lat": 35.636873,
-        "area_lng": 139.563945
+        "area_lat": 35.637115,
+        "area_lng": 139.564008
     },
     {
         "area_city_code": 13220,
@@ -40124,8 +40204,8 @@
         "area_city_name": "稲城市",
         "area_town_code": "132250004004",
         "area_town_name": "平尾四丁目",
-        "area_lat": 35.613744,
-        "area_lng": 139.483168
+        "area_lat": 35.615059,
+        "area_lng": 139.483171
     },
     {
         "area_city_code": 13225,
@@ -40140,8 +40220,8 @@
         "area_city_name": "稲城市",
         "area_town_code": "132250006000",
         "area_town_name": "坂浜",
-        "area_lat": 35.625278,
-        "area_lng": 139.486638
+        "area_lat": 35.620456,
+        "area_lng": 139.488397
     },
     {
         "area_city_code": 13225,
@@ -40220,24 +40300,24 @@
         "area_city_name": "稲城市",
         "area_town_code": "132250011003",
         "area_town_name": "坂浜三丁目",
-        "area_lat": 35.619467,
-        "area_lng": 139.487593
+        "area_lat": 35.619024,
+        "area_lng": 139.487956
     },
     {
         "area_city_code": 13225,
         "area_city_name": "稲城市",
         "area_town_code": "132250011004",
         "area_town_name": "坂浜四丁目",
-        "area_lat": 35.618629,
-        "area_lng": 139.48393
+        "area_lat": 35.618291,
+        "area_lng": 139.483799
     },
     {
         "area_city_code": 13225,
         "area_city_name": "稲城市",
         "area_town_code": "132250011005",
         "area_town_name": "坂浜五丁目",
-        "area_lat": 35.617451,
-        "area_lng": 139.480275
+        "area_lat": 35.61741,
+        "area_lng": 139.480285
     },
     {
         "area_city_code": 13227,
@@ -42436,8 +42516,8 @@
         "area_city_name": "大島町",
         "area_town_code": "133610002000",
         "area_town_name": "元町",
-        "area_lat": 34.760865,
-        "area_lng": 139.372436
+        "area_lat": 34.765562,
+        "area_lng": 139.367474
     },
     {
         "area_city_code": 13361,
@@ -42452,8 +42532,8 @@
         "area_city_name": "大島町",
         "area_town_code": "133610004001",
         "area_town_name": "元町一丁目",
-        "area_lat": 34.75306,
-        "area_lng": 139.354013
+        "area_lat": 34.752773,
+        "area_lng": 139.354136
     },
     {
         "area_city_code": 13361,

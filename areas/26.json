@@ -44064,6 +44064,14 @@
         "area_lng": 135.405973
     },
     {
+        "area_city_code": 26202,
+        "area_city_name": "舞鶴市",
+        "area_town_code": "262020188000",
+        "area_town_name": "余部下和田",
+        "area_lat": 35.477401,
+        "area_lng": 135.350113
+    },
+    {
         "area_city_code": 26203,
         "area_city_name": "綾部市",
         "area_town_code": "262030001000",
@@ -46604,8 +46612,8 @@
         "area_city_name": "亀岡市",
         "area_town_code": "262060033000",
         "area_town_name": "篠町王子",
-        "area_lat": 34.997731,
-        "area_lng": 135.631456
+        "area_lat": 34.993305,
+        "area_lng": 135.617307
     },
     {
         "area_city_code": 26206,
@@ -46620,8 +46628,8 @@
         "area_city_name": "亀岡市",
         "area_town_code": "262060035000",
         "area_town_name": "篠町篠",
-        "area_lat": 34.991371,
-        "area_lng": 135.606095
+        "area_lat": 34.994038,
+        "area_lng": 135.610283
     },
     {
         "area_city_code": 26206,
@@ -46748,8 +46756,8 @@
         "area_city_name": "亀岡市",
         "area_town_code": "262060043001",
         "area_town_name": "篠町夕日ケ丘一丁目",
-        "area_lat": 34.996833,
-        "area_lng": 135.6097
+        "area_lat": 34.996108,
+        "area_lng": 135.61008
     },
     {
         "area_city_code": 26206,
@@ -46766,6 +46774,14 @@
         "area_town_name": "篠町夕日ケ丘三丁目",
         "area_lat": 34.99756,
         "area_lng": 135.607088
+    },
+    {
+        "area_city_code": 26206,
+        "area_city_name": "亀岡市",
+        "area_town_code": "262060043004",
+        "area_town_name": "篠町夕陽ケ丘四丁目",
+        "area_lat": 34.993638,
+        "area_lng": 135.613154
     },
     {
         "area_city_code": 26206,
@@ -46972,8 +46988,8 @@
         "area_city_name": "亀岡市",
         "area_town_code": "262060062000",
         "area_town_name": "千代川町小林",
-        "area_lat": 35.040799,
-        "area_lng": 135.551253
+        "area_lat": 35.040946,
+        "area_lng": 135.553168
     },
     {
         "area_city_code": 26206,
@@ -46996,8 +47012,8 @@
         "area_city_name": "亀岡市",
         "area_town_code": "262060065000",
         "area_town_name": "千代川町高野林",
-        "area_lat": 35.044109,
-        "area_lng": 135.550351
+        "area_lat": 35.04375,
+        "area_lng": 135.548545
     },
     {
         "area_city_code": 26206,
@@ -47710,6 +47726,14 @@
         "area_town_name": "稗田野町",
         "area_lat": 35.013515,
         "area_lng": 135.531941
+    },
+    {
+        "area_city_code": 26206,
+        "area_city_name": "亀岡市",
+        "area_town_code": "262060138000",
+        "area_town_name": "千代川町明晴",
+        "area_lat": 35.04178,
+        "area_lng": 135.549075
     },
     {
         "area_city_code": 26207,
@@ -58572,8 +58596,8 @@
         "area_city_name": "南丹市",
         "area_town_code": "262130119000",
         "area_town_name": "八木町八木",
-        "area_lat": 35.066042,
-        "area_lng": 135.528848
+        "area_lat": 35.070327,
+        "area_lng": 135.525022
     },
     {
         "area_city_code": 26213,
@@ -58638,6 +58662,46 @@
         "area_town_name": "園部町内林町",
         "area_lat": 35.12,
         "area_lng": 135.476777
+    },
+    {
+        "area_city_code": 26213,
+        "area_city_name": "南丹市",
+        "area_town_code": "262130128001",
+        "area_town_name": "新町一丁目",
+        "area_lat": 35.068438,
+        "area_lng": 135.532574
+    },
+    {
+        "area_city_code": 26213,
+        "area_city_name": "南丹市",
+        "area_town_code": "262130128002",
+        "area_town_name": "新町二丁目",
+        "area_lat": 35.067858,
+        "area_lng": 135.531331
+    },
+    {
+        "area_city_code": 26213,
+        "area_city_name": "南丹市",
+        "area_town_code": "262130128003",
+        "area_town_name": "新町三丁目",
+        "area_lat": 35.068822,
+        "area_lng": 135.530682
+    },
+    {
+        "area_city_code": 26213,
+        "area_city_name": "南丹市",
+        "area_town_code": "262130128004",
+        "area_town_name": "新町四丁目",
+        "area_lat": 35.070067,
+        "area_lng": 135.529315
+    },
+    {
+        "area_city_code": 26213,
+        "area_city_name": "南丹市",
+        "area_town_code": "262130128005",
+        "area_town_name": "新町五丁目",
+        "area_lat": 35.069565,
+        "area_lng": 135.528529
     },
     {
         "area_city_code": 26214,

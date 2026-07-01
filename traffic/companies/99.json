@@ -65,6 +65,9 @@
     "26": {
         "company_name": "西日本鉄道"
     },
+    "100": {
+        "company_name": "舞浜リゾートライン"
+    },
     "101": {
         "company_name": "札幌市交通局"
     },
@@ -216,7 +219,7 @@
         "company_name": "東葉高速鉄道"
     },
     "151": {
-        "company_name": "箱根登山鉄道"
+        "company_name": "小田急箱根"
     },
     "152": {
         "company_name": "北総鉄道"
